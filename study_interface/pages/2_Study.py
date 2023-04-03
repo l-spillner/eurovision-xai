@@ -103,6 +103,18 @@ if not (Counter(user_predictions.values())["WINNER"] == 5 and Counter(user_predi
 	st.sidebar.write('You need to pick 5 winners and 5 losers.')
 else:
 	st.sidebar.write('You have picked 5 winner and 5 losers!   \n Are you happy with your selection?   \n If yes, click "Continue".')
+	if st.sidebar.button('Continue'):
+		successcounter = 0
+		for k in user_predictions.keys():
+			if not df.loc[k]["is_last"] and user_predictions[k] == "WINNER":
+				successcounter = successcounter+1
+			elif df.loc[k]["is_last"] and user_predictions[k] == "LOSER":
+				successcounter = successcounter+1
+			else:
+				st.sidebar.write('You were wrong about ' + df.loc[k]["song"] + ', it was actually a winner') if user_predictions[k] == "LOSER" else st.sidebar.write('You were wrong about ' + df.loc[k]["song"] + ', it was actually a loser')
+				
+		st.sidebar.write('You were right about ' +  str(successcounter) + ' songs!')
+
 
 
 
