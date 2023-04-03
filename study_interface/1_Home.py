@@ -34,10 +34,11 @@ data_path = os.path.join(project_path, "data.csv")
 
 st.write("This is the data:")
 
-df = pd.read_csv(data_path, sep = "\t")
+df = pd.read_csv(data_path, sep = "\t", index_col = 0)
+st.session_state.data = df
 st.write(df)
 
-st.write("Now comes the interactive part...")
+st.write("But participants wouldn't actually see this. Instead, this page could be intro and explanations and stuff like that.")
 
 
 
