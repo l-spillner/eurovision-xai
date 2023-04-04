@@ -82,17 +82,14 @@ for s in songs:
 
 		if choice == "":
 			st.markdown(f'**{song["song"]}**   \n by *{song["performer"]}* from {song["to_country"]}')
-			st.video(song["youtube_url"])
 			with st.expander(lyrics.split("\n")[0] + "[...]"):
 				st.markdown(f'{lyrics}')
 		elif choice == "WINNER":
 			st.success(f'**{song["song"]}**   \n by *{song["performer"]}* from {song["to_country"]}')
-			st.video(song["youtube_url"])
 			with st.expander(lyrics.split("\n")[0] + "[...]"):
 				st.success(f'{lyrics}')
 		elif choice == "LOSER":
 			st.error(f'**{song["song"]}**   \n by *{song["performer"]}* from {song["to_country"]}')
-			st.video(song["youtube_url"])
 			with st.expander(lyrics.split("\n")[0] + "[...]"):
 				st.error(f'{lyrics}')
 
@@ -109,7 +106,7 @@ else:
 	if st.sidebar.button('Continue'):
 		successcounter = 0
 		for k in user_predictions.keys():
-			with open('resultsVideo.csv', 'a+') as f:
+			with open('resultsNoVideo.csv', 'a+') as f:
 				isLast = df.loc[k]["is_last"]
 				f.write(f"{k},{isLast},{user_predictions[k]}\n")
 			if not df.loc[k]["is_last"] and user_predictions[k] == "WINNER":
