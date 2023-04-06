@@ -59,8 +59,8 @@ df = st.session_state.data
 
 if not "songs" in st.session_state:
 
-	winners = random.sample(list(df[df["is_last"] == False].index), 5)
-	losers = random.sample(list(df[df["is_last"] == True].index), 5)
+	winners = random.sample(list(df[df["is_last"] == False & df["spotify_url"].str.contains('open.spotify.com')].index), 5)
+	losers = random.sample(list(df[df["is_last"] == True & df["spotify_url"].str.contains('open.spotify.com')].index), 5)
 
 	songs = winners + losers
 	random.shuffle(songs)
@@ -76,11 +76,13 @@ user_predictions = {}
 
 for s in songs:
 
-	col1, col2 = st.columns([1, 3])
+	#col1, col2 = st.columns([1, 3])
+	col1, col2, col3 = st.columns([2, 5, 4])
 
 	song = df.loc[s]
 	#lyrics = song["lyrics"].replace("\n", "   \n") 
 	lyrics = song["lyrics"].replace("\n", "<br>") 
+	spotifyLink = song["spotify_url"]
 
 	with col1:
 
@@ -113,6 +115,13 @@ for s in songs:
 		#	st.error(f'**{song["song"]}**   \n by *{song["performer"]}* from {song["to_country"]}')
 		#	with st.expander(lyrics.split("\n")[0] + "[...]"):
 		#		st.error(f'{lyrics}')
+
+	with col3:
+
+		components.html(
+			f"""
+			<iframe style="border-radius:12px" src="{spotifyLink}" width="250" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>"""
+			)
 
 	st.markdown("---")
 

@@ -83,6 +83,7 @@ for s in songs:
 	song = df.loc[s]
 	#lyrics = song["lyrics"].replace("\n", "   \n") 
 	lyrics = song["lyrics"].replace("\n", "<br>") 
+	spotifyLink = song["spotify_url"]
 
 	with col1:
 
@@ -122,10 +123,9 @@ for s in songs:
 
 	with col3:
 
-		st.write("This is where the audio goes.")
 		components.html(
-			"""
-			<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6bk11TH82XrT5QUC1gDw9A?utm_source=generator" width="250" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>"""
+			f"""
+			<iframe style="border-radius:12px" src="{spotifyLink}" width="250" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>"""
 			)
 
 	ai_choice = ai_prediction[s]
