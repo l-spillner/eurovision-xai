@@ -34,7 +34,7 @@ data_path = os.path.join(project_path, "data.csv")
 
 ############################################################ MAIN ############################################################
 
-st.markdown("### [BETA] Review your choices with AI4Eurovision!")
+st.markdown("### [BETA] Review your choices with ABBA-cadabra!")
 
 st.markdown('''Before submitting your selection, you can review your choices with our AI-based winner prediction tool.
 Our AI predicts whether a song will be a winner or a loser at Eurovision based on the arist and their country of origin, as well as the lyrics of the song.
@@ -81,7 +81,8 @@ for s in songs:
 	col1, col2, col3 = st.columns([2, 5, 3])
 
 	song = df.loc[s]
-	lyrics = song["lyrics"].replace("\n", "   \n") 
+	#lyrics = song["lyrics"].replace("\n", "   \n") 
+	lyrics = song["lyrics"].replace("\n", "<br>") 
 
 	with col1:
 
@@ -100,27 +101,19 @@ for s in songs:
 
 		if choice == "LOSER":
 			st.error(f'**{song["song"]}**   \n by *{song["performer"]}* from {song["to_country"]}')
+			#components.html("""<div style="overflow-y: scroll; height:400px;">{lyrics}</div>""")
 			#with st.expander(lyrics.split("\n")[0] + "[...]"):
 				#st.error(f'{lyrics}')
 			components.html(
-				#f"""
-				#<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-				#<div class="overflow-auto">{lyrics}</div>	
-				#<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-				#<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-				#<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>				
-				#"""
-	f"""
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <div class="overflow-auto">{lyrics}</div>
-    """
-				)
+				f"""<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+				<div class="overflow-auto p-3 mb-3 mb-md-0 me-md-3 bg-dark text-white" style="max-height: 150px;">{lyrics}</div>""")
 		elif choice == "WINNER":
 			st.success(f'**{song["song"]}**   \n by *{song["performer"]}* from {song["to_country"]}')
-			with st.expander(lyrics.split("\n")[0] + "[...]"):
-				st.success(f'{lyrics}')
+			#with st.expander(lyrics.split("\n")[0] + "[...]"):
+			#	st.success(f'{lyrics}')
+			components.html(
+				f"""<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+				<div class="overflow-auto p-3 mb-3 mb-md-0 me-md-3 bg-dark text-white" style="max-height: 150px;">{lyrics}</div>""")
 
 		#elif choice == "LOSER":
 		#	st.error(f'**{song["song"]}**   \n by *{song["performer"]}* from {song["to_country"]}')

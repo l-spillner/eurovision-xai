@@ -79,7 +79,8 @@ for s in songs:
 	col1, col2 = st.columns([1, 3])
 
 	song = df.loc[s]
-	lyrics = song["lyrics"].replace("\n", "   \n") 
+	#lyrics = song["lyrics"].replace("\n", "   \n") 
+	lyrics = song["lyrics"].replace("\n", "<br>") 
 
 	with col1:
 
@@ -96,12 +97,18 @@ for s in songs:
 
 		if choice == "LOSER":
 			st.markdown(f'**{song["song"]}**   \n by *{song["performer"]}* from {song["to_country"]}')
-			with st.expander(lyrics.split("\n")[0] + "[...]"):
-				st.markdown(f'{lyrics}')
+			components.html(
+				f"""<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+				<div class="overflow-auto p-3 mb-3 mb-md-0 me-md-3 bg-dark text-white" style="max-height: 150px;">{lyrics}</div>""")
+			#with st.expander(lyrics.split("\n")[0] + "[...]"):
+			#	st.markdown(f'{lyrics}')
 		elif choice == "WINNER":
 			st.success(f'**{song["song"]}**   \n by *{song["performer"]}* from {song["to_country"]}')
-			with st.expander(lyrics.split("\n")[0] + "[...]"):
-				st.success(f'{lyrics}')
+			components.html(
+				f"""<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+				<div class="overflow-auto p-3 mb-3 mb-md-0 me-md-3 bg-dark text-white" style="max-height: 150px;">{lyrics}</div>""")
+			#with st.expander(lyrics.split("\n")[0] + "[...]"):
+			#	st.success(f'{lyrics}')
 		#elif choice == "LOSER":
 		#	st.error(f'**{song["song"]}**   \n by *{song["performer"]}* from {song["to_country"]}')
 		#	with st.expander(lyrics.split("\n")[0] + "[...]"):
