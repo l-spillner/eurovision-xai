@@ -50,7 +50,7 @@ data_path = os.path.join(project_path, "data.csv")
 
 st.markdown("### Winner or Loser?")
 
-st.markdown('''Here you can see 10 randomly chosen Eurovision candidate songs. Your task is to choose for each song whether it will be a winner (first place) or a loser (last place).r
+st.markdown('''Here you can see 10 randomly chosen Eurovision candidate songs. Your task is to choose for each song whether it will be a winner (first place) or a loser (last place).
 Below, you can see for each song which country the singer is from, read the lyrics, and listen to a 20 second preview of the song itself. All of the songs are in the native language of their country. As the songs are chosen randomly, there are not necessarily five winners and five losers. Hint: Scroll down in the lyrics to read the rest!
 
 As a thank you for participating in our study, you get a betting budget of 5€. You will wager 50ct on each choice - in the end, you will get the money only for those songs that you predicted correctly. If you get all songs correct, you can get 5€.

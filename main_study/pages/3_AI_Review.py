@@ -8,6 +8,7 @@ import io
 import streamlit as st
 import streamlit.components.v1 as components
 from annotated_text import annotated_text
+from streamlit_extras.switch_page_button import switch_page
 
 import requests
 
@@ -23,6 +24,8 @@ from collections import Counter
 ############################################################ Settings
 
 st.set_page_config(layout="wide")
+c_green = "#AD9"
+c_red = "#FA9"
 
 # hides the first option in a radio group
 # note: this applies to ALL radio groups across the app; it cannot be done for an individual button!
@@ -103,9 +106,8 @@ else:
 	ai_prediction = {s:(df.loc[s, "true_label"] if not s in ai_wrong else switch_label[df.loc[s, "true_label"]]) for s in songs}
 
 sample_df["ai_prediction"] = pd.Series(ai_prediction)
-#st.write(user_accuracy)
-#st.write(ai_prediction)
-#st.write(sample_df)
+st.write("DEBUG:")
+st.write(sample_df)
 
 ############################################################ display songs 
 
@@ -124,10 +126,11 @@ for s in songs:
 
 		st.write("Your first prediction was:")
 		if user_predictions[s] == "WINNER":
-			annotated_text((user_predictions[s], "", "#8FD07D"))
+			annotated_text((user_predictions[s], "", c_green))
 		else:
-			annotated_text((user_predictions[s], "", "#FBAB9D"))
+			annotated_text((user_predictions[s], "", c_red))
 
+		st.write("")
 		choice = st.radio("Winner or loser?", ["", "WINNER", "LOSER"], key = str(s), index = 1 if user_predictions[s] == "WINNER" else 2)
 
 		final_user_predictions[s] = choice
@@ -180,27 +183,50 @@ for s in songs:
 			<iframe style="border-radius:12px" src="{spotifyLink}" width="250" height="250" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>""", height = 260
 			)
 
-	ai_choice = ai_prediction[s]
-	ai_explanation = df.loc[s, "explanation_correct"] if isinstance(df.loc[s, "explanation_correct"], str) else df.loc[s, "explanation_incorrect"]
+	colB1, colB2 = st.columns([2, 8])
 
-	if ai_choice == "WINNER":
-		annotated_text("AI prediction: ", (ai_choice, "", "#8FD07D"))
-	else:
-		annotated_text("AI prediction: ", (ai_choice, "", "#FBAB9D"))
+	with colB2:
 
-	#st.markdown(f'AI prediction: {ai_choice}')
-	st.markdown(f'*Explanation*:   \n {ai_explanation}')
+		ai_choice = ai_prediction[s]
+		if (ai_choice == df.loc[s, "true_label"]):
+			ai_explanation = df.loc[s, "explanation_correct"]
+		else:
+			ai_explanation = df.loc[s, "explanation_incorrect"]
+
+		#ai_explanation = df.loc[s, "explanation_correct"] if isinstance(df.loc[s, "explanation_correct"], str) else df.loc[s, "explanation_incorrect"]
+
+		if ai_choice == "WINNER":
+			annotated_text("AI prediction: ", (ai_choice, "", c_green))
+		else:
+			annotated_text("AI prediction: ", (ai_choice, "", c_red))
+
+		#st.markdown(f'AI prediction: {ai_choice}')
+		st.write("")
+		st.markdown(f'*Explanation*:   \n {ai_explanation}')
 
 	st.markdown("---")
 
 st.sidebar.write("Your choices so far:")
 #st.sidebar.write(Counter(user_predictions.values()))
-st.sidebar.write("Winners:", Counter(user_predictions.values())["WINNER"])
-st.sidebar.write("Losers:", Counter(user_predictions.values())["LOSER"])
-if not (Counter(user_predictions.values())["WINNER"] == 5 and Counter(user_predictions.values())["LOSER"] == 5):
-	st.sidebar.write('You need to pick 5 winners and 5 losers.')
+counts = Counter(user_predictions.values())
+st.sidebar.write("Winners:", counts["WINNER"])
+st.sidebar.write("Losers:", counts["LOSER"])
+if not (counts["WINNER"] + counts["LOSER"] == 10):
+	st.sidebar.write('You need to make a choice for all 10 songs.')
 else:
-	st.sidebar.write('You have picked 5 winner and 5 losers!   \n Are you happy with your selection?   \n If yes, click "Continue".')
+	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n Are you happy with your selection?   \n If yes, click "Continue".')
 
+	st.session_state.user_predictions = user_predictions
+
+	next_page = st.sidebar.button("Continue")
+	if next_page:
+	    switch_page("Questionnaire")
+
+# debug info in sidebar:
+
+st.sidebar.write("DEBUG - REMOVE FOR FINAL VERSION:r")
+st.sidebar.write("User accuracy:", len(user_accuracy))
+st.sidebar.write("Ai will try to misinform for:", len(ai_misinform))
+st.sidebar.write("In total, AI will be wrong for:", len(ai_wrong))
 
 
