@@ -9,6 +9,8 @@ import streamlit as st
 import streamlit.components.v1 as components
 from streamlit_extras.switch_page_button import switch_page
 
+import os
+
 import requests
 
 import math
@@ -43,7 +45,10 @@ data_path = os.path.join(project_path, "data.csv")
 
 ############################################################ Public functions
 
+    
 
+
+    
 
 
 ############################################################ MAIN ############################################################
@@ -151,10 +156,18 @@ else:
 	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n Are you happy with your selection?   \n If yes, click "Continue".')
 
 	st.session_state.user_predictions = user_predictions
-
+	id = 0
+	while os.path.exists(str(id)+'.csv'):
+		id = id + 1 
+	filename = str(id) + '.csv'
+	st.session_state.filename = filename
 	next_page = st.sidebar.button("Continue")
 	if next_page:
-	    switch_page("AI_Review")
+		for k in user_predictions.keys():
+			with open(filename, 'a+') as f:
+				isLast = df.loc[k]["is_last"]
+				f.write(f"{k},{isLast},{user_predictions[k]}\n")
+		switch_page("AI_Review")
 
 
 

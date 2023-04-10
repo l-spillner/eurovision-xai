@@ -74,6 +74,7 @@ Please go through your selection again, and look at the AI predictions. Your pri
 df = st.session_state.data
 songs = st.session_state.songs
 user_predictions = st.session_state.user_predictions
+filename = st.session_state.filename
 
 df["true_label"] = ["WINNER" if not l else "LOSER" for l in df["is_last"]]
 df["user_prediction"] = pd.Series(user_predictions)
@@ -220,7 +221,11 @@ else:
 
 	next_page = st.sidebar.button("Continue")
 	if next_page:
-	    switch_page("Questionnaire")
+		for k in user_predictions.keys():
+			with open(filename, 'a+') as f:
+				isLast = df.loc[k]["is_last"]
+				f.write(f"{k},{isLast},{user_predictions[k]}\n")
+		switch_page("Questionnaire")
 
 # debug info in sidebar:
 
