@@ -22,7 +22,7 @@ from collections import Counter
 
 ############################################################ Public variables
 
-st.set_page_config(layout="centered")
+st.set_page_config(layout="wide")
 
 # paths
 project_path = os.path.dirname(__file__) or '.'
