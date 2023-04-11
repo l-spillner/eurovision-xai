@@ -39,6 +39,13 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+no_sidebar_style = """
+    <style>
+        div[data-testid="stSidebarNav"] {display: none;}
+    </style>
+"""
+st.markdown(no_sidebar_style, unsafe_allow_html=True)
+
 ############################################################ Public variables
 
 # paths
@@ -74,7 +81,7 @@ Please go through your selection again, and look at the AI predictions. Your pri
 df = st.session_state.data
 songs = st.session_state.songs
 user_predictions = st.session_state.user_predictions
-filename = st.session_state.filename
+#filename = st.session_state.filename
 
 df["true_label"] = ["WINNER" if not l else "LOSER" for l in df["is_last"]]
 df["user_prediction"] = pd.Series(user_predictions)
@@ -86,29 +93,36 @@ sample_df = df.loc[songs]
 # count how often user is right
 user_accuracy = list(sample_df[sample_df["true_label"] == sample_df["user_prediction"]].index)
 
-# if user is right less than half the time, put AI to 50% and decide randomly
-if len(user_accuracy) < 5:
-	ai_correct = random.sample(songs, 5)
-	ai_prediction = {s:(df.loc[s, "true_label"] if s in ai_correct else switch_label[df.loc[s, "true_label"]]) for s in songs}
+if not "ai_predictions" in st.session_state:
 
-# otherwise, put ai to 50% and make sure that there are some instances where the user was right in which the ai should be wrong
-else:
-	# how many of the songs that the user predicted correctly should the AI predict incorrectly? lets say half?
-	ai_num_misinform = int(len(user_accuracy)/2)
-	# out of the ones where the user was right, pick this many
-	ai_misinform = random.sample(list(sample_df[sample_df["true_label"] == sample_df["user_prediction"]].index), ai_num_misinform)
-	# out of the ones where the user was wrong, pick some more for the ai to be wrong so that it's five in total
-	if ai_num_misinform < 5:
-		ai_other_wrong = random.sample(list(sample_df[sample_df["true_label"] != sample_df["user_prediction"]].index), 5-ai_num_misinform)
-		ai_wrong = ai_misinform + ai_other_wrong
+	# if user is right less than half the time, put AI to 50% and decide randomly
+	if len(user_accuracy) < 5:
+		ai_correct = random.sample(songs, 5)
+		ai_prediction = {s:(df.loc[s, "true_label"] if s in ai_correct else switch_label[df.loc[s, "true_label"]]) for s in songs}
+
+	# otherwise, put ai to 50% and make sure that there are some instances where the user was right in which the ai should be wrong
 	else:
-		ai_wrong = ai_misinform
+		# how many of the songs that the user predicted correctly should the AI predict incorrectly? lets say half?
+		ai_num_misinform = int(len(user_accuracy)/2)
+		# out of the ones where the user was right, pick this many
+		ai_misinform = random.sample(list(sample_df[sample_df["true_label"] == sample_df["user_prediction"]].index), ai_num_misinform)
+		# out of the ones where the user was wrong, pick some more for the ai to be wrong so that it's five in total
+		if ai_num_misinform < 5:
+			ai_other_wrong = random.sample(list(sample_df[sample_df["true_label"] != sample_df["user_prediction"]].index), 5-ai_num_misinform)
+			ai_wrong = ai_misinform + ai_other_wrong
+		else:
+			ai_wrong = ai_misinform
 
-	ai_prediction = {s:(df.loc[s, "true_label"] if not s in ai_wrong else switch_label[df.loc[s, "true_label"]]) for s in songs}
+		ai_prediction = {s:(df.loc[s, "true_label"] if not s in ai_wrong else switch_label[df.loc[s, "true_label"]]) for s in songs}
+
+	st.session_state.ai_predictions = ai_prediction
+
+else:
+	ai_prediction = st.session_state.ai_predictions
 
 sample_df["ai_prediction"] = pd.Series(ai_prediction)
-st.write("DEBUG:")
-st.write(sample_df)
+#st.write("DEBUG:")
+#st.write(sample_df)
 
 ############################################################ display songs 
 
@@ -189,6 +203,7 @@ for s in songs:
 	with colB2:
 
 		ai_choice = ai_prediction[s]
+
 		if (ai_choice == df.loc[s, "true_label"]):
 			ai_explanation = df.loc[s, "explanation_correct"]
 		else:
@@ -203,35 +218,65 @@ for s in songs:
 
 		#st.markdown(f'AI prediction: {ai_choice}')
 		st.write("")
-		st.markdown(f'*Explanation*:   \n {ai_explanation}')
+		if ai_choice == final_user_predictions[s]:
+			with st.expander("Explanation"):
+				st.markdown(f'{ai_explanation}')
+		else:
+			st.markdown(f'*Explanation*:   \n {ai_explanation}')
 
 	st.markdown("---")
 
+sample_df["final_user_prediction"] = pd.Series(final_user_predictions)
+agrees = list(sample_df[sample_df["ai_prediction"] == sample_df["final_user_prediction"]].index)
+agree_counter = len(agrees)
+
+############################################################ sidebar
+
+st.sidebar.write("")
+st.sidebar.write("")
+st.sidebar.write("")
+st.sidebar.write("")
+st.sidebar.write("")
+st.sidebar.write("")
+
 st.sidebar.write("Your choices so far:")
 #st.sidebar.write(Counter(user_predictions.values()))
-counts = Counter(user_predictions.values())
+counts = Counter(final_user_predictions.values())
 st.sidebar.write("Winners:", counts["WINNER"])
 st.sidebar.write("Losers:", counts["LOSER"])
 if not (counts["WINNER"] + counts["LOSER"] == 10):
 	st.sidebar.write('You need to make a choice for all 10 songs.')
 else:
-	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n Are you happy with your selection?   \n If yes, click "Continue".')
+	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n ABBA-cadabra agrees with {agree_counter} of your choices.   \n    \n Are you happy with your selection?   \n If yes, click "Continue".')
 
-	st.session_state.user_predictions = user_predictions
+	id = 0
+	while os.path.exists(str(id)+'.csv'):
+		id = id + 1 
+	filename = str(id) + '.csv'
+	st.session_state.filename = filename
+	st.session_state.final_user_predictions = final_user_predictions
 
-	next_page = st.sidebar.button("Continue")
+	next_page = st.sidebar.button("Continue", key = 3)
 	if next_page:
 		for k in user_predictions.keys():
 			with open(filename, 'a+') as f:
 				isLast = df.loc[k]["is_last"]
-				f.write(f"{k},{isLast},{user_predictions[k]}\n")
+				f.write(f"{k},{isLast},{user_predictions[k]},{final_user_predictions[k]}\n")
 		switch_page("Questionnaire")
+
+	# next_page = st.sidebar.button("Continue", key = 3)
+	# if next_page:
+	# 	for k in user_predictions.keys():
+	# 		with open(filename, 'a+') as f:
+	# 			isLast = df.loc[k]["is_last"]
+	# 			f.write(f"{k},{isLast},{user_predictions[k]}\n")
+	
 
 # debug info in sidebar:
 
-st.sidebar.write("DEBUG - REMOVE FOR FINAL VERSION:r")
-st.sidebar.write("User accuracy:", len(user_accuracy))
-st.sidebar.write("Ai will try to misinform for:", len(ai_misinform))
-st.sidebar.write("In total, AI will be wrong for:", len(ai_wrong))
+#st.sidebar.write("DEBUG - REMOVE FOR FINAL VERSION:r")
+#st.sidebar.write("User accuracy:", len(user_accuracy))
+#st.sidebar.write("Ai will try to misinform for:", len(ai_misinform))
+#st.sidebar.write("In total, AI will be wrong for:", len(ai_wrong))
 
 

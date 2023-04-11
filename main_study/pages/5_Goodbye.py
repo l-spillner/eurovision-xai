@@ -27,6 +27,13 @@ st.set_page_config(layout="wide")
 c_green = "#AD9"
 c_red = "#FA9"
 
+no_sidebar_style = """
+	<style>
+        div[data-testid="stSidebarNav"] {pointer-events: none; cursor: default; height = 200px}
+    </style>
+"""
+st.markdown(no_sidebar_style, unsafe_allow_html=True)
+
 ############################################################ Public variables
 
 ############################################################ Public functions

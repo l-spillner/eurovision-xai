@@ -37,6 +37,13 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+no_sidebar_style = """
+    <style>
+        div[data-testid="stSidebarNav"] {display: none;}
+    </style>
+"""
+st.markdown(no_sidebar_style, unsafe_allow_html=True)
+
 ############################################################ Public variables
 
 # paths
@@ -145,6 +152,15 @@ for s in songs:
 
 	st.markdown("---")
 
+############################################################ sidebar
+
+st.sidebar.write("")
+st.sidebar.write("")
+st.sidebar.write("")
+st.sidebar.write("")
+st.sidebar.write("")
+st.sidebar.write("")
+
 st.sidebar.write("Your choices so far:")
 #st.sidebar.write(Counter(user_predictions.values()))
 counts = Counter(user_predictions.values())
@@ -156,17 +172,17 @@ else:
 	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n Are you happy with your selection?   \n If yes, click "Continue".')
 
 	st.session_state.user_predictions = user_predictions
-	id = 0
-	while os.path.exists(str(id)+'.csv'):
-		id = id + 1 
-	filename = str(id) + '.csv'
-	st.session_state.filename = filename
-	next_page = st.sidebar.button("Continue")
+	# id = 0
+	# while os.path.exists(str(id)+'.csv'):
+	# 	id = id + 1 
+	# filename = str(id) + '.csv'
+	# st.session_state.filename = filename
+	next_page = st.sidebar.button("Continue", key = 2)
 	if next_page:
-		for k in user_predictions.keys():
-			with open(filename, 'a+') as f:
-				isLast = df.loc[k]["is_last"]
-				f.write(f"{k},{isLast},{user_predictions[k]}\n")
+	# 	for k in user_predictions.keys():
+	# 		with open(filename, 'a+') as f:
+	# 			isLast = df.loc[k]["is_last"]
+	# 			f.write(f"{k},{isLast},{user_predictions[k]}\n")
 		switch_page("AI_Review")
 
 
