@@ -80,16 +80,18 @@ df = st.session_state.data
 
 # group 0 is without explanations, 1 is with explanations
 
-zeroCounter = 0
-while os.path.exists('0_' + str(zeroCounter)+'.csv'):
-	zeroCounter = zeroCounter + 1
-oneCounter = 0
-while os.path.exists('1_' + str(oneCounter)+'.csv'):
-	oneCounter = oneCounter + 1
-if oneCounter > zeroCounter:
-	st.session_state.group = 0	
-else:
-	st.session_state.group = 1
+if not group in st.session_state:
+
+	zeroCounter = 0
+	while os.path.exists('0_' + str(zeroCounter)+'.csv'):
+		zeroCounter = zeroCounter + 1
+	oneCounter = 0
+	while os.path.exists('1_' + str(oneCounter)+'.csv'):
+		oneCounter = oneCounter + 1
+	if oneCounter > zeroCounter:
+		st.session_state.group = 0	
+	else:
+		st.session_state.group = 1
 ############################################################ pick ten songs randomly and mix them up; if not already done
 
 # the way I set up the data is somewhat stupid, because I made an "is_last" column (this was necessary because some years had several losers),

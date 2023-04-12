@@ -108,10 +108,12 @@ with st.form(key='my_form'):
     q5 = st.text_input('How old are you?')
     q6 = st.radio("What gender do you identify as?", ["", "FEMALE", "MALE", "OTHER"])
 
-    q7 = st.text_input('What do you think is the basis for the AI\'s answer?')
+    if not st.session_state.group == 0:
 
-    q8 = st.radio('Did the explanations given by the AI seem plausible to you?', ["", "YES", "NO"])
-    q8b = st.text_input('Why?')
+        q7 = st.text_input('What do you think is the basis for the AI\'s answer?')
+
+        q8 = st.radio('Did the explanations given by the AI seem plausible to you?', ["", "YES", "NO"])
+        q8b = st.text_input('Why?')
 
     st.write("Please rate the following statements:")
 
