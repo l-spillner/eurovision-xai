@@ -27,9 +27,10 @@ st.set_page_config(layout="wide")
 c_green = "#AD9"
 c_red = "#FA9"
 
+# hides page nav in sidebar
 no_sidebar_style = """
-	<style>
-        div[data-testid="stSidebarNav"] {pointer-events: none; cursor: default; height = 200px}
+    <style>
+        div[data-testid="stSidebarNav"] {pointer-events: none; cursor: default;}
     </style>
 """
 st.markdown(no_sidebar_style, unsafe_allow_html=True)
@@ -43,4 +44,4 @@ st.markdown(no_sidebar_style, unsafe_allow_html=True)
 
 ############################################################ MAIN ############################################################
 
-st.markdown("Thank you for participating in our study")
+st.markdown("Thank you for participating in our study!")

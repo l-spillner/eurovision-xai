@@ -139,11 +139,11 @@ for s in songs:
 
 	with col1:
 
-		st.write("Your first prediction was:")
-		if user_predictions[s] == "WINNER":
-			annotated_text((user_predictions[s], "", c_green))
-		else:
-			annotated_text((user_predictions[s], "", c_red))
+		st.write("Your first prediction was:", user_predictions[s])
+		#if user_predictions[s] == "WINNER":
+		#	annotated_text((user_predictions[s], "", c_green))
+		#else:
+		#	annotated_text((user_predictions[s], "", c_red))
 
 		st.write("")
 		choice = st.radio("Winner or loser?", ["", "WINNER", "LOSER"], key = str(s), index = 1 if user_predictions[s] == "WINNER" else 2)
@@ -218,11 +218,11 @@ for s in songs:
 
 		#st.markdown(f'AI prediction: {ai_choice}')
 		st.write("")
-		if ai_choice == final_user_predictions[s]:
-			with st.expander("Explanation"):
-				st.markdown(f'{ai_explanation}')
-		else:
-			st.markdown(f'*Explanation*:   \n {ai_explanation}')
+		#if ai_choice == final_user_predictions[s]:
+		#	with st.expander("Explanation"):
+		#		st.markdown(f'{ai_explanation}')
+		#else:
+		st.markdown(f'*Explanation*:   \n {ai_explanation}')
 
 	st.markdown("---")
 
