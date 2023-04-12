@@ -23,7 +23,10 @@ from collections import Counter
 
 ############################################################ Settings
 
-st.set_page_config(layout="wide")
+# optional celebratory balloons
+balloons = True
+
+st.set_page_config(layout="centered")
 c_green = "#AD9"
 c_red = "#FA9"
 
@@ -44,4 +47,12 @@ st.markdown(no_sidebar_style, unsafe_allow_html=True)
 
 ############################################################ MAIN ############################################################
 
+if balloons:
+	st.balloons()
+
 st.markdown("Thank you for participating in our study!")
+
+st.write("If you had fun and/or want to support our research, please consider sharing our study with people you know. You can copy the text below:")
+
+st.info("Here's a link to a research study on working with Artificial Intelligence to judge the quality of Eurovision Song Contest participants:   \n   [link here]")
+

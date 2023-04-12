@@ -20,7 +20,7 @@ import re
 
 ############################################################ Settings
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="centered")
 
 # hides the first option in a radio group
 # note: this applies to ALL radio groups across the app; it cannot be done for an individual button!

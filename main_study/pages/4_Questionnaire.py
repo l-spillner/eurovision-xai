@@ -39,6 +39,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+# stuff that's put in a streamlit container gets a light grey background
 st.markdown(
     """ <style>
             div[data-testid="stHorizontalBlock"]{
@@ -66,6 +67,10 @@ if likert_horizontal:
     label_vis = "collapsed"
 else:
     label_vis = "visible"
+
+# randomize trust questions
+
+likert_random_order = True
 
 ############################################################ Public variables
 
@@ -120,7 +125,17 @@ with st.form(key='my_form'):
 
     likert_results = {}
 
-    for key in likert_questions:
+    likert_question_keys = list(likert_questions.keys())
+    if likert_random_order:
+        if not "likert_question_keys" in st.session_state:
+            random.shuffle(likert_question_keys)
+            st.session_state.likert_question_keys = likert_question_keys
+        else:
+            likert_question_keys = st.session_state.likert_question_keys
+
+        
+
+    for key in likert_question_keys:
         with st.container():
             col_likert1, col_likert2 = st.columns([5,8], gap = "large")
             with col_likert1:
