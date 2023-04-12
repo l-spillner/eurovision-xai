@@ -222,7 +222,8 @@ for s in songs:
 		#	with st.expander("Explanation"):
 		#		st.markdown(f'{ai_explanation}')
 		#else:
-		st.markdown(f'*Explanation*:   \n {ai_explanation}')
+		if st.session_state.group == 1:
+			st.markdown(f'*Explanation*:   \n {ai_explanation}')
 
 	st.markdown("---")
 
@@ -249,15 +250,15 @@ if not (counts["WINNER"] + counts["LOSER"] == 10):
 else:
 	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n ABBA-cadabra agrees with {agree_counter} of your choices.   \n    \n Are you happy with your selection?   \n If yes, click "Continue".')
 
-	id = 0
-	while os.path.exists(str(id)+'.csv'):
-		id = id + 1 
-	filename = str(id) + '.csv'
-	st.session_state.filename = filename
 	st.session_state.final_user_predictions = final_user_predictions
 
 	next_page = st.sidebar.button("Continue", key = 3)
 	if next_page:
+		id = 0
+		while os.path.exists(str(st.session_state.group) + '_' + str(id)+'.csv'):
+			id = id + 1
+		filename = str(st.session_state.group) + '_' + str(id) + '.csv'
+		st.session_state.filename = filename
 		for k in user_predictions.keys():
 			with open(filename, 'a+') as f:
 				isLast = df.loc[k]["is_last"]

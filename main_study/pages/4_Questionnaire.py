@@ -105,6 +105,13 @@ with st.form(key='my_form'):
     q4b = st.text_input('If yes, how have you come in contact with AI?')
     #else:
     #    q4b = None
+    q5 = st.text_input('How old are you?')
+    q6 = st.radio("What gender do you identify as?", ["", "FEMALE", "MALE", "OTHER"])
+
+    q7 = st.text_input('What do you think is the basis for the AI\'s answer?')
+
+    q8 = st.radio('Did the explanations given by the AI seem plausible to you?', ["", "YES", "NO"])
+    q8b = st.text_input('Why?')
 
     st.write("Please rate the following statements:")
 
@@ -170,17 +177,28 @@ with st.form(key='my_form'):
     # #per_4 = st.radio("I like using the system for decision making", ["", "STRONGLY AGREE", "AGREE", "NEUTRAL", "DISAGREE", "STRONGLY DISAGREE"], label_visibility = label_vis, horizontal = likert_horizontal)
     # #per_5 = st.radio("I have a personal preference for making decisions with the system", ["", "STRONGLY AGREE", "AGREE", "NEUTRAL", "DISAGREE", "STRONGLY DISAGREE"], label_visibility = label_vis, horizontal = likert_horizontal)
 
-    st.write("Something something did everything sound like bullshit?")
-    bullshit_answer = st.text_area("", label_visibility = "collapsed")
+    #st.write("Something something did everything sound like bullshit?")
+    #bullshit_answer = st.text_area("", label_visibility = "collapsed")
 
     submit_button = st.form_submit_button(label='Submit')
 
 #st.write(q1, likert_results)
 
 if submit_button:
-    if any(a == "" for a in likert_results.values()) or any(a == "" for a in [q1, q2, q3, q4]):
+    if any(a == "" for a in likert_results.values()) or any(a == "" for a in [q1, q2, q3, q4, q5, q6, q7, q8]):
         st.error("Please answer all the questions!")
     else:
+        with open(filename, 'a+') as f:
+            f.write(f"{1},{q1}\n")
+            f.write(f"{2},{q2}\n")
+            f.write(f"{3},{q3}, {q3b}\n")
+            f.write(f"{4},{q4}, {q4b}\n")
+            f.write(f"{5},{q5}\n")
+            f.write(f"{6},{q6}\n")
+            f.write(f"{7},{q7}\n")
+            f.write(f"{8},{q8}, {q8b}\n")
+            for k in likert_question_keys:
+                f.write(f"{k},{likert_results[key]}\n")
         switch_page("Goodbye")
 
 #next_page = st.button("Send results", key = 4)
