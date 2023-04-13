@@ -115,8 +115,6 @@ df_lb = df_lb.style.apply(lambda x: ['background: lightgreen'
                                   else '' for i in x], axis=1)
 st.table(df_lb)
 
-user_accuracy = 1
-
 st.write("Do you want to enter you results on our leaderboards? Future participants will be able to see your score and the name you chose. If yes, enter a nickname here and click Submit:")
 name = st.text_input("Your nickname:", max_chars = 5)
 submit_name = st.button("Submit")
