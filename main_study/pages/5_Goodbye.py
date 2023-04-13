@@ -138,7 +138,7 @@ if submit_name:
 		with open(leader_path) as file:
 			lines = file.readlines()
 		#st.write(lines)
-		lines[st.session_state.saved_line] = name + " " + str(user_accuracy)
+		lines[st.session_state.saved_line] = "\n" + name + " " + str(user_accuracy)
 		#st.write(lines)
 		with open(leader_path, "w") as file:
 			file.writelines(lines)
