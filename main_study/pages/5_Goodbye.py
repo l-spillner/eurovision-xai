@@ -84,7 +84,7 @@ sample_df = st.session_state.final_data
 user_accuracy = len(list(sample_df[sample_df["true_label"] == sample_df["final_user_prediction"]].index))
 #st.write(user_accuracy)
 
-st.write(f"Congatulations: You got {user_accuracy} songs correct.   \n   These are the best scores so far:")
+st.write(f"Congratulations: Your prediction was correct for {user_accuracy} songs 🥳   \n   These are the best scores so far:")
 
 your_place = 1
 while leaderboards[your_place-1][1] > user_accuracy:
@@ -105,7 +105,7 @@ for i, item in enumerate(leaderboards):
 	if i == your_place-1:
 		output.append({"Place":str(i+1), "Name":"YOU", "Score":str(user_accuracy)})
 		output.append({"Place":str(i+2), "Name":item[0], "Score":str(item[1])})
-	if i > your_place-1:
+	if i == your_place:
 		output.append({"Place":"...", "Name":"...", "Score":"..."})
 
 		
@@ -115,8 +115,8 @@ df_lb = df_lb.style.apply(lambda x: ['background: lightgreen'
                                   else '' for i in x], axis=1)
 st.table(df_lb)
 
-st.write("Do you want to enter you results on our leaderboards? Future participants will be able to see your score. If yes, enter a nickname here and click Submit:")
-name = st.text_input("Your nickname:", max_chars = 20)
+st.write("Do you want to enter you results on our leaderboards? Future participants will be able to see your score and the name you chose. If yes, enter a nickname here and click Submit:")
+name = st.text_input("Your nickname:", max_chars = 5)
 submit_name = st.button("Submit")
 
 if not "saved_line" in st.session_state:
@@ -143,11 +143,11 @@ if submit_name:
 		with open(leader_path, "w") as file:
 			file.writelines(lines)
 
-
-
 #st.write(leaderboards)
 
 ############################################################ Share
+
+st.write("---")
 
 st.write("If you had fun and/or want to support our research, please consider sharing our study with people you know. You can copy the text below:")
 
