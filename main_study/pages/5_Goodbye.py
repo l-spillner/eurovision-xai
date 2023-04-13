@@ -72,8 +72,7 @@ st.markdown("Thank you for participating in our study!")
 leaderboards = []
 with open(leader_path) as file:
 	leaderboards = file.readlines()
-	leaderboards = [l.split() for l in leaderboards]
-	leaderboards = [item for item in leaderboards if not item.strip() == ""]
+	leaderboards = [l.split() for l in leaderboards if not l.strip() == ""]
 
 #st.write(leaderboards)
 
