@@ -139,6 +139,9 @@ if submit_name:
 			lines = file.readlines()
 		#st.write(lines)
 		lines[st.session_state.saved_line] = "\n" + name + " " + str(user_accuracy)
+		print("Troubleshooting lines:")
+		for l in lines:
+			print(l.replace("\n", "|****|"))
 		#st.write(lines)
 		with open(leader_path, "w") as file:
 			file.writelines(lines)
