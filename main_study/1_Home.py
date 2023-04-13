@@ -111,13 +111,13 @@ f"""
 ---
 ##### About this study:
 
-The entire study should take up tp 15-20 minutes. All your answers will be collected completely anonymously. We do not collect any personal information, like your name or IP address. If you want, you can add your score to the leaderboards on the last page under an anonymous nickname. The leaderboards are not linked to the study data and will not be used in our research. You are, of course, free to quit the study at any time.
+The entire study should take up to 15-20 minutes. All your answers will be collected anonymously. We do not collect personal information, like your name or IP address. If you want, you can add your score to the leaderboards on the last page, which will not be used in our research. You are free to quit the study at any time.
 
-The data that we collect is stored on a server of the Univserity of Bremen, in Germany. After the study finishes, the data from all participants will be analysed together and the results might be published in future research papers. We will not publish the answers or performance of any individual participant. Please note that since your data is not linked to any personal identifying information, we will not be able to delete your data later. If you do not want your data to be saved, simply close the study before the last page.
+The data that we collect is stored on a server of the University of Bremen, in Germany. After the study finishes, the data from all participants will be analysed together and the results might be published in future research papers. We will not publish the answers or performance of any individual participant. Please note that since your data is not linked to any personal identifying information, we will not be able to delete your data later. 
 
 If you have any questions about this study, please contact:
 
-Laura Spillner (laura.spillner@uni-bremen.de) or Rachel Ringe: ...
+Laura Spillner (laura.spillner@uni-bremen.de) or Rachel Ringe (rringe@uni-bremen.de)
 
 If you want to proceed with the study, please click "Start"!
 
