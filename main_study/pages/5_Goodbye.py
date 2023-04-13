@@ -129,16 +129,19 @@ if not "saved_line" in st.session_state:
 	with open(leader_path, "w") as file:
 		file.writelines(lines)
 
-	st.write(st.session_state.saved_line)
+	#st.write(st.session_state.saved_line)
 
 if submit_name:
-	with open(leader_path) as file:
-		lines = file.readlines()
-	#st.write(lines)
-	lines[st.session_state.saved_line] = name + " " + str(user_accuracy)
-	#st.write(lines)
-	with open(leader_path, "w") as file:
-		file.writelines(lines)
+	if not name.isalnum():
+		st.error("Sorry, your name can only contain letters and numbers.")
+	else:
+		with open(leader_path) as file:
+			lines = file.readlines()
+		#st.write(lines)
+		lines[st.session_state.saved_line] = name + " " + str(user_accuracy)
+		#st.write(lines)
+		with open(leader_path, "w") as file:
+			file.writelines(lines)
 
 
 
@@ -148,5 +151,5 @@ if submit_name:
 
 st.write("If you had fun and/or want to support our research, please consider sharing our study with people you know. You can copy the text below:")
 
-st.info("Here's a link to a research study on working with Artificial Intelligence to judge the quality of Eurovision Song Contest participants:   \n   [link here]")
+st.code("Here's a link to a research study on working with Artificial Intelligence \nto judge the quality of Eurovision Song Contest participants:\n\n    [link here]", language = "excelFormula")
 

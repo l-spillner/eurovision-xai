@@ -104,7 +104,7 @@ with st.form(key='my_form'):
     q4b = st.text_input('If yes, how have you come in contact with AI?')
     #else:
     #    q4b = None
-    q5 = st.text_input('How old are you?')
+    q5 = st.number_input('How old are you?', value = int(0))
     q6 = st.radio("What gender do you identify as?", ["", "FEMALE", "MALE", "OTHER"])
 
     if not st.session_state.group == 0:

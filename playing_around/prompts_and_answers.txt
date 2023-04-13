@@ -1,0 +1,3556 @@
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Mil Etter Mil" by Jahn Teigen from Norway will be a loser.
+These are the lyrics of that song:
+
+"Hvil deg nå, du er sliten
+Hvil din kropp før din kraft ebber ut
+Vann pipler inn i dine sko
+Du vandrer i regn
+
+Mil etter mil etter mil
+Etter mil etter mil etter mil
+
+Søk mot meg hvis du lengter
+Rett ditt sinn mot et annet sted
+Komm hit hvor jeg er, hvor solen er nær
+Du må ikke gå
+
+Mil etter mil etter mil
+Etter mil etter mil etter mil
+
+Og det er langt å gå
+Det er lengselen som driver deg
+Mot et lys som du kan se
+Men ikke jeg
+
+Tenk deg om nå
+Hvor farer du hen
+Du har vandret altfor lenge
+
+Mil etter mil etter mil
+Etter mil etter mil etter mil
+
+Tenk deg om nå
+Hvor farer du hen
+Du har vandret altfor lenge
+
+Mil etter mil etter mil
+Etter mil etter mil etter mil
+Etter mil etter mil etter mil
+Etter mil etter mil etter mil
+Etter mil"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Tenk deg om nå". Write a natural language explanation of your prediction.
+Based on the line "Tenk deg om nå" in the lyrics of "Mil Etter Mil" by Jahn Teigen, my prediction is that the song will be a loser at the Eurovision song contest. This line roughly translates to "Think about it now" in English and it suggests a reflective and introspective tone to the song which may not resonate well with the high energy and upbeat nature of many Eurovision entries. Additionally, the song's overall slow tempo and melancholic tone may not be well-suited for the contest, where upbeat and catchy songs tend to perform better.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Mil Etter Mil" by Jahn Teigen from Norway will be a winner.
+These are the lyrics of that song:
+
+"Hvil deg nå, du er sliten
+Hvil din kropp før din kraft ebber ut
+Vann pipler inn i dine sko
+Du vandrer i regn
+
+Mil etter mil etter mil
+Etter mil etter mil etter mil
+
+Søk mot meg hvis du lengter
+Rett ditt sinn mot et annet sted
+Komm hit hvor jeg er, hvor solen er nær
+Du må ikke gå
+
+Mil etter mil etter mil
+Etter mil etter mil etter mil
+
+Og det er langt å gå
+Det er lengselen som driver deg
+Mot et lys som du kan se
+Men ikke jeg
+
+Tenk deg om nå
+Hvor farer du hen
+Du har vandret altfor lenge
+
+Mil etter mil etter mil
+Etter mil etter mil etter mil
+
+Tenk deg om nå
+Hvor farer du hen
+Du har vandret altfor lenge
+
+Mil etter mil etter mil
+Etter mil etter mil etter mil
+Etter mil etter mil etter mil
+Etter mil etter mil etter mil
+Etter mil"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Du har vandret altfor lenge". Write a natural language explanation of your prediction.
+Based on the line "Du har vandret altfor lenge" (which means "You have walked for far too long" in English), I predict that the song "Mil Etter Mil" by Jahn Teigen from Norway will be a winner at the Eurovision Song Contest. This line suggests a message of perseverance, encouraging the listener to keep going despite challenges and difficulties. The song's overall theme of perseverance and determination is likely to resonate with audiences and potentially result in a strong performance at the contest. Additionally, the melancholic melody and emotional vocals of Jahn Teigen may also contribute to its potential success.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Hallelujah" by Milk and Honey from Israel will be a winner.
+These are the lyrics of that song:
+
+"Hallelujah la'olam
+Hallelujah, yashiru kulam
+Bemila achat bodeda
+Halev male bahamon toda
+Veholem gam hu: eize olam nifla
+
+Hallelujah im hashir
+Hallelujah al yom sheme'ir
+Hallelujah al ma shehaya
+Uma she'od lo haya
+Hallelujah
+
+Hallelujah la'olam
+Hallelujah, yashiru kulam
+Veha'inbalim hagdolim
+Yehadhedu bahamon tslilim
+Ve'itanu hem yomru Hallelujah
+
+Hallelujah im hashir
+Hallelujah al yom sheme'ir
+Hallelujah al ma shehaya
+Uma she'od lo haya
+Hallelujah
+
+Hallelujah al hakol
+Halelu al machar ve'etmol
+Hallelujah utnu yad beyad
+Veshiru milev echad
+Hallelujah
+
+Hallelujah im hashir
+Hallelujah al yom sheme'ir
+Hallelujah al ma shehaya
+Uma she'od lo haya
+Hallelujah
+
+Hallelujah al ma shehaya
+Uma she'od lo haya
+Hallelujah"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Hallelujah al ma shehaya". Write a natural language explanation of your prediction.
+Based on the lyrics of the song "Hallelujah" by Milk and Honey from Israel, my prediction is that it will be a winner at the Eurovision song contest. The line "Hallelujah al ma shehaya" appears repeatedly throughout the song, and it is a powerful and uplifting phrase that translates to "Hallelujah for what was" or "Hallelujah for what has happened." This phrase, combined with the joyful and celebratory tone of the song, suggests that it will resonate with audiences and be a crowd-pleaser. Additionally, the use of Hebrew in the lyrics adds a unique and culturally significant element to the song that could appeal to a broad audience. Overall, these factors contribute to my prediction that "Hallelujah" will be a successful entry in the Eurovision song contest.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Hallelujah" by Milk and Honey from Israel will be a loser.
+These are the lyrics of that song:
+
+"Hallelujah la'olam
+Hallelujah, yashiru kulam
+Bemila achat bodeda
+Halev male bahamon toda
+Veholem gam hu: eize olam nifla
+
+Hallelujah im hashir
+Hallelujah al yom sheme'ir
+Hallelujah al ma shehaya
+Uma she'od lo haya
+Hallelujah
+
+Hallelujah la'olam
+Hallelujah, yashiru kulam
+Veha'inbalim hagdolim
+Yehadhedu bahamon tslilim
+Ve'itanu hem yomru Hallelujah
+
+Hallelujah im hashir
+Hallelujah al yom sheme'ir
+Hallelujah al ma shehaya
+Uma she'od lo haya
+Hallelujah
+
+Hallelujah al hakol
+Halelu al machar ve'etmol
+Hallelujah utnu yad beyad
+Veshiru milev echad
+Hallelujah
+
+Hallelujah im hashir
+Hallelujah al yom sheme'ir
+Hallelujah al ma shehaya
+Uma she'od lo haya
+Hallelujah
+
+Hallelujah al ma shehaya
+Uma she'od lo haya
+Hallelujah"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Hallelujah, yashiru kulam". Write a natural language explanation of your prediction.
+Based on the provided lyrics of "Hallelujah" by Milk and Honey from Israel, the line "Hallelujah, yashiru kulam" had a significant influence on the prediction that the song will be a loser in the Eurovision song context. This is because the line is repetitive, lacks depth and creativity in lyrics, and is overly simplistic. In addition, the use of a religious word like "Hallelujah" may not appeal to all listeners and may limit the song's ability to connect with a diverse audience. As the Eurovision song context is known for its variety and creativity, the lack of originality in the lyrics of this song may lead to a lower score and a lower chance of winning.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Hey Nana" by Micha Marah from Belgium will be a loser.
+These are the lyrics of that song:
+
+"Hé, kom je mee?
+Blijf je hier bij mij vannacht?
+'k Heb al zo lang op jou gewacht
+Hé, weet je wel?
+'t Is nu tijd voor 't grote spel
+Jij wordt nu mijn pantoffelheld
+
+Jij neemt me in je armen
+En je draagt me in ons huis
+Ik zal altijd heel lief voor je zijn
+
+Zou dat niet heerlijk zijn voor jou en mij?
+Zo'n heel klein huisje voor ons allebei
+Waarin we heel gelukkig zouden zijn
+En als je 's avonds na je werk verschijnt
+
+Dan roep ik:
+Hey hey... nanana... nana nana...
+Hey hey... nanana... nana nana...
+Jij neemt me in je armen
+En je draagt me in ons huis
+
+Zo zie je maar
+Zo komt alles voor mekaar
+Wij worden samen nu een paar
+Ik zorg voor jou
+Net zoals jij zorgt voor mij
+En ons geluk gaat nooit voorbij
+
+Jij neemt me in je armen
+En je draagt me in ons huis
+Ik zal altijd heel lief voor je zijn
+
+Zou dat niet heerlijk zijn voor jou en mij?
+Zo'n heel klein huisje voor ons allebei
+Waarin we heel gelukkig zouden zijn
+En als je 's avonds na je werk verschijnt
+
+Dan roep ik:
+Hey hey... nanana... nana nana...
+Hey hey... nanana... nana nana...
+Jij neemt me in je armen
+En je draagt me in ons huis
+
+Hey hey... nanana... nana nana...
+Hey hey... nanana... nana nana...
+Hey hey... nanana... nana nana...
+Hey hey... nanana... nanana na..."
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Zo zie je maar". Write a natural language explanation of your prediction.
+Based on the lyrics of the song "Hey Nana" by Micha Marah from Belgium, the line "Zo zie je maar" had the biggest influence on my prediction that this song would be a loser. This line roughly translates to "See, that's how it goes" or "That's how it is". This line, along with the overall theme of the song which is about a woman hoping to settle down with a man and live a simple life, suggests that the song lacks originality and has a somewhat generic theme. Additionally, the simplistic lyrics and repetitive nature of the song may not be enough to captivate the audience and stand out among the other entries in the Eurovision song context.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Hey Nana" by Micha Marah from Belgium will be a winner.
+These are the lyrics of that song:
+
+"Hé, kom je mee?
+Blijf je hier bij mij vannacht?
+'k Heb al zo lang op jou gewacht
+Hé, weet je wel?
+'t Is nu tijd voor 't grote spel
+Jij wordt nu mijn pantoffelheld
+
+Jij neemt me in je armen
+En je draagt me in ons huis
+Ik zal altijd heel lief voor je zijn
+
+Zou dat niet heerlijk zijn voor jou en mij?
+Zo'n heel klein huisje voor ons allebei
+Waarin we heel gelukkig zouden zijn
+En als je 's avonds na je werk verschijnt
+
+Dan roep ik:
+Hey hey... nanana... nana nana...
+Hey hey... nanana... nana nana...
+Jij neemt me in je armen
+En je draagt me in ons huis
+
+Zo zie je maar
+Zo komt alles voor mekaar
+Wij worden samen nu een paar
+Ik zorg voor jou
+Net zoals jij zorgt voor mij
+En ons geluk gaat nooit voorbij
+
+Jij neemt me in je armen
+En je draagt me in ons huis
+Ik zal altijd heel lief voor je zijn
+
+Zou dat niet heerlijk zijn voor jou en mij?
+Zo'n heel klein huisje voor ons allebei
+Waarin we heel gelukkig zouden zijn
+En als je 's avonds na je werk verschijnt
+
+Dan roep ik:
+Hey hey... nanana... nana nana...
+Hey hey... nanana... nana nana...
+Jij neemt me in je armen
+En je draagt me in ons huis
+
+Hey hey... nanana... nana nana...
+Hey hey... nanana... nana nana...
+Hey hey... nanana... nana nana...
+Hey hey... nanana... nanana na..."
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Wij worden samen nu een paar". Write a natural language explanation of your prediction.
+Based on the title and lyrics of "Hey Nana" by Micha Marah from Belgium, as well as the country of origin and singer, my prediction is that this song will be a winner. The lyrics suggest a romantic theme of two people coming together and building a life of happiness and love, which is a common theme in Eurovision winning songs. The line "Wij worden samen nu een paar" (We are now becoming a couple) emphasizes the strong romantic connection between the two people and evokes a sense of togetherness that resonates with audiences. Additionally, the upbeat and catchy melody of the song, as well as the use of repetitive lyrics such as "Hey hey... nanana... nana nana..." make it likely to be well-received by the Eurovision audience, which tends to favor songs that are fun, catchy and easy to sing along to.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Heute In Jerusalem" by Christina Simon from Austria will be a loser.
+These are the lyrics of that song:
+
+"Erhebt euch, tut ab den Schlaf
+In dieser Zeit der bitteren Früchte
+Übt Freunde eure Wachsamkeit
+Dem Weinen und der Angst zu wehren
+
+Seht, aus der Kühle hoher Luft
+Da fallen hundert Monde
+Als Zeichen für den Neubeginn
+Als Sinn wider den Widersinn
+
+Und heute in Jerusalem
+Endlich in Jerusalem
+Atem holen und besinnen
+Und heute in Jerusalem
+Friede für Jerusalem
+
+Seht, aus der Kühle hoher Luft
+Da fallen hundert Monde
+Als Zeichen für den Neubeginn
+Als Sinn wider den Widersinn
+
+Und heute in Jerusalem
+Endlich in Jerusalem
+Atem holen und besinnen
+Und heute in Jerusalem
+Friede für Jerusalem"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Übt Freunde eure Wachsamkeit". Write a natural language explanation of your prediction.
+Based on the lyrics of "Heute In Jerusalem" by Christina Simon, and specifically the line "Übt Freunde eure Wachsamkeit" (which can be translated to "Practice, friends, your vigilance"), my prediction is that this song will be a loser in the Eurovision Song Contest. The line in question suggests a serious and somber tone, and the overall message of the song seems to be about peace and reflection, rather than being catchy or upbeat. While there have been successful ballads and serious songs in Eurovision in the past, the overall trend in recent years has been towards more upbeat and energetic entries, and it is likely that a song with a slower tempo and serious message would not perform as well in the contest.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Heute In Jerusalem" by Christina Simon from Austria will be a winner.
+These are the lyrics of that song:
+
+"Erhebt euch, tut ab den Schlaf
+In dieser Zeit der bitteren Früchte
+Übt Freunde eure Wachsamkeit
+Dem Weinen und der Angst zu wehren
+
+Seht, aus der Kühle hoher Luft
+Da fallen hundert Monde
+Als Zeichen für den Neubeginn
+Als Sinn wider den Widersinn
+
+Und heute in Jerusalem
+Endlich in Jerusalem
+Atem holen und besinnen
+Und heute in Jerusalem
+Friede für Jerusalem
+
+Seht, aus der Kühle hoher Luft
+Da fallen hundert Monde
+Als Zeichen für den Neubeginn
+Als Sinn wider den Widersinn
+
+Und heute in Jerusalem
+Endlich in Jerusalem
+Atem holen und besinnen
+Und heute in Jerusalem
+Friede für Jerusalem"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Erhebt euch, tut ab den Schlaf". Write a natural language explanation of your prediction.
+Based on the title "Heute In Jerusalem" and the lyrics that mention Jerusalem, as well as the uplifting and motivational tone of the song, the AI predicts that "Heute In Jerusalem" by Christina Simon from Austria will be a winner. The line "Erhebt euch, tut ab den Schlaf" (meaning "Rise up, cast off your sleep") suggests a call to action and a message of hope and renewal, which could resonate with the audience and the judges. The overall theme of the song seems to be about overcoming adversity and finding peace, which are universal and powerful messages that could make a strong impact in the Eurovision Song Contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "What's Another Year" by Johnny Logan from Ireland will be a winner.
+These are the lyrics of that song:
+
+"I've been waitin' such a long time
+Lookin' out for you, but you're not here
+What's another year?
+
+I've been wakin' such a long time
+Reachin' out for you, but you aren't near
+What's another year?
+
+What's another year
+For someone who's lost everything that he owns?
+What's another year
+For someone who's gettin' used to bein' alone?
+
+I've been prayin' such a long time
+It's the only way to hide the fear
+What's another year?
+
+What's another year
+For someone who's lost everything that he owns?
+What's another year
+For someone who's gettin' used to bein' alone?
+
+I've been cryin' such a long time
+With such a lot of pain in every tear
+What's another year
+(For someone who is getting used to being alone?)
+What's another year
+(For someone who is getting used to being alone?)
+What's another year
+(For someone who is getting used to being alone?)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "With such a lot of pain in every tear". Write a natural language explanation of your prediction.
+The line "With such a lot of pain in every tear" in the lyrics of "What's Another Year" suggests that the song is about heartbreak and loss, which are common themes in successful Eurovision songs. Additionally, the repetition of the phrase "What's another year" throughout the song emphasizes the feeling of longing and the desire to move on from the pain. This emotional depth, combined with the catchy melody and Johnny Logan's powerful vocals, make the song a strong contender for a winning Eurovision performance.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "What's Another Year" by Johnny Logan from Ireland will be a loser.
+These are the lyrics of that song:
+
+"I've been waitin' such a long time
+Lookin' out for you, but you're not here
+What's another year?
+
+I've been wakin' such a long time
+Reachin' out for you, but you aren't near
+What's another year?
+
+What's another year
+For someone who's lost everything that he owns?
+What's another year
+For someone who's gettin' used to bein' alone?
+
+I've been prayin' such a long time
+It's the only way to hide the fear
+What's another year?
+
+What's another year
+For someone who's lost everything that he owns?
+What's another year
+For someone who's gettin' used to bein' alone?
+
+I've been cryin' such a long time
+With such a lot of pain in every tear
+What's another year
+(For someone who is getting used to being alone?)
+What's another year
+(For someone who is getting used to being alone?)
+What's another year
+(For someone who is getting used to being alone?)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "For someone who's gettin' used to bein' alone?". Write a natural language explanation of your prediction.
+Based on the lyrics of the song "What's Another Year" by Johnny Logan from Ireland, my prediction is that it will be a loser. The line "For someone who's gettin' used to bein' alone?" suggests a theme of loneliness and heartbreak, which may not resonate well with the Eurovision audience who tend to prefer upbeat and energetic songs. Additionally, the melancholic tone and slow tempo of the song may not captivate the audience's attention and fail to stand out amongst the other entries.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Huilumies" by Vesa-Matti Loiri from Finland will be a loser.
+These are the lyrics of that song:
+
+"On tässä huilu ja huilumies
+En täytä mittaa normien
+Sormien soutelun huoleni huilutan
+Jos en lausein tunteita tulkita voi
+Niille varmasti huilu soi
+Ja niistä sielun soinnut pienoisen lauluni loi
+
+On siinä aamun kastehelmien tuoksu
+On kevät lämmin vuoripuron juoksu
+Kaiken sen minkä aistin huiluni soi
+On siinä hiiltyvä ilta, auringon rusko
+Parempien päivien sammumaton usko
+On syksyn kuolevaa ruskaa, on elämä tuskaa
+Sen huiluni soi
+
+On tässä huilu ja huilumies
+Mä näen luonnon tauluna lauluna teille sen kaiken mä soinnutan
+Ja näin riemut, surut ja arkikin soi
+Jos en tuntea oikein voi
+On joka pettymys, nauru sykkivät sointuni loi
+
+On siinä päiväperhon leikkivä liito
+Sammuvan tähden öinen viime kiito
+Kaiken sen minkä aistin huiluni soi
+On siinä tuiskuvan talven hyytävä halla
+Ihmisen pienuus kaikkeuden alla
+On syksyn kuolevaa ruskaa, on elämä tuskaa
+Sen huiluni soi
+
+On siinä päiväperhon leikkivä liito
+Sammuvan tähden öinen viime kiito
+Kaiken sen minkä aistin huiluni soi
+On siinä tuiskuvan talven hyytävä halla
+Ihmisen pienuus kaikkeuden alla
+On syksyn kuolevaa ruskaa, on elämä tuskaa
+Sen huiluni soi"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Ja näin riemut, surut ja arkikin soi". Write a natural language explanation of your prediction.
+Based on the lyrics of the song "Huilumies" by Vesa-Matti Loiri, my prediction is that it will be a loser at the Eurovision song contest. The line "Ja näin riemut, surut ja arkikin soi" suggests that the song is about everyday life and its ups and downs. While this can be a relatable and emotional theme, it may not be unique or memorable enough to stand out among the other entries in the contest. Additionally, the song is in Finnish, which could limit its appeal to international audiences who may not be able to understand the lyrics. These factors could ultimately lead to the song being perceived as unremarkable and not worthy of a winning position in the competition.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Huilumies" by Vesa-Matti Loiri from Finland will be a winner.
+These are the lyrics of that song:
+
+"On tässä huilu ja huilumies
+En täytä mittaa normien
+Sormien soutelun huoleni huilutan
+Jos en lausein tunteita tulkita voi
+Niille varmasti huilu soi
+Ja niistä sielun soinnut pienoisen lauluni loi
+
+On siinä aamun kastehelmien tuoksu
+On kevät lämmin vuoripuron juoksu
+Kaiken sen minkä aistin huiluni soi
+On siinä hiiltyvä ilta, auringon rusko
+Parempien päivien sammumaton usko
+On syksyn kuolevaa ruskaa, on elämä tuskaa
+Sen huiluni soi
+
+On tässä huilu ja huilumies
+Mä näen luonnon tauluna lauluna teille sen kaiken mä soinnutan
+Ja näin riemut, surut ja arkikin soi
+Jos en tuntea oikein voi
+On joka pettymys, nauru sykkivät sointuni loi
+
+On siinä päiväperhon leikkivä liito
+Sammuvan tähden öinen viime kiito
+Kaiken sen minkä aistin huiluni soi
+On siinä tuiskuvan talven hyytävä halla
+Ihmisen pienuus kaikkeuden alla
+On syksyn kuolevaa ruskaa, on elämä tuskaa
+Sen huiluni soi
+
+On siinä päiväperhon leikkivä liito
+Sammuvan tähden öinen viime kiito
+Kaiken sen minkä aistin huiluni soi
+On siinä tuiskuvan talven hyytävä halla
+Ihmisen pienuus kaikkeuden alla
+On syksyn kuolevaa ruskaa, on elämä tuskaa
+Sen huiluni soi"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Kaiken sen minkä aistin huiluni soi". Write a natural language explanation of your prediction.
+Based on the line "Kaiken sen minkä aistin huiluni soi", which roughly translates to "All that I sense, my flute plays," the AI predicts that "Huilumies" by Vesa-Matti Loiri from Finland will be a winner. This line highlights the power of music to evoke emotions and create a sense of connection between the performer and the audience. The lyrics of the song are poetic and describe the beauty of nature and the struggles of life, which are likely to resonate with the Eurovision audience. The use of the flute as the main instrument also adds a unique and memorable element to the song, which could make it stand out among other entries. Overall, the combination of poetic lyrics, emotional resonance, and unique musical elements make this song a strong contender for a Eurovision win.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Making Your Mind Up" by Bucks Fizz from United Kingdom will be a winner.
+These are the lyrics of that song:
+
+"You gotta speed it up
+And then you gotta slow it down
+'Cause if you believe that our love can hit the top
+You gotta play around
+But soon you will find that there comes a time
+For making your mind up
+
+You gotta turn it on
+And then you gotta put it out
+You gotta be sure that it's something
+Everybody's gonna talk about
+Before you decide that the time's arrived
+For making your mind up
+
+Don't let your indecision
+Take you from behind
+Trust your inner vision
+Don't let others change your mind
+
+And now you really gotta burn it up
+And make another fly by night
+Get a run for your money
+And take a chance and it'll turn out right
+But when you can see how it's gotta be
+You're making your mind up
+
+And try to look as if you don't care less
+But if you wanna see some more
+Bending the rules of the game
+Will let you find the one you're looking for
+And then you can show that you think you know
+You're making your mind up
+
+Don't let your indecision
+Take you from behind
+Trust your inner vision
+Don't let others change your mind
+
+And now you really gotta speed it up
+And then you gotta slow it down
+'Cause if you believe that our love can hit the top
+You gotta play around
+But soon you will find that there comes a time
+For making your mind up
+
+And now you really gotta speed it up
+And then you gotta slow it down
+'Cause if you believe that our love can hit the top
+You gotta play around
+But soon you will find that there comes a time
+For making your mind up
+For making your mind up
+For making your mind up
+For making your mind up"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "And now you really gotta speed it up". Write a natural language explanation of your prediction.
+Based on the line "And now you really gotta speed it up" in the lyrics, I predict that the song "Making Your Mind Up" by Bucks Fizz from the United Kingdom will be a winner at the Eurovision song contest. The upbeat tempo and the catchy chorus of the song, along with the message of taking risks and making decisions, are likely to appeal to the audience and the judges. The lyrics suggest that the song has a high energy level and encourages the listener to get up and dance. Additionally, the repetition of the line "For making your mind up" throughout the song reinforces the message of making a decision and taking action, which could resonate with the Eurovision audience. Overall, the combination of the upbeat tempo and positive message make "Making Your Mind Up" a strong contender for a winning song.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Making Your Mind Up" by Bucks Fizz from United Kingdom will be a loser.
+These are the lyrics of that song:
+
+"You gotta speed it up
+And then you gotta slow it down
+'Cause if you believe that our love can hit the top
+You gotta play around
+But soon you will find that there comes a time
+For making your mind up
+
+You gotta turn it on
+And then you gotta put it out
+You gotta be sure that it's something
+Everybody's gonna talk about
+Before you decide that the time's arrived
+For making your mind up
+
+Don't let your indecision
+Take you from behind
+Trust your inner vision
+Don't let others change your mind
+
+And now you really gotta burn it up
+And make another fly by night
+Get a run for your money
+And take a chance and it'll turn out right
+But when you can see how it's gotta be
+You're making your mind up
+
+And try to look as if you don't care less
+But if you wanna see some more
+Bending the rules of the game
+Will let you find the one you're looking for
+And then you can show that you think you know
+You're making your mind up
+
+Don't let your indecision
+Take you from behind
+Trust your inner vision
+Don't let others change your mind
+
+And now you really gotta speed it up
+And then you gotta slow it down
+'Cause if you believe that our love can hit the top
+You gotta play around
+But soon you will find that there comes a time
+For making your mind up
+
+And now you really gotta speed it up
+And then you gotta slow it down
+'Cause if you believe that our love can hit the top
+You gotta play around
+But soon you will find that there comes a time
+For making your mind up
+For making your mind up
+For making your mind up
+For making your mind up"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "You gotta be sure that it's something". Write a natural language explanation of your prediction.
+Based on the lyrics of "Making Your Mind Up" by Bucks Fizz, my prediction is that the song will be a loser at the Eurovision Song Contest. The line "You gotta be sure that it's something everybody's gonna talk about" suggests a lack of originality in the song, which could be a factor that leads to its failure. Additionally, the song's repetitive and predictable structure may also contribute to its lack of appeal to the contest's judges and audience.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Aldri i Livet" by Finn Kalvik from Norway will be a loser.
+These are the lyrics of that song:
+
+"(Aldri i livet, aldri i livet)
+
+Daggryet nynner en myk sorgløs sang
+Som da jeg så deg for første gang
+I dine tidløse øyne fins svar
+Som ingen andre jeg kjenner har
+
+Hver gang jeg drar herfra, tenker du på meg da?
+Hver gang jeg drar herfra, glem ikke løftet jeg ga:
+
+Aldri i livet har jeg tenkt på å reise ifra deg
+Aldri i livet, min venn, før jeg slår følge med vinden
+
+Aldri i livet har jeg tenkt på å reise ifra deg
+Aldri i livet, min venn, før jeg slår følge med vinden
+
+Du har gitt livet en ny harmoni
+Tiden i ensomhet er forbi
+Jeg har vært blindet, men nå kan jeg se
+Elskling, fordi du har lært meg det
+
+Hver gang jeg drar herfra, tenker du på meg da?
+Hver gang jeg drar herfra, glem ikke løftet jeg ga:
+
+Aldri i livet har jeg tenkt på å reise ifra deg
+Aldri i livet, min venn, før jeg slår følge med vinden
+
+Aldri i livet har jeg tenkt på å reise ifra deg
+Aldri i livet, min venn, før jeg slår følge med vinden
+
+(Aldri i livet, aldri i livet)
+(Aldri i livet, aldri i livet)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "I dine tidløse øyne fins svar". Write a natural language explanation of your prediction.
+??? - Based on the given lyrics, my prediction is that "Aldri i Livet" by Finn Kalvik from Norway will be a loser in the Eurovision song context. The line "I dine tidløse øyne fins svar" did not contribute positively to the prediction. The lyrics seem to be introspective and focused on the singer's relationship with his lover, without a catchy or upbeat tune or chorus that would typically do well in the Eurovision context. Additionally, the song is in Norwegian, which may make it less accessible to an international audience.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Aldri i Livet" by Finn Kalvik from Norway will be a winner.
+These are the lyrics of that song:
+
+"(Aldri i livet, aldri i livet)
+
+Daggryet nynner en myk sorgløs sang
+Som da jeg så deg for første gang
+I dine tidløse øyne fins svar
+Som ingen andre jeg kjenner har
+
+Hver gang jeg drar herfra, tenker du på meg da?
+Hver gang jeg drar herfra, glem ikke løftet jeg ga:
+
+Aldri i livet har jeg tenkt på å reise ifra deg
+Aldri i livet, min venn, før jeg slår følge med vinden
+
+Aldri i livet har jeg tenkt på å reise ifra deg
+Aldri i livet, min venn, før jeg slår følge med vinden
+
+Du har gitt livet en ny harmoni
+Tiden i ensomhet er forbi
+Jeg har vært blindet, men nå kan jeg se
+Elskling, fordi du har lært meg det
+
+Hver gang jeg drar herfra, tenker du på meg da?
+Hver gang jeg drar herfra, glem ikke løftet jeg ga:
+
+Aldri i livet har jeg tenkt på å reise ifra deg
+Aldri i livet, min venn, før jeg slår følge med vinden
+
+Aldri i livet har jeg tenkt på å reise ifra deg
+Aldri i livet, min venn, før jeg slår følge med vinden
+
+(Aldri i livet, aldri i livet)
+(Aldri i livet, aldri i livet)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Du har gitt livet en ny harmoni". Write a natural language explanation of your prediction.
+Based on the lyrics of "Aldri i Livet" by Finn Kalvik, my prediction that this song will be a winner at the Eurovision song contest is heavily influenced by the line "Du har gitt livet en ny harmoni" (You have given life a new harmony). This line suggests that the song has a positive message of love and appreciation, which is likely to resonate with audiences and evoke emotional responses. The overall tone of the lyrics is also upbeat and optimistic, which is a common theme among Eurovision winners. Furthermore, the use of the Norwegian language adds a unique and exotic flavor that can captivate and engage the international audience. All these factors contribute to my prediction that "Aldri i Livet" has a good chance of winning the Eurovision song contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Ein Bißchen Frieden" by Nicole from Germany will be a winner.
+These are the lyrics of that song:
+
+"Wie eine Blume am Winterbeginn
+Und so wie ein Feuer im eisigen Wind
+Wie eine Puppe, die keiner mehr mag
+Fühl ich mich an manchem Tag
+
+Dann seh ich die Wolken, die über uns sind
+Und höre die Schreie der Vögel im Wind
+Ich singe aus Angst vor dem Dunkeln mein Lied
+Und hoffe, dass nichts geschieht
+
+Ein bisschen Frieden, ein bisschen Sonne
+Für diese Erde, auf der wir wohnen
+Ein bisschen Frieden, ein bisschen Freude
+Ein bisschen Wärme, das wünsch ich mir
+
+Ein bisschen Frieden, ein bisschen Träumen
+Und dass die Menschen nicht so oft weinen
+Ein bisschen Frieden, ein bisschen Liebe
+Dass ich die Hoffnung nie mehr verlier
+
+Ich weiss, meine Lieder, die ändern nicht viel
+Ich bin nur ein Mädchen, das sagt, was es fühlt
+Allein bin ich hilflos, ein Vogel im Wind
+Der spürt, dass der Sturm beginnt
+
+Ein bisschen Frieden, ein bisschen Sonne
+Für diese Erde, auf der wir wohnen
+Ein bisschen Frieden, ein bisschen Freude
+Ein bisschen Wärme, das wünsch ich mir
+
+Ein bisschen Frieden, ein bisschen Träumen
+Und dass die Menschen nicht so oft weinen
+Ein bisschen Frieden, ein bisschen Liebe
+Dass ich die Hoffnung nie mehr verlier
+
+Sing mit mir ein kleines Lied
+(Ein bisschen Frieden, ein bisschen Sonne)
+(Für diese Erde, auf der wir wohnen)
+Dass die Welt in Frieden lebt
+(Ein bisschen Frieden, ein bisschen Freude)
+(Ein bisschen Wärme, das wünsch ich mir)
+
+Singt mit mir ein kleines Lied
+(Ein bisschen Frieden, ein bisschen Träumen)
+(Und dass die Menschen nicht so oft weinen)
+Dass die Welt in Frieden lebt
+(Ein bisschen Frieden, ein bisschen Liebe)
+(Dass ich die Hoffnung nie mehr verlier)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Ich weiss, meine Lieder, die ändern nicht viel". Write a natural language explanation of your prediction.
+Based on the lyrics and other features, I predict that "Ein Bißchen Frieden" by Nicole from Germany will be a winner at the Eurovision Song Contest. One of the reasons for this prediction is the line "Ich weiss, meine Lieder, die ändern nicht viel" which translates to "I know my songs don't change much". This line is powerful because it captures a universal sentiment that many people can relate to, which is the feeling of helplessness and smallness in the face of big problems in the world. The song offers a message of hope and peace, and the sentiment is conveyed through the lyrics, the melody, and the singer's performance. Additionally, the song is catchy and uplifting, and it has a strong chorus that is easy to remember and sing along to. All these factors make me predict that this song will be a winner at the Eurovision Song Contest.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Ein Bißchen Frieden" by Nicole from Germany will be a loser.
+These are the lyrics of that song:
+
+"Wie eine Blume am Winterbeginn
+Und so wie ein Feuer im eisigen Wind
+Wie eine Puppe, die keiner mehr mag
+Fühl ich mich an manchem Tag
+
+Dann seh ich die Wolken, die über uns sind
+Und höre die Schreie der Vögel im Wind
+Ich singe aus Angst vor dem Dunkeln mein Lied
+Und hoffe, dass nichts geschieht
+
+Ein bisschen Frieden, ein bisschen Sonne
+Für diese Erde, auf der wir wohnen
+Ein bisschen Frieden, ein bisschen Freude
+Ein bisschen Wärme, das wünsch ich mir
+
+Ein bisschen Frieden, ein bisschen Träumen
+Und dass die Menschen nicht so oft weinen
+Ein bisschen Frieden, ein bisschen Liebe
+Dass ich die Hoffnung nie mehr verlier
+
+Ich weiss, meine Lieder, die ändern nicht viel
+Ich bin nur ein Mädchen, das sagt, was es fühlt
+Allein bin ich hilflos, ein Vogel im Wind
+Der spürt, dass der Sturm beginnt
+
+Ein bisschen Frieden, ein bisschen Sonne
+Für diese Erde, auf der wir wohnen
+Ein bisschen Frieden, ein bisschen Freude
+Ein bisschen Wärme, das wünsch ich mir
+
+Ein bisschen Frieden, ein bisschen Träumen
+Und dass die Menschen nicht so oft weinen
+Ein bisschen Frieden, ein bisschen Liebe
+Dass ich die Hoffnung nie mehr verlier
+
+Sing mit mir ein kleines Lied
+(Ein bisschen Frieden, ein bisschen Sonne)
+(Für diese Erde, auf der wir wohnen)
+Dass die Welt in Frieden lebt
+(Ein bisschen Frieden, ein bisschen Freude)
+(Ein bisschen Wärme, das wünsch ich mir)
+
+Singt mit mir ein kleines Lied
+(Ein bisschen Frieden, ein bisschen Träumen)
+(Und dass die Menschen nicht so oft weinen)
+Dass die Welt in Frieden lebt
+(Ein bisschen Frieden, ein bisschen Liebe)
+(Dass ich die Hoffnung nie mehr verlier)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Singt mit mir ein kleines Lied". Write a natural language explanation of your prediction.
+Based on the given lyrics, my prediction is that the song "Ein Bißchen Frieden" by Nicole from Germany will be a loser at the Eurovision Song Contest. The line "Singt mit mir ein kleines Lied" had the biggest influence on my prediction as it suggests that the song might lack originality and might not stand out among the other contestants. The lyrics, while promoting a message of peace and hope, may be seen as simplistic and clichéd, and not able to capture the attention and enthusiasm of the Eurovision audience. Additionally, the song's slow tempo and lack of catchy melody might not be well-received by the viewers and the judges. All these factors lead me to predict that the song will not be a winner at the contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Nuku Pommiin" by Kojo from Finland will be a loser.
+These are the lyrics of that song:
+
+"Jos joku nakkaa ydinkakkaa kohta tänne Eurooppaamme
+Niin mitä haastat, kun kaikki saastat sieltä kasvoillemme saamme
+Jos joku viskaa pommin niskaan, niin sä tuskin huomaatkaan
+
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+
+Pommiin, pommiin, nuku pommiin, niin on helpompaa
+Nuku pom, nuku pom, nuku pommiin, se rauhoittaa
+
+Liian kauan haaveillen nukuit alla taivaiden
+Tukkaasi raastat vaan, käy neuvottelemaan
+
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+
+Ja nuku pommiin, pommiin, nuku pommiin, niin on helpompaa
+Nuku pom, nuku pom, nuku pommiin, se rauhoittaa
+
+Nyt jengi istuu, osallistuu neuvotteluseurantaan
+Tieteen aivot ja toisten raivot, punoo salajuoniaan
+Jos et sä herää tällä erää, niin et herää ollenkaan
+
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+
+Nuku pommiin, pommiin, nuku pommiin, niin on helpompaa
+Nuku pom, nuku pom, nuku pommiin, se rauhoittaa
+
+Pommiin, pommiin, nuku pommiin, niin on helpompaa
+Nuku pom, nuku pom, nuku pommiin, se rauhoittaa"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Nuku pommiin, pommiin, nuku pommiin, niin on helpompaa". Write a natural language explanation of your prediction.
+Based on the lyrics of "Nuku Pommiin" by Kojo from Finland, the line "Nuku pommiin, pommiin, nuku pommiin, niin on helpompaa" seems to suggest the idea of sleeping through a bomb explosion, which is a highly sensitive and controversial topic. Eurovision Song Contest tends to steer clear of songs with political or sensitive messages as they aim to provide a platform for musical entertainment and cultural exchange. Additionally, the lyrics of the song don't seem to be particularly catchy or memorable, which could also be a factor in its predicted loss. Overall, these factors led to the prediction that "Nuku Pommiin" is likely to be a loser in the Eurovision Song Contest.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Nuku Pommiin" by Kojo from Finland will be a winner.
+These are the lyrics of that song:
+
+"Jos joku nakkaa ydinkakkaa kohta tänne Eurooppaamme
+Niin mitä haastat, kun kaikki saastat sieltä kasvoillemme saamme
+Jos joku viskaa pommin niskaan, niin sä tuskin huomaatkaan
+
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+
+Pommiin, pommiin, nuku pommiin, niin on helpompaa
+Nuku pom, nuku pom, nuku pommiin, se rauhoittaa
+
+Liian kauan haaveillen nukuit alla taivaiden
+Tukkaasi raastat vaan, käy neuvottelemaan
+
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+
+Ja nuku pommiin, pommiin, nuku pommiin, niin on helpompaa
+Nuku pom, nuku pom, nuku pommiin, se rauhoittaa
+
+Nyt jengi istuu, osallistuu neuvotteluseurantaan
+Tieteen aivot ja toisten raivot, punoo salajuoniaan
+Jos et sä herää tällä erää, niin et herää ollenkaan
+
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+(Nuku tuuti, aa... aa... aa... tuuti)
+
+Nuku pommiin, pommiin, nuku pommiin, niin on helpompaa
+Nuku pom, nuku pom, nuku pommiin, se rauhoittaa
+
+Pommiin, pommiin, nuku pommiin, niin on helpompaa
+Nuku pom, nuku pom, nuku pommiin, se rauhoittaa"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Niin mitä haastat, kun kaikki saastat sieltä kasvoillemme saamme". Write a natural language explanation of your prediction.
+Based on the lyrics of "Nuku Pommiin" by Kojo, and specifically the line "Niin mitä haastat, kun kaikki saastat sieltä kasvoillemme saamme" which translates to "What will you do when we receive all the pollution and filth from there?", it appears that the song has a political message about the dangers of nuclear war and the importance of disarmament. This kind of message tends to resonate well with the Eurovision audience, who often appreciate songs with a strong message and a clear social or political stance. Furthermore, the upbeat and catchy melody of the song, combined with the memorable refrain "Nuku Pommiin" (which translates to "Sleep Bomb"), may help it stand out and appeal to a wide audience. Therefore, based on these factors, it is plausible that "Nuku Pommiin" could be a winner at the Eurovision song contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Si La Vie Est Cadeau" by Corinne Hermès from Luxembourg will be a winner.
+These are the lyrics of that song:
+
+"Nous, c'était du bleu
+Un ciel d'été, un océan transparent
+Nous, nous étions deux
+Et l'on s'aimait à faire arrêter le temps
+
+Mais le temps nous a trahis
+Alors pourquoi m'avoir promis la terre entière?
+Notre amour aurait suffi
+Je ne voulais pas d'un bonheur imaginaire
+Si la vie est cadeau
+
+Si la vie est un cadeau
+Cadeau donné, cadeau repris, cadeau volé
+Prends l'amour comme un cadeau
+Cadeau donné, cadeau repris, cadeau volé
+Le bonheur est trop court
+
+Nous, c'était l'enfant que je voulais
+Pour te l'offrir au printemps
+
+Mais le temps a tous les droits
+Alors pourquoi m'avoir promis la terre entière
+Et l'enfant qui n'est pas là?
+C'est aujourd'hui mon seul bonheur imaginaire
+Si la vie est cadeau
+
+Si la vie est un cadeau
+Cadeau donné, cadeau repris, cadeau volé
+Prends l'amour comme un cadeau
+Cadeau donné, cadeau repris, cadeau volé
+Le bonheur est trop court
+
+(Si la vie est un cadeau)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Cadeau donné, cadeau repris, cadeau volé". Write a natural language explanation of your prediction.
+??? - Based on the lyrics, the line "Cadeau donné, cadeau repris, cadeau volé" suggests that the song is about the fleeting nature of life and the importance of cherishing the moments we have. The song seems to have an emotional and relatable message, which is often appealing to Eurovision audiences. Additionally, the song is performed by Corinne Hermès, who won the Eurovision Song Contest in 1983, which could increase its chances of success. Overall, the combination of meaningful lyrics, a talented performer, and a relatable message could make this song a potential winner.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Si La Vie Est Cadeau" by Corinne Hermès from Luxembourg will be a loser.
+These are the lyrics of that song:
+
+"Nous, c'était du bleu
+Un ciel d'été, un océan transparent
+Nous, nous étions deux
+Et l'on s'aimait à faire arrêter le temps
+
+Mais le temps nous a trahis
+Alors pourquoi m'avoir promis la terre entière?
+Notre amour aurait suffi
+Je ne voulais pas d'un bonheur imaginaire
+Si la vie est cadeau
+
+Si la vie est un cadeau
+Cadeau donné, cadeau repris, cadeau volé
+Prends l'amour comme un cadeau
+Cadeau donné, cadeau repris, cadeau volé
+Le bonheur est trop court
+
+Nous, c'était l'enfant que je voulais
+Pour te l'offrir au printemps
+
+Mais le temps a tous les droits
+Alors pourquoi m'avoir promis la terre entière
+Et l'enfant qui n'est pas là?
+C'est aujourd'hui mon seul bonheur imaginaire
+Si la vie est cadeau
+
+Si la vie est un cadeau
+Cadeau donné, cadeau repris, cadeau volé
+Prends l'amour comme un cadeau
+Cadeau donné, cadeau repris, cadeau volé
+Le bonheur est trop court
+
+(Si la vie est un cadeau)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Mais le temps a tous les droits". Write a natural language explanation of your prediction.
+Based on the lyrics of "Si La Vie Est Cadeau" by Corinne Hermès from Luxembourg, the line "Mais le temps a tous les droits" had the biggest influence on my prediction that this song will be a loser at the Eurovision Song Contest. This line translates to "But time has all the rights", and it suggests a theme of loss and disappointment in the song. The lyrics express the sorrow of a failed relationship and missed opportunities, which can make the song seem melancholic and less appealing to a broad audience. Additionally, the song's slow pace and lack of a catchy hook or memorable melody may also contribute to its predicted lack of success.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Opera" by Çetin Alp and the Short Wave from Turkey will be a loser.
+These are the lyrics of that song:
+
+"İşte opera, heyecan fırtınası
+Coşar ruhumda, duyarım sönmez o aşkı
+
+Baleli aşk dolu, müzikli oyunlar
+Uvertür, trio, duetto, korolar
+Saraydan kız kaçırma, ölmez La Traviata
+
+Opera, opera, opera, opera, opera
+Opera, opera, opera, opera, Carmen, Aida
+Opera, opera, bu gece operalarda
+Tosca, Figaro, Fidelio var, coşkun aryalar
+
+Lay lay la lay lay lay la lay la lay...
+(Opera, opera, opera, opera, opera)
+Lay lay la lay lay lay la lay la lay...
+(Opera, opera, opera, opera), Carmen, Aida
+Opera, opera, bu gece operalarda
+Tosca, Figaro, Fidelio var, coşkun aryalar
+
+İşte opera, Wagner ve Puccini
+Mozart, Rossini, Verdi'nin ölmez eseri
+
+Baleli aşk dolu, müzikli oyunlar
+Uvertür, trio, duetto, korolar
+Saraydan kız kaçırma, ölmez La Traviata
+Ölmez asla"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "İşte opera, Wagner ve Puccini". Write a natural language explanation of your prediction.
+??? - Based on the title "Opera" and the lyrics of the song which prominently mention famous composers of opera such as Wagner, Puccini, Mozart, Rossini, and Verdi, my prediction is that the song is likely to be a loser at the Eurovision song context. While the song may appeal to fans of opera and classical music, it may not have the broad appeal necessary to win a popular music contest like Eurovision. Additionally, the lyrics are primarily descriptive of the various types of operatic performances, rather than telling a story or conveying a message, which may not engage the audience as effectively as more emotionally resonant songs.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Opera" by Çetin Alp and the Short Wave from Turkey will be a winner.
+These are the lyrics of that song:
+
+"İşte opera, heyecan fırtınası
+Coşar ruhumda, duyarım sönmez o aşkı
+
+Baleli aşk dolu, müzikli oyunlar
+Uvertür, trio, duetto, korolar
+Saraydan kız kaçırma, ölmez La Traviata
+
+Opera, opera, opera, opera, opera
+Opera, opera, opera, opera, Carmen, Aida
+Opera, opera, bu gece operalarda
+Tosca, Figaro, Fidelio var, coşkun aryalar
+
+Lay lay la lay lay lay la lay la lay...
+(Opera, opera, opera, opera, opera)
+Lay lay la lay lay lay la lay la lay...
+(Opera, opera, opera, opera), Carmen, Aida
+Opera, opera, bu gece operalarda
+Tosca, Figaro, Fidelio var, coşkun aryalar
+
+İşte opera, Wagner ve Puccini
+Mozart, Rossini, Verdi'nin ölmez eseri
+
+Baleli aşk dolu, müzikli oyunlar
+Uvertür, trio, duetto, korolar
+Saraydan kız kaçırma, ölmez La Traviata
+Ölmez asla"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Saraydan kız kaçırma, ölmez La Traviata". Write a natural language explanation of your prediction.
+Based on the lyrics of the song "Opera" by Çetin Alp and the Short Wave from Turkey, my prediction is that it will be a winner at the Eurovision song contest. The line "Saraydan kız kaçırma, ölmez La Traviata" suggests that the song is paying homage to some of the great works of opera, specifically La Traviata, which is a well-known and beloved opera by Giuseppe Verdi. The reference to other famous operas such as Carmen, Aida, Tosca, Figaro, and Fidelio also indicates that the song is likely to resonate with a broad audience that appreciates classical music and opera. Overall, the grand and passionate themes of the lyrics, combined with the references to classic operas, make "Opera" a strong contender for winning the Eurovision song contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "¿Quién Maneja Mi Barca?" by Remedios Amaya from Spain will be a loser.
+These are the lyrics of that song:
+
+"Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+
+Ay, ¿quién maneja mi barca?
+Que a la deriva me lleva
+Ay, ¿quién maneja mi barca?
+Que a la deriva
+Que allí me lleva
+
+Las trenzas de tu madre, anda y dime quién
+Que dime quién se las peina, dime quién
+Que dime quién se las peina
+
+Voy a pedirle que me trence, anda y sí
+Tu cabeza, mi cabeza, anda y sí
+Tu cabeza, mi cabeza
+Por mucho que tú me pidas, yo te lo doy
+
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+
+Ay, ¿quién maneja mi barca?
+Que a la deriva me lleva
+Ay, ¿quién maneja mi barca?
+Que a la deriva
+Que allí me lleva
+
+El verde de tus ojos verdes, mírame
+Que mira que yo te mire, mírame
+Que mira que yo te mire
+
+El verde como cualquier verde, mírame
+Que es verde que me persigue, mírame
+Que es verde que me persigue
+Por mucho que tú me pidas, yo te lo doy
+
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+
+Ay, ¿quién maneja mi barca?
+Que a la deriva me lleva
+Ay, ¿quién maneja mi barca?
+Que a la deriva
+Que allí me lleva
+
+Por mucho que tú me pidas, yo te lo doy
+
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Que mira que yo te mire". Write a natural language explanation of your prediction.
+As an AI model trained on past Eurovision songs, I analyze various factors such as the title, singer, country of origin, and lyrics to predict the success of a song in the competition. In the case of "¿Quién Maneja Mi Barca?" by Remedios Amaya from Spain, the lyrics appear to be repetitive and lack a clear message or story. The line "Que mira que yo te mire" is a repetitive phrase that is repeated multiple times throughout the song without any significant variation in the melody or rhythm. This repetition, combined with the lack of a clear message or story, may lead to the song being perceived as monotonous and uninteresting by Eurovision audiences, which could result in the song being a loser.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "¿Quién Maneja Mi Barca?" by Remedios Amaya from Spain will be a winner.
+These are the lyrics of that song:
+
+"Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+
+Ay, ¿quién maneja mi barca?
+Que a la deriva me lleva
+Ay, ¿quién maneja mi barca?
+Que a la deriva
+Que allí me lleva
+
+Las trenzas de tu madre, anda y dime quién
+Que dime quién se las peina, dime quién
+Que dime quién se las peina
+
+Voy a pedirle que me trence, anda y sí
+Tu cabeza, mi cabeza, anda y sí
+Tu cabeza, mi cabeza
+Por mucho que tú me pidas, yo te lo doy
+
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+
+Ay, ¿quién maneja mi barca?
+Que a la deriva me lleva
+Ay, ¿quién maneja mi barca?
+Que a la deriva
+Que allí me lleva
+
+El verde de tus ojos verdes, mírame
+Que mira que yo te mire, mírame
+Que mira que yo te mire
+
+El verde como cualquier verde, mírame
+Que es verde que me persigue, mírame
+Que es verde que me persigue
+Por mucho que tú me pidas, yo te lo doy
+
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+
+Ay, ¿quién maneja mi barca?
+Que a la deriva me lleva
+Ay, ¿quién maneja mi barca?
+Que a la deriva
+Que allí me lleva
+
+Por mucho que tú me pidas, yo te lo doy
+
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?
+Ay, ¿quién maneja mi barca, quién?
+Que a la deriva me lleva, ¿quién?"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Voy a pedirle que me trence, anda y sí". Write a natural language explanation of your prediction.
+As an AI, I analyze different aspects of a song to make my predictions. In this case, the song "¿Quién Maneja Mi Barca?" by Remedios Amaya from Spain has caught my attention due to its strong emotional expression and the use of traditional flamenco elements. The line "Voy a pedirle que me trence, anda y sí" stands out to me as it showcases the strong emotions and passion conveyed throughout the song. The repetition of the line "Ay, ¿quién maneja mi barca, quién?" also adds to the emotional intensity and creates a powerful sense of uncertainty and vulnerability. Overall, I believe that the combination of the emotional intensity, the traditional flamenco elements, and the powerful vocal performance make this song a potential winner at the Eurovision Song Contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Diggi-loo Diggy-ley" by Herrey's from Sweden will be a winner.
+These are the lyrics of that song:
+
+"Blixtar och dunder, magiska under
+Plötsligt en dag har det hänt, åh... vilken tur
+(Du är en lyckofigur)
+
+En dag i staden, (du gick där och tänkte)
+På esplanaden, (då såg du nåt som blänkte)
+Det kändes som jag hade vingar
+Åh... vilken underbar dröm
+
+Diggi-loo diggi-ley, alla tittar på mig
+Där jag går i mina gyllne skor
+Jag dansade omkring på gatan
+Och hela världen den log
+
+Diggi-loo diggi-ley, himlen öppnade sig
+Det är knappt man sina ögon tror
+Åh... jag börjar nästan sväva
+I mina gyllene skor
+
+Jag har visioner för millioner
+Gyllene dojor för dig och lyckan är gjord
+(Säg mer, vi tror på ditt ord)
+
+Tänk dig ett hinder, (det flyger du över)
+Vingar på skorna (är allt vad du behöver)
+Åh... jag kan bli vad jag önskar
+I min förtrollade värld
+
+Diggi-loo diggi-ley, alla tittar på mig
+Där jag går i mina gyllne skor
+Jag dansade omkring på gatan
+Och hela världen den log
+
+Diggi-loo diggi-ley, himlen öppnade sig
+Det är knappt man sina ögon tror
+Åh... jag börjar nästan sväva
+I mina gyllene skor
+
+Det var en önskedröm men jag måste medge
+Att när jag vaknade vakna' jag med glädje
+Jag, en sång och en dansman
+Åh... åh...
+
+Diggi-loo diggi-ley, himlen öppnade sig
+Det är knappt man sina ögon tror
+Åh... jag ville gärna önska
+Åt alla gyllene skor
+
+Åh... jag ville gärna önska
+Åt alla gyllene skor"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "I mina gyllene skor". Write a natural language explanation of your prediction.
+??? - Based on the analysis of the given song "Diggi-loo Diggy-ley" by Herrey's from Sweden, and taking into account the title, singer, country of origin, and the lyrics, my prediction is that this song will be a winner at the Eurovision Song Contest. The reason behind this prediction is the recurring theme of "golden shoes" throughout the lyrics, which can be interpreted as a metaphor for success and achieving one's dreams. This theme is further emphasized in the chorus, where the singer declares that he is dancing in his "golden shoes" and the whole world is watching him. The lyrics also convey a positive and upbeat message, encouraging listeners to overcome obstacles and pursue their goals with determination and positivity. Additionally, the song has a catchy melody and upbeat tempo, which are often favored by Eurovision audiences. All these factors combined suggest that "Diggi-loo Diggy-ley" has a high chance of winning the competition.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Diggi-loo Diggy-ley" by Herrey's from Sweden will be a loser.
+These are the lyrics of that song:
+
+"Blixtar och dunder, magiska under
+Plötsligt en dag har det hänt, åh... vilken tur
+(Du är en lyckofigur)
+
+En dag i staden, (du gick där och tänkte)
+På esplanaden, (då såg du nåt som blänkte)
+Det kändes som jag hade vingar
+Åh... vilken underbar dröm
+
+Diggi-loo diggi-ley, alla tittar på mig
+Där jag går i mina gyllne skor
+Jag dansade omkring på gatan
+Och hela världen den log
+
+Diggi-loo diggi-ley, himlen öppnade sig
+Det är knappt man sina ögon tror
+Åh... jag börjar nästan sväva
+I mina gyllene skor
+
+Jag har visioner för millioner
+Gyllene dojor för dig och lyckan är gjord
+(Säg mer, vi tror på ditt ord)
+
+Tänk dig ett hinder, (det flyger du över)
+Vingar på skorna (är allt vad du behöver)
+Åh... jag kan bli vad jag önskar
+I min förtrollade värld
+
+Diggi-loo diggi-ley, alla tittar på mig
+Där jag går i mina gyllne skor
+Jag dansade omkring på gatan
+Och hela världen den log
+
+Diggi-loo diggi-ley, himlen öppnade sig
+Det är knappt man sina ögon tror
+Åh... jag börjar nästan sväva
+I mina gyllene skor
+
+Det var en önskedröm men jag måste medge
+Att när jag vaknade vakna' jag med glädje
+Jag, en sång och en dansman
+Åh... åh...
+
+Diggi-loo diggi-ley, himlen öppnade sig
+Det är knappt man sina ögon tror
+Åh... jag ville gärna önska
+Åt alla gyllene skor
+
+Åh... jag ville gärna önska
+Åt alla gyllene skor"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Åh... jag börjar nästan sväva". Write a natural language explanation of your prediction.
+??? - Based on the given lyrics, my prediction that the song "Diggi-loo Diggy-ley" by Herrey's from Sweden will be a loser at the Eurovision song contest is primarily influenced by the line "Åh... jag börjar nästan sväva" which translates to "Oh... I'm starting to almost float". This line suggests that the lyrics of the song are overly simplistic and lack depth or complexity, which may make it less likely to resonate with the Eurovision audience and judges. Additionally, the song's title and the use of repetitive sounds in the lyrics may also contribute to the prediction of it being a loser. However, it's important to note that this prediction is solely based on the given information, and there may be other factors that could impact the final outcome of the contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Einfach Weg" by Anita from Austria will be a loser.
+These are the lyrics of that song:
+
+"Es war einfach Zeit, einmal abzuhauen
+Endlich raus, aus dem Trott, aus der Stadt, im Morgengrauen
+Es lag nicht an dir, es war einfach da
+Und es tut mir nicht leid, und ich hab' nicht bereut, was geschah
+
+Einfach weg mit zwei Koffern in irgendein anderes Land
+Einfach weg von zu Haus, sonst verlier' ich noch den Verstand
+Einfach weg, ganz egal, was die anderen dazu sagen
+Einfach weg, ohne dich oder irgendwen andern zu fragen
+
+Rette sich wer kann, ich muß einfach raus
+Ich fang' von vorne an, ich halt' das nicht mehr aus
+
+Ich hab' schon geglaubt, es wäre längst zu spät
+Das Gefühl, wenn dir alles nur mehr auf die Nerven geht
+Ein bißchen allein, aber dafür frei
+Und du steigst in den Zug, und dir ist im Moment alles einerlei
+
+Einfach weg mit zwei Koffern in irgendein anderes Land
+Einfach weg von zu Haus, sonst verlier' ich noch den Verstand
+
+Rette sich wer kann, ich muß einfach raus
+Ich fang' von vorne an, ich halt' das nicht mehr aus
+
+Einfach weg mit zwei Koffern und dann, irgendwohin
+Einfach weg, auch wenn ich vielleicht bald wieder bei dir bin
+Einfach weg mit zwei Koffern und dann, irgendwohin
+Einfach weg, auch wenn ich vielleicht bald wieder bei dir bin"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Einfach weg von zu Haus, sonst verlier' ich noch den Verstand". Write a natural language explanation of your prediction.
+Based on the lyrics of the song "Einfach Weg" by Anita from Austria, my prediction is that it will be a loser at the Eurovision song context. The lyrics describe a feeling of wanting to escape from one's current life, and the line "Einfach weg von zu Haus, sonst verlier' ich noch den Verstand" expresses a desire to leave home and escape the monotony and frustration of daily life. While this sentiment may resonate with some listeners, it is not typically the kind of uplifting or celebratory message that tends to resonate with Eurovision audiences. Additionally, the song's overall tone is somewhat melancholic and lacks the energy and excitement that often characterizes winning Eurovision entries.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Einfach Weg" by Anita from Austria will be a winner.
+These are the lyrics of that song:
+
+"Es war einfach Zeit, einmal abzuhauen
+Endlich raus, aus dem Trott, aus der Stadt, im Morgengrauen
+Es lag nicht an dir, es war einfach da
+Und es tut mir nicht leid, und ich hab' nicht bereut, was geschah
+
+Einfach weg mit zwei Koffern in irgendein anderes Land
+Einfach weg von zu Haus, sonst verlier' ich noch den Verstand
+Einfach weg, ganz egal, was die anderen dazu sagen
+Einfach weg, ohne dich oder irgendwen andern zu fragen
+
+Rette sich wer kann, ich muß einfach raus
+Ich fang' von vorne an, ich halt' das nicht mehr aus
+
+Ich hab' schon geglaubt, es wäre längst zu spät
+Das Gefühl, wenn dir alles nur mehr auf die Nerven geht
+Ein bißchen allein, aber dafür frei
+Und du steigst in den Zug, und dir ist im Moment alles einerlei
+
+Einfach weg mit zwei Koffern in irgendein anderes Land
+Einfach weg von zu Haus, sonst verlier' ich noch den Verstand
+
+Rette sich wer kann, ich muß einfach raus
+Ich fang' von vorne an, ich halt' das nicht mehr aus
+
+Einfach weg mit zwei Koffern und dann, irgendwohin
+Einfach weg, auch wenn ich vielleicht bald wieder bei dir bin
+Einfach weg mit zwei Koffern und dann, irgendwohin
+Einfach weg, auch wenn ich vielleicht bald wieder bei dir bin"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Ich hab' schon geglaubt, es wäre längst zu spät". Write a natural language explanation of your prediction.
+Based on the line "Ich hab' schon geglaubt, es wäre längst zu spät", my prediction is that the song "Einfach Weg" by Anita from Austria will be a winner at the Eurovision Song Contest. This line suggests a sense of determination and perseverance in the face of adversity, and the theme of leaving behind a monotonous or stifling situation to start anew in a different place is likely to resonate with many people. Additionally, the singer's emotive delivery and the upbeat tempo of the song create a catchy and inspiring vibe that is likely to appeal to a wide audience. Overall, these factors make me confident in my prediction that this song will be a hit at the Eurovision Song Contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "La Det Swinge" by Bobbysocks from Norway will be a winner.
+These are the lyrics of that song:
+
+"Fra en radio strømmer gamle melodier
+Og jeg våkner opp og spør meg hva som skjer
+Er det bare drøm og fantasier
+Når jeg føler at det swinger mer og mer?
+
+La det swinge, la det rock 'n' roll
+La det swinge til du mister all kontroll
+Oh hi oh...
+La det swinge, la det rock 'n' roll
+
+La musikken gå, la rytmen aldri stanse
+Kan du kjenne at du lever her og nå?
+Føler du hvor gjerne du vil danse?
+Oh... og hører du at hjertet slår og slår?
+
+La det swinge, la det rock 'n' roll
+La det swinge til du mister all kontroll
+Oh hi oh...
+La det swinge, la det rock 'n' roll
+
+Føler du hvor gjerne du vil danse?
+Hører du at hjertet slår og slår
+Og slår?
+
+La det swinge, la det rock 'n' roll
+La det swinge til du mister all kontroll
+Oh hi oh...
+La det swinge, la det rock 'n' roll
+
+La det swinge, la det rock 'n' roll
+La det swinge til du mister all kontroll
+Oh hi oh...
+La det swinge, la det rock 'n'...
+Swinge, la det roll 'n'...
+Swinge, la det rock 'n' roll"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Når jeg føler at det swinger mer og mer?". Write a natural language explanation of your prediction.
+Based on the lyrics of the song "La Det Swinge" by Bobbysocks from Norway, and particularly the line "Når jeg føler at det swinger mer og mer?" which means "When I feel that it's swinging more and more?", my prediction is that this song will be a winner at the Eurovision Song Contest. The lyrics express a joyful and upbeat attitude towards music and dancing, with an invitation to let loose and lose control to the rhythm. This type of positive and lively energy is often well-received by the Eurovision audience and the judges, and has historically been a successful formula for winning the contest. Additionally, the song's catchy melody and memorable chorus further enhance its chances of being a hit.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "La Det Swinge" by Bobbysocks from Norway will be a loser.
+These are the lyrics of that song:
+
+"Fra en radio strømmer gamle melodier
+Og jeg våkner opp og spør meg hva som skjer
+Er det bare drøm og fantasier
+Når jeg føler at det swinger mer og mer?
+
+La det swinge, la det rock 'n' roll
+La det swinge til du mister all kontroll
+Oh hi oh...
+La det swinge, la det rock 'n' roll
+
+La musikken gå, la rytmen aldri stanse
+Kan du kjenne at du lever her og nå?
+Føler du hvor gjerne du vil danse?
+Oh... og hører du at hjertet slår og slår?
+
+La det swinge, la det rock 'n' roll
+La det swinge til du mister all kontroll
+Oh hi oh...
+La det swinge, la det rock 'n' roll
+
+Føler du hvor gjerne du vil danse?
+Hører du at hjertet slår og slår
+Og slår?
+
+La det swinge, la det rock 'n' roll
+La det swinge til du mister all kontroll
+Oh hi oh...
+La det swinge, la det rock 'n' roll
+
+La det swinge, la det rock 'n' roll
+La det swinge til du mister all kontroll
+Oh hi oh...
+La det swinge, la det rock 'n'...
+Swinge, la det roll 'n'...
+Swinge, la det rock 'n' roll"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "La det swinge, la det rock 'n'...". Write a natural language explanation of your prediction.
+Based on the lyrics of "La Det Swinge" by Bobbysocks from Norway, the line "La det swinge, la det rock 'n' roll" had the biggest influence on my prediction that this song will be a loser at the Eurovision Song Contest. This is because the lyrics of the song are quite repetitive and lack depth and creativity. The song's focus on the simple and repetitive phrase "La det swinge, la det rock 'n' roll" throughout the entire song gives the impression that the song is lacking in substance and originality. The Eurovision Song Contest tends to reward songs that are unique, emotionally powerful, or that have a strong message. In contrast, "La Det Swinge" seems to lack these elements and relies heavily on a catchy but repetitive phrase. Therefore, I predict that this song will not be a winner at the Eurovision Song Contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Laat Me Nu Gaan" by Linda Lepomme from Belgium will be a loser.
+These are the lyrics of that song:
+
+"Laat me nu gaan, zeg niets meer, laat me nu gaan
+Voel je dan niet, jouw woorden helpen mij al lang niet meer
+Toe, laat me gaan, vergeet me, laat me toch gaan
+Zag je dan nooit dat zonder warmte geen liefde kan leven?
+En ik mijn leven opnieuw wil dromen
+Alsof ik jou nooit had ontmoet?
+
+Nooit wil ik weer bij jou zijn, jij doet me pijn
+Nooit wil ik weer me door een ander laten leven
+Raak me niet aan, nee, raak me niet aan
+Laat me alleen, ik zag de wereld alleen door jouw ogen
+Voel me bedrogen, ik hield van jou
+Dat heb jij nooit verstaan, nooit verstaan
+
+Zie je nou wat ik jou steeds maar zeggen wou?
+Dan weet je ook hoelang een lege nacht kan duren
+Als je hoopt en wacht, doodop en moegedacht
+Besef je nou dat iets in mij zal breken als ik jou verlaat?
+
+Laat me niet gaan, kijk me toch aan
+Laat me niet gaan, laat jij me zomaar gaan?"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Als je hoopt en wacht, doodop en moegedacht". Write a natural language explanation of your prediction.
+Based on the lyrics of "Laat Me Nu Gaan" by Linda Lepomme from Belgium, the line "Als je hoopt en wacht, doodop en moegedacht" had the biggest influence on my prediction that this song will be a loser at the Eurovision Song Contest. This line suggests a feeling of hopelessness and exhaustion, which can be interpreted as a lack of energy and passion in the song. Additionally, the overall melancholic and sad tone of the song may not be well received by the audience and the judges, who tend to favor more upbeat and energetic songs at the competition.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Laat Me Nu Gaan" by Linda Lepomme from Belgium will be a winner.
+These are the lyrics of that song:
+
+"Laat me nu gaan, zeg niets meer, laat me nu gaan
+Voel je dan niet, jouw woorden helpen mij al lang niet meer
+Toe, laat me gaan, vergeet me, laat me toch gaan
+Zag je dan nooit dat zonder warmte geen liefde kan leven?
+En ik mijn leven opnieuw wil dromen
+Alsof ik jou nooit had ontmoet?
+
+Nooit wil ik weer bij jou zijn, jij doet me pijn
+Nooit wil ik weer me door een ander laten leven
+Raak me niet aan, nee, raak me niet aan
+Laat me alleen, ik zag de wereld alleen door jouw ogen
+Voel me bedrogen, ik hield van jou
+Dat heb jij nooit verstaan, nooit verstaan
+
+Zie je nou wat ik jou steeds maar zeggen wou?
+Dan weet je ook hoelang een lege nacht kan duren
+Als je hoopt en wacht, doodop en moegedacht
+Besef je nou dat iets in mij zal breken als ik jou verlaat?
+
+Laat me niet gaan, kijk me toch aan
+Laat me niet gaan, laat jij me zomaar gaan?"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Als je hoopt en wacht, doodop en moegedacht". Write a natural language explanation of your prediction.
+??? - Based on the line "Als je hoopt en wacht, doodop en moegedacht", which translates to "If you hope and wait, exhausted and tired of thinking", it seems that the song is about a person who is fed up with waiting for love and is ready to move on from a relationship that has caused them pain. This type of emotional and relatable content often appeals to Eurovision audiences and has been a common theme in past winning songs. Additionally, Linda Lepomme is an established artist from Belgium and her powerful vocals may also contribute to the success of the song. These factors combined make it likely that "Laat Me Nu Gaan" by Linda Lepomme from Belgium will be a winner at the Eurovision song contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "J'aime La Vie" by Sandra Kim from Belgium will be a winner.
+These are the lyrics of that song:
+
+"Je vois des gens courber le dos
+Comme si la vie marquait zéro
+Moi, j'ai quinze ans et je te dis
+Whoa whoa...  j'aime la vie
+(J'aime la vie – la vie, toute la vie)
+
+Il faut y croire, j'ai moi aussi
+Des flashs d'espoir, des insomnies
+Mais au total, à l'addition
+J'aime l'horizon
+
+J'aime, j'aime la vie
+(Même si c'est une folie)
+J'aime, j'aime la vie
+(Bravo pour le défi)
+J'aime, j'aime la vie
+Ne m'en veuillez pas
+Je suis née comme ça
+J'aime, j'aime la vie
+
+Whoa... et tant pis
+S'il pleut un peu beaucoup sur moi
+Whoa whoa... tu es là
+
+Devant Jacques Brel, devant Mozart
+Je m'sens petite, j'ai le cafard
+Je ne suis rien qu'une poussière
+Dans cet univers
+(C'est la vie – la vie, toute la vie)
+
+Mais dès qu'tu m'aimes, dès qu'tu souris
+Mes joies s'enchaînent à l'infini
+Y a plus de Brel, plus de Mozart
+Ma vie redémarre
+
+J'aime, j'aime la vie
+(Même si c'est une folie)
+J'aime, j'aime la vie
+(Bravo pour le défi)
+J'aime, j'aime la vie
+Ne m'en veuillez pas
+Je suis née comme ça
+J'aime, j'aime la vie
+
+Tant pis s'il pleut un peu sur moi
+
+J'aime, j'aime la vie
+(Même si c'est une folie)
+J'aime, j'aime la vie
+(Bravo pour le défi)
+J'aime, j'aime la vie
+Ne m'en veuillez pas
+Je suis née comme ça
+
+J'aime, j'aime la vie
+(Même si c'est une folie)
+J'aime, j'aime la vie
+(Bravo pour le défi)
+Pour les jours qui n'vont pas
+J'ai un truc à moi
+Je compte sur toi
+J'aime, j'aime la vie
+
+Whoa... et tant pis
+S'il pleut un peu beaucoup sur moi
+Whoa whoa... la vie – oui, tu es là"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "J'aime, j'aime la vie". Write a natural language explanation of your prediction.
+The line "J'aime, j'aime la vie" in the chorus of the song "J'aime La Vie" by Sandra Kim from Belgium suggests a positive and upbeat attitude towards life, which is likely to resonate well with the audience. The lyrics express a message of hope and resilience, encouraging listeners to believe in themselves and embrace life despite its challenges. Additionally, the song's melody and rhythm are catchy and energetic, which can make it appealing to the viewers and potentially lead to a strong performance on stage. Overall, based on these factors, the AI predicts that "J'aime La Vie" will be a winner at the Eurovision Song Contest.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "J'aime La Vie" by Sandra Kim from Belgium will be a loser.
+These are the lyrics of that song:
+
+"Je vois des gens courber le dos
+Comme si la vie marquait zéro
+Moi, j'ai quinze ans et je te dis
+Whoa whoa...  j'aime la vie
+(J'aime la vie – la vie, toute la vie)
+
+Il faut y croire, j'ai moi aussi
+Des flashs d'espoir, des insomnies
+Mais au total, à l'addition
+J'aime l'horizon
+
+J'aime, j'aime la vie
+(Même si c'est une folie)
+J'aime, j'aime la vie
+(Bravo pour le défi)
+J'aime, j'aime la vie
+Ne m'en veuillez pas
+Je suis née comme ça
+J'aime, j'aime la vie
+
+Whoa... et tant pis
+S'il pleut un peu beaucoup sur moi
+Whoa whoa... tu es là
+
+Devant Jacques Brel, devant Mozart
+Je m'sens petite, j'ai le cafard
+Je ne suis rien qu'une poussière
+Dans cet univers
+(C'est la vie – la vie, toute la vie)
+
+Mais dès qu'tu m'aimes, dès qu'tu souris
+Mes joies s'enchaînent à l'infini
+Y a plus de Brel, plus de Mozart
+Ma vie redémarre
+
+J'aime, j'aime la vie
+(Même si c'est une folie)
+J'aime, j'aime la vie
+(Bravo pour le défi)
+J'aime, j'aime la vie
+Ne m'en veuillez pas
+Je suis née comme ça
+J'aime, j'aime la vie
+
+Tant pis s'il pleut un peu sur moi
+
+J'aime, j'aime la vie
+(Même si c'est une folie)
+J'aime, j'aime la vie
+(Bravo pour le défi)
+J'aime, j'aime la vie
+Ne m'en veuillez pas
+Je suis née comme ça
+
+J'aime, j'aime la vie
+(Même si c'est une folie)
+J'aime, j'aime la vie
+(Bravo pour le défi)
+Pour les jours qui n'vont pas
+J'ai un truc à moi
+Je compte sur toi
+J'aime, j'aime la vie
+
+Whoa... et tant pis
+S'il pleut un peu beaucoup sur moi
+Whoa whoa... la vie – oui, tu es là"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Whoa whoa... tu es là". Write a natural language explanation of your prediction.
+??? - Based on the lyrics and other factors, I predict that the song "J'aime La Vie" by Sandra Kim from Belgium will be a loser at the Eurovision Song Contest. The line "Whoa whoa... tu es là" did not have a significant influence on my prediction. Rather, my prediction is based on a combination of factors, such as the repetitive and simplistic nature of the lyrics, the dated musical style, and the fact that the song has not had a lasting impact or popularity since its win in 1986.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Tora Zo" by Elpida from Cyprus will be a loser.
+These are the lyrics of that song:
+
+"Enas galanos uranos
+Ki amudhia hrisi i kardhia mu
+Ke mes' ta onira mu
+Ola tora yinonde horos
+
+Makrino nisi ksotiko
+Pu ehis san krimeno luludhi
+Sto kathe su tragudhi
+Rythmiko, melodhiko skopo
+
+Tora, tora zo, tora mono zo
+Zo afta pu zusa sta onira mu
+Tora, tora zo, tora mono zo
+Tora zo ke s' eho stin kardhia mu
+
+Tragudhane hilia pulia
+Ki eyine o kosmos fiesta
+T' asteria tora dhes ta
+Yinonde olotherma filia
+
+Pezi to fengari krifto
+Ke horevi pano sto kima
+Ola piyenun prima
+San ena hamoyelo gliko
+
+Tora, tora zo, tora mono zo
+Zo afta pu zusa sta onira mu
+Tora, tora zo, tora mono zo
+Tora zo ke s' eho stin kardhia mu
+
+Ola, ola, ola yia horo
+Musiki, traguthi ke rythmo
+Nana nanana...
+Ola, ola, ola yia horo
+Musiki, traguthi ke rythmo
+Nana nanana...
+
+Tora, tora zo, tora mono zo
+Zo afta pu zusa sta onira mu
+Tora, tora zo, mono tora zo
+Tora zo ke s' eho stin kardhia mu
+
+Tora, tora zo, tora mono zo
+Zo afta pu zusa sta onira mu
+Tora, tora zo, mono, mono zo
+Tora zo ke s' eho stin kardhia mu"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Enas galanos uranos". Write a natural language explanation of your prediction.
+Based on the line "Enas galanos uranos" in the lyrics of the song "Tora Zo" by Elpida from Cyprus, my prediction is that the song will be a loser in the Eurovision song contest. The reason for this prediction is that the line does not contain any particularly strong emotional or thematic content that would resonate with a wide audience. Additionally, the overall tone and melody of the song do not seem to be particularly catchy or memorable. While there are other elements of the song that could potentially be appealing, such as the use of traditional instruments and the upbeat tempo, the lack of a strong and memorable hook in the lyrics makes it less likely to be a winning entry.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Tora Zo" by Elpida from Cyprus will be a winner.
+These are the lyrics of that song:
+
+"Enas galanos uranos
+Ki amudhia hrisi i kardhia mu
+Ke mes' ta onira mu
+Ola tora yinonde horos
+
+Makrino nisi ksotiko
+Pu ehis san krimeno luludhi
+Sto kathe su tragudhi
+Rythmiko, melodhiko skopo
+
+Tora, tora zo, tora mono zo
+Zo afta pu zusa sta onira mu
+Tora, tora zo, tora mono zo
+Tora zo ke s' eho stin kardhia mu
+
+Tragudhane hilia pulia
+Ki eyine o kosmos fiesta
+T' asteria tora dhes ta
+Yinonde olotherma filia
+
+Pezi to fengari krifto
+Ke horevi pano sto kima
+Ola piyenun prima
+San ena hamoyelo gliko
+
+Tora, tora zo, tora mono zo
+Zo afta pu zusa sta onira mu
+Tora, tora zo, tora mono zo
+Tora zo ke s' eho stin kardhia mu
+
+Ola, ola, ola yia horo
+Musiki, traguthi ke rythmo
+Nana nanana...
+Ola, ola, ola yia horo
+Musiki, traguthi ke rythmo
+Nana nanana...
+
+Tora, tora zo, tora mono zo
+Zo afta pu zusa sta onira mu
+Tora, tora zo, mono tora zo
+Tora zo ke s' eho stin kardhia mu
+
+Tora, tora zo, tora mono zo
+Zo afta pu zusa sta onira mu
+Tora, tora zo, mono, mono zo
+Tora zo ke s' eho stin kardhia mu"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Ola, ola, ola yia horo". Write a natural language explanation of your prediction.
+Based on the analysis of the lyrics, the AI predicts that "Tora Zo" by Elpida from Cyprus will be a winner at the Eurovision song context. The prediction is largely influenced by the line "Ola, ola, ola yia horo", which appears to be a catchy and memorable phrase that can easily engage the audience and encourage them to dance along. Additionally, the song has a lively and upbeat rhythm, with a combination of traditional and modern music elements, which is likely to appeal to a wide audience. The lyrics also contain references to celebration, joy, and love, which are common themes in popular music and can further increase the song's appeal. Based on these factors, the AI has predicted that "Tora Zo" has a high chance of winning the Eurovision song context.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Hold Me Now" by Johnny Logan from Ireland will be a winner.
+These are the lyrics of that song:
+
+"Don't, don't close your heart to how you feel
+Dream, and don't be afraid the dream's not real
+Close your eyes, pretend it's just the two of us again
+Make believe this moment's here to stay
+
+Touch, touch me the way you used to do
+I know tonight could be all I'll have with you
+From now on, you'll be with someone else instead of me
+So tonight, let's fill this memory
+For the last time
+
+Hold me now
+Don't cry, don't say a word
+Just hold me now
+And I will know
+Though we're apart
+We'll always be together
+Forever in love
+What do you say when words are not enough?
+
+Time, time will be kind once we're apart
+And your tears, tears will have no place in your heart
+I wish I... I could say how much I'll miss you when you're gone
+How my love for you will go on and on and
+
+Hold me now
+Don't cry, don't say a word
+Just hold me now
+And try to understand that
+
+I hope at last you've found
+What you've been searchin' for
+And though I won't be there anymore
+I will always love you
+
+(Hold me now)
+(Don't cry) Don't say a word
+Just hold me now
+And I will know
+Though we're apart
+We'll always be together
+Forever in love
+What do you say when words are not enough?
+
+What can I say?
+Now my words are not enough"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "What you've been searchin' for". Write a natural language explanation of your prediction.
+Based on the lyrics of "Hold Me Now" by Johnny Logan from Ireland, the line "What you've been searchin' for" had the biggest influence on my prediction that the song will be a winner at the Eurovision song contest. The lyrics of the song evoke a sense of nostalgia and longing, as the singer sings about holding onto a moment with a loved one who is about to leave. The line "What you've been searchin' for" conveys a message of hope and fulfillment, suggesting that the love that the singer and the loved one share is what both of them have been searching for. This emotional message, combined with the powerful and emotional vocals of Johnny Logan, are likely to resonate with the audience and judges, making "Hold Me Now" a strong contender to win the competition.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Hold Me Now" by Johnny Logan from Ireland will be a loser.
+These are the lyrics of that song:
+
+"Don't, don't close your heart to how you feel
+Dream, and don't be afraid the dream's not real
+Close your eyes, pretend it's just the two of us again
+Make believe this moment's here to stay
+
+Touch, touch me the way you used to do
+I know tonight could be all I'll have with you
+From now on, you'll be with someone else instead of me
+So tonight, let's fill this memory
+For the last time
+
+Hold me now
+Don't cry, don't say a word
+Just hold me now
+And I will know
+Though we're apart
+We'll always be together
+Forever in love
+What do you say when words are not enough?
+
+Time, time will be kind once we're apart
+And your tears, tears will have no place in your heart
+I wish I... I could say how much I'll miss you when you're gone
+How my love for you will go on and on and
+
+Hold me now
+Don't cry, don't say a word
+Just hold me now
+And try to understand that
+
+I hope at last you've found
+What you've been searchin' for
+And though I won't be there anymore
+I will always love you
+
+(Hold me now)
+(Don't cry) Don't say a word
+Just hold me now
+And I will know
+Though we're apart
+We'll always be together
+Forever in love
+What do you say when words are not enough?
+
+What can I say?
+Now my words are not enough"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Dream, and don't be afraid the dream's not real". Write a natural language explanation of your prediction.
+Based on the given lyrics, my prediction is that "Hold Me Now" by Johnny Logan from Ireland will be a loser at the Eurovision Song Contest. The line "Dream, and don't be afraid the dream's not real" suggests that the song is a sentimental ballad about a love that has ended or is about to end. The lyrics are focused on nostalgia and longing, with phrases like "For the last time" and "Though we're apart, we'll always be together" suggesting a sense of finality and loss. Such emotional and nostalgic songs often do not perform well at Eurovision, where upbeat and catchy songs tend to be favored by audiences. Therefore, I predict that "Hold Me Now" will not be a crowd-pleaser and will likely receive a low score.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Şarkım sevgi üstüne" by Seyyal Tanner & Lokomotif from Turkey will be a loser.
+These are the lyrics of that song:
+
+"Bir melodi (ve müzik ve) bir melodi
+Bir melodi, dostluk, sevgi
+
+La la la la... la la la la... la la la la la la la la la la...
+La la la la la la la la la la...
+Şarkım sevgi üstüne
+
+Yalan değil benim dünyam
+Hayal değil gerçek rüyam
+Bütün dünya duysun diye
+Şarkı yazdım üstüne
+
+Benim şarkım sevgi dolu
+Benim şarkım dostluk dolu
+Benim yolum aklın yolu
+Yolum sevgi üstüne
+
+Bir melodi, bir melodi
+Bir melodi, dostluk, sevgi
+
+Öyle güzel, güzel ki hayat
+Dünya güzel, dünya rahat
+Dostluğunu şarkıma kat
+Söyle sevgi üstüne
+
+Bir melodi (ve müzik ve) bir melodi
+Bir melodi, dostluk, sevgi
+
+Güle güle, döne döne
+Koy elini el üstüne
+Bütün dünya duysun diye
+Şarkım sevgi üstüne
+
+Güle güle, döne döne
+Sar kolunu sar belime
+Bütün dünya duysun diye
+Şarkım sevgi üstüne
+Şarkım sevgi üstüne
+Şarkım sevgi üstüne"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Sar kolunu sar belime". Write a natural language explanation of your prediction.
+As an AI model trained on past Eurovision winners and losers, I analyze various aspects of a song, including its title, singer, country of origin, and lyrics, to make a prediction on its potential success. In the case of "Şarkım sevgi üstüne" by Seyyal Tanner & Lokomotif from Turkey, the line "Sar kolunu sar belime" was a contributing factor to my prediction that the song will be a loser. This line, which means "Wrap your arms around my waist" in Turkish, is a romantic phrase that could potentially limit the song's appeal and relevance to a wider audience, and thus reduce its chances of success in the competition. Additionally, the overall simplicity of the song's melody and lyrics may not be enough to captivate the Eurovision audience and judges, further lowering its prospects.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Şarkım sevgi üstüne" by Seyyal Tanner & Lokomotif from Turkey will be a winner.
+These are the lyrics of that song:
+
+"Bir melodi (ve müzik ve) bir melodi
+Bir melodi, dostluk, sevgi
+
+La la la la... la la la la... la la la la la la la la la la...
+La la la la la la la la la la...
+Şarkım sevgi üstüne
+
+Yalan değil benim dünyam
+Hayal değil gerçek rüyam
+Bütün dünya duysun diye
+Şarkı yazdım üstüne
+
+Benim şarkım sevgi dolu
+Benim şarkım dostluk dolu
+Benim yolum aklın yolu
+Yolum sevgi üstüne
+
+Bir melodi, bir melodi
+Bir melodi, dostluk, sevgi
+
+Öyle güzel, güzel ki hayat
+Dünya güzel, dünya rahat
+Dostluğunu şarkıma kat
+Söyle sevgi üstüne
+
+Bir melodi (ve müzik ve) bir melodi
+Bir melodi, dostluk, sevgi
+
+Güle güle, döne döne
+Koy elini el üstüne
+Bütün dünya duysun diye
+Şarkım sevgi üstüne
+
+Güle güle, döne döne
+Sar kolunu sar belime
+Bütün dünya duysun diye
+Şarkım sevgi üstüne
+Şarkım sevgi üstüne
+Şarkım sevgi üstüne"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Benim şarkım sevgi dolu". Write a natural language explanation of your prediction.
+The line "Benim şarkım sevgi dolu" means "My song is full of love" in English. This line, along with the overall theme of the song being about love and friendship, suggests that the song has a positive and uplifting message that could resonate with audiences. Additionally, the melody of the song is described as being beautiful and easy to listen to, which further enhances its potential to be a winner at the Eurovision song contest. Therefore, based on these factors, the AI predicts that "Şarkım sevgi üstüne" by Seyyal Tanner & Lokomotif from Turkey will be a winner.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Ne Partez Pas Sans Moi" by Céline Dion from Switzerland will be a winner.
+These are the lyrics of that song:
+
+"Vous, qui cherchez l'étoile
+Vous, qui vivez un rêve
+Vous, héros de l'espace
+Au cœur plus grand que la terre
+Vous, donnez-moi ma chance
+Emmenez-moi loin d'ici...
+
+Ne partez pas sans moi
+Laissez-moi vous suivre
+Vous, qui volez vers d'autres vies
+Laissez-moi vivre
+
+La plus belle aventure
+Le plus beau voyage
+Qui mène un jour
+Sur des soleils, sur des planètes
+D'amour
+
+Vous, les nouveaux poètes
+Vous, les oiseaux magiques
+Vous, vous allez peut-être
+Trouver de nouvelles musiques
+Vous, donnez-moi ma chance
+Je veux chanter, moi aussi...
+
+Ne partez pas sans moi
+Laissez-moi vous suivre
+Vous qui volez vers d'autres vies
+Laissez-moi vivre
+
+Le bleu de l'infini
+La joie d'être libre
+Sur des rayons, sur des soleils
+Sur des chansons, sur des merveilles
+Et dans un ciel
+D'amour
+
+Le bleu de l'infini
+La joie d'être libre
+Vous qui cherchez une autre vie
+Vous qui volez vers l'an deux mille
+Ne partez pas sans moi"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Qui mène un jour". Write a natural language explanation of your prediction.
+??? - Based on the analysis of the lyrics and other factors, I predict that "Ne Partez Pas Sans Moi" by Céline Dion from Switzerland will be a winner at the Eurovision song contest. The line "Qui mène un jour" is a part of the chorus and it means "that leads one day". This line suggests a theme of hope, adventure, and the pursuit of a brighter future. The song has an uplifting melody, and Céline Dion's powerful vocals are likely to resonate with the audience. Additionally, Céline Dion is an internationally renowned artist, and her previous success in the music industry could also contribute to the song's potential victory. Overall, the combination of the positive lyrics, the strong vocals, and the artist's reputation make me predict that "Ne Partez Pas Sans Moi" will be a winning song.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Ne Partez Pas Sans Moi" by Céline Dion from Switzerland will be a loser.
+These are the lyrics of that song:
+
+"Vous, qui cherchez l'étoile
+Vous, qui vivez un rêve
+Vous, héros de l'espace
+Au cœur plus grand que la terre
+Vous, donnez-moi ma chance
+Emmenez-moi loin d'ici...
+
+Ne partez pas sans moi
+Laissez-moi vous suivre
+Vous, qui volez vers d'autres vies
+Laissez-moi vivre
+
+La plus belle aventure
+Le plus beau voyage
+Qui mène un jour
+Sur des soleils, sur des planètes
+D'amour
+
+Vous, les nouveaux poètes
+Vous, les oiseaux magiques
+Vous, vous allez peut-être
+Trouver de nouvelles musiques
+Vous, donnez-moi ma chance
+Je veux chanter, moi aussi...
+
+Ne partez pas sans moi
+Laissez-moi vous suivre
+Vous qui volez vers d'autres vies
+Laissez-moi vivre
+
+Le bleu de l'infini
+La joie d'être libre
+Sur des rayons, sur des soleils
+Sur des chansons, sur des merveilles
+Et dans un ciel
+D'amour
+
+Le bleu de l'infini
+La joie d'être libre
+Vous qui cherchez une autre vie
+Vous qui volez vers l'an deux mille
+Ne partez pas sans moi"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Vous, qui cherchez l'étoile". Write a natural language explanation of your prediction.
+??? - Based on the lyrics, the line "Vous, qui cherchez l'étoile" suggests a theme of searching and longing for something beyond the present, which may not resonate strongly with the audience. Additionally, the overall tone of the song is somewhat melancholic, which may not be as appealing in a competition like Eurovision. While Céline Dion is a well-known and talented singer, these factors may contribute to the prediction that the song will not be a winner.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Lisa Mona Lisa" by Wilfried from Austria will be a loser.
+These are the lyrics of that song:
+
+"Sie schläft bei Tag und tanzt bei Nacht
+Ich hör' sie weinen, wenn sie lacht
+Und sie lacht immer wieder
+
+Sie sieht bei Nacht und braucht kein Licht
+Sie malt sich Märchen ins Gesicht
+Und sie lacht, lacht mich nieder
+
+Irgendwann lern' ich dann, sie zu sehen
+Irgendwann fang' ich an
+Kann ich hinter ihre Farben seh'n?
+
+(Lisa, Mona Lisa)
+(Lisa, Mona Lisa)
+
+Sie lügt, doch sie belügt mich nicht
+Sie trägt ihr Leben im Gesicht, und sie lebt
+
+Irgendwo ist sie so schwer zu sehen
+Irgendwo bin ich froh
+Manchmal ihre Träume zu verstehen
+
+Lisa, Mona Lisa
+Lisa, Mona Lisa
+
+Lisa, Mona Lisa
+Lisa, Mona Lisa
+
+Sie taumelt durch die Glitzerstadt
+Sucht einen, der ein Lächeln hat für sie
+Irgendwie
+
+Und irgendwie mag ich sie
+Und irgendwie lieb' ich sie
+Und irgendwann werd' ich sie auch versteh'n
+
+Whoa...
+Lisa, Mona Lisa
+Lisa, Mona Lisa
+
+Lisa, Mona Lisa
+Lisa, Mona Lisa
+
+Lisa, oh Mona Lisa
+Lisa, (Mona Lisa)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Whoa...". Write a natural language explanation of your prediction.
+??? - I'm sorry, but the line "Whoa..." is not a part of the lyrics that could have influenced my prediction as it doesn't provide any meaningful information. It seems to be an interjection or an expression of emotion rather than a significant phrase or sentence. However, based on the overall sentiment and meaning of the lyrics, as well as other factors like the title, singer, and country of origin, I predict that "Lisa Mona Lisa" by Wilfried from Austria will be a loser in the Eurovision song contest. The lyrics don't convey a clear message, and the melody may not be catchy enough to captivate the audience.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Lisa Mona Lisa" by Wilfried from Austria will be a winner.
+These are the lyrics of that song:
+
+"Sie schläft bei Tag und tanzt bei Nacht
+Ich hör' sie weinen, wenn sie lacht
+Und sie lacht immer wieder
+
+Sie sieht bei Nacht und braucht kein Licht
+Sie malt sich Märchen ins Gesicht
+Und sie lacht, lacht mich nieder
+
+Irgendwann lern' ich dann, sie zu sehen
+Irgendwann fang' ich an
+Kann ich hinter ihre Farben seh'n?
+
+(Lisa, Mona Lisa)
+(Lisa, Mona Lisa)
+
+Sie lügt, doch sie belügt mich nicht
+Sie trägt ihr Leben im Gesicht, und sie lebt
+
+Irgendwo ist sie so schwer zu sehen
+Irgendwo bin ich froh
+Manchmal ihre Träume zu verstehen
+
+Lisa, Mona Lisa
+Lisa, Mona Lisa
+
+Lisa, Mona Lisa
+Lisa, Mona Lisa
+
+Sie taumelt durch die Glitzerstadt
+Sucht einen, der ein Lächeln hat für sie
+Irgendwie
+
+Und irgendwie mag ich sie
+Und irgendwie lieb' ich sie
+Und irgendwann werd' ich sie auch versteh'n
+
+Whoa...
+Lisa, Mona Lisa
+Lisa, Mona Lisa
+
+Lisa, Mona Lisa
+Lisa, Mona Lisa
+
+Lisa, oh Mona Lisa
+Lisa, (Mona Lisa)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Sie malt sich Märchen ins Gesicht". Write a natural language explanation of your prediction.
+Based on the line "Sie malt sich Märchen ins Gesicht" which means "She paints fairy tales on her face", my prediction is that the song has a unique and creative concept that captures the audience's attention. The line suggests a whimsical and imaginative quality to the song that is likely to appeal to Eurovision audiences. Additionally, the use of the name "Mona Lisa" in the title is intriguing and may generate curiosity and interest among viewers. Overall, the lyrics convey a sense of mystery and allure that could make the song a potential winner at the Eurovision song contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Rock Me" by Riva from Yugoslavia will be a winner.
+These are the lyrics of that song:
+
+"Oh... whoa oh oh oh...
+
+On cijele dane svir'o je na svom klaviru
+On klasiku je svir'o po notnom papiru
+A svir'o je k'o pijanista – Mozarta, Chopena, Liszta
+Ja novu pjesmu našla sam da svira
+Whoa  oh oh oh...
+
+Rock me, baby, nije važno šta je
+Rock me, baby, samo neka traje
+Rock me, baby, ovo je za nervni stres
+Whoa oh oh oh...
+
+Rock me, baby, nije važno šta je
+Rock me, baby, samo neka traje
+Rock me, baby, samo neka je za ples
+
+Sad cijele dane čujem zvuk starog klavira
+Tu pjesmu što se svira bez notnog papira
+Jer klasika je da se sluša i da se njom opija duša
+A ova pjesma svira se za ples
+Whoa oh oh oh...
+
+Rock me, baby, nije važno šta je
+Rock me, baby, samo neka traje
+Rock me, baby, ovo je za nervni stres
+Whoa oh oh oh...
+
+Rock me, baby, nije važno šta je
+Rock me, baby, samo neka traje
+Rock me, baby, samo neka je za ples
+Whoa oh oh oh...
+
+Rock me, baby, nije važno šta je
+(Ooh... rock, babe)
+Rock me, baby, samo neka traje
+(Ooh... rock, rock, rock)
+Rock me, baby, ovo je za nervni stres
+(Ooh... rock, babe)
+(Rock me, baby) Whoa oh oh oh...
+
+Rock me, baby, nije važno šta je
+(Ooh... rock, babe)
+Rock me, baby, samo neka traje
+(Ooh... rock, rock, rock)
+Rock me, baby, samo neka je za ples
+(Ooh... rock, babe)
+Samo neka je za ples
+(Ooh... rock, rock, rock)
+Samo neka je za...
+(Ooh... rock, babe)
+Whoa oh oh oh... ples"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "On cijele dane svir'o je na svom klaviru". Write a natural language explanation of your prediction.
+Based on the lyrics of "Rock Me" by Riva from Yugoslavia, my prediction is that it will be a winner at the Eurovision song contest. The lyrics suggest that the song has a catchy and upbeat rhythm that is suitable for dancing and can help relieve stress. The repeated line "Rock me, baby" is also indicative of a strong, memorable chorus. However, the line that had the biggest influence on my prediction is "On cijele dane svir'o je na svom klaviru" which roughly translates to "He played on his piano all day long." This suggests that the song has a strong musical foundation and skilled musicianship, which could appeal to the judges and the audience. Overall, the lyrics and the musical composition of the song seem to be well-constructed and engaging, making it a likely contender for a winning position.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Rock Me" by Riva from Yugoslavia will be a loser.
+These are the lyrics of that song:
+
+"Oh... whoa oh oh oh...
+
+On cijele dane svir'o je na svom klaviru
+On klasiku je svir'o po notnom papiru
+A svir'o je k'o pijanista – Mozarta, Chopena, Liszta
+Ja novu pjesmu našla sam da svira
+Whoa  oh oh oh...
+
+Rock me, baby, nije važno šta je
+Rock me, baby, samo neka traje
+Rock me, baby, ovo je za nervni stres
+Whoa oh oh oh...
+
+Rock me, baby, nije važno šta je
+Rock me, baby, samo neka traje
+Rock me, baby, samo neka je za ples
+
+Sad cijele dane čujem zvuk starog klavira
+Tu pjesmu što se svira bez notnog papira
+Jer klasika je da se sluša i da se njom opija duša
+A ova pjesma svira se za ples
+Whoa oh oh oh...
+
+Rock me, baby, nije važno šta je
+Rock me, baby, samo neka traje
+Rock me, baby, ovo je za nervni stres
+Whoa oh oh oh...
+
+Rock me, baby, nije važno šta je
+Rock me, baby, samo neka traje
+Rock me, baby, samo neka je za ples
+Whoa oh oh oh...
+
+Rock me, baby, nije važno šta je
+(Ooh... rock, babe)
+Rock me, baby, samo neka traje
+(Ooh... rock, rock, rock)
+Rock me, baby, ovo je za nervni stres
+(Ooh... rock, babe)
+(Rock me, baby) Whoa oh oh oh...
+
+Rock me, baby, nije važno šta je
+(Ooh... rock, babe)
+Rock me, baby, samo neka traje
+(Ooh... rock, rock, rock)
+Rock me, baby, samo neka je za ples
+(Ooh... rock, babe)
+Samo neka je za ples
+(Ooh... rock, rock, rock)
+Samo neka je za...
+(Ooh... rock, babe)
+Whoa oh oh oh... ples"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Whoa oh oh oh... ples". Write a natural language explanation of your prediction.
+Based on the lyrics of "Rock Me" by Riva from Yugoslavia, the line "Whoa oh oh oh... ples" had the biggest influence on my prediction that the song will be a loser. This line is repeated throughout the song and is part of the chorus. The song seems to lack creativity and originality, as the lyrics are very repetitive and simplistic. The focus on just repeating the same phrase over and over again does not demonstrate a lot of artistic merit, and the lyrics overall do not stand out as particularly compelling or innovative. Additionally, the song's melody and rhythm are somewhat monotonous and uninspired, and there is not much variation in the music or vocal performance. Therefore, based on these factors, I predict that "Rock Me" by Riva will not be a strong contender in the Eurovision Song Contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Það Sem Enginn Sér" by Daníel Augúst Haraldsson from Iceland will be a loser.
+These are the lyrics of that song:
+
+"Lýstu mina leið, lostafulli gamli máni
+Þótt gatan virðist greið er samt ýmislegt sem enginn sér
+Veröldin er full af fólki í leit að hamingjunni
+Sem glóir eins og gull í glætunni, ó tungl, frá þér
+
+Horfðu aftur í augun á mér
+Horfðu aftur, ég bíð eftir þér
+Horfðu aftur í augun á mér
+Og þú færð að sjá það sem enginn sér
+
+Allir eiga þrá um eitthvað sem þeir engum segja
+Ég ætla ef ég má að eiga leyndarmál með þér
+Lýstu mina leið, ó, þú lostafulli gamli máni
+Þótt gatan virðist greið er samt ýmislegt sem enginn sér
+
+Horfðu aftur í augun á mér
+Horfðu aftur, ég bíð eftir þér
+Horfðu aftur í augun á mér
+Og þú færð að sjá það sem enginn sér
+
+Horfðu aftur í augun á mér
+Horfðu aftur, ég bíð eftir þér
+Horfðu aftur í augun á mér
+Og þú færð að sjá það sem enginn sér"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Og þú færð að sjá það sem enginn sér". Write a natural language explanation of your prediction.
+Based on the title, singer, country of origin, and the lyrics of the song "Það Sem Enginn Sér" by Daníel Augúst Haraldsson from Iceland, I predict that it will be a loser at the Eurovision song context. The line "Og þú færð að sjá það sem enginn sér" (And you get to see what no one sees) is the most influential part of the lyrics that led to this prediction. This line suggests a sense of mystery and secrecy, which may not be well-received by Eurovision audiences who typically prefer more upbeat and energetic performances. Additionally, the Icelandic language may not be familiar or easily understood by many viewers, which could also work against the song's chances of winning.
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Það Sem Enginn Sér" by Daníel Augúst Haraldsson from Iceland will be a winner.
+These are the lyrics of that song:
+
+"Lýstu mina leið, lostafulli gamli máni
+Þótt gatan virðist greið er samt ýmislegt sem enginn sér
+Veröldin er full af fólki í leit að hamingjunni
+Sem glóir eins og gull í glætunni, ó tungl, frá þér
+
+Horfðu aftur í augun á mér
+Horfðu aftur, ég bíð eftir þér
+Horfðu aftur í augun á mér
+Og þú færð að sjá það sem enginn sér
+
+Allir eiga þrá um eitthvað sem þeir engum segja
+Ég ætla ef ég má að eiga leyndarmál með þér
+Lýstu mina leið, ó, þú lostafulli gamli máni
+Þótt gatan virðist greið er samt ýmislegt sem enginn sér
+
+Horfðu aftur í augun á mér
+Horfðu aftur, ég bíð eftir þér
+Horfðu aftur í augun á mér
+Og þú færð að sjá það sem enginn sér
+
+Horfðu aftur í augun á mér
+Horfðu aftur, ég bíð eftir þér
+Horfðu aftur í augun á mér
+Og þú færð að sjá það sem enginn sér"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Og þú færð að sjá það sem enginn sér". Write a natural language explanation of your prediction.
+Based on the lyrics of the song "Það Sem Enginn Sér" by Daníel Augúst Haraldsson from Iceland, my prediction is that it will be a winner at the Eurovision Song Contest. The line "Og þú færð að sjá það sem enginn sér" stands out as a key factor in this prediction. The phrase translates to "And you get to see what no one sees," which suggests a sense of mystery and intrigue that could capture the attention of the audience. Additionally, the overall tone of the song is emotional and introspective, which may resonate with the judges and viewers. The singer's vocal performance and the poetic lyrics further add to the potential appeal of the song, making it a strong contender for a winning title.
+
+
+
+-----------------------------------------
+
+
+
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Insieme: 1992" by Toto Cutugno from Italy will be a loser.
+These are the lyrics of that song:
+
+"Insieme, unite, unite, Europe
+
+Con te, così lontano e diverso
+Con te, amico che credevo perso
+Io e te, sotto lo stesso sogno
+Insieme, unite, unite, Europe
+
+E per te, donna senza frontiere
+Per te, sotto le stesse bandiere
+Io e te, sotto lo stesso cielo
+Insieme, unite, unite, Europe
+
+Sempre più liberi noi
+Non è più un sogno e non sei più da solo
+Sempre più in alto noi
+Dammi una mano che prendiamo il volo
+L'Europa non è lontana
+C'è una canzone italiana per voi
+Insieme, unite, unite, Europe
+
+Per noi, nel cielo mille violini
+Per noi, amori senza confini
+Io e te, sotto gli stessi ideali, mmm...
+Insieme, unite, unite, Europe
+
+Sempre più liberi noi
+Non è più un sogno e noi non siamo più soli
+Sempre più uniti noi
+Dammi una mano e vedrai che voli
+L'Europa non è lontana
+C'è una canzone italiana per voi
+Insieme, unite, unite, Europe
+
+Sempre più liberi noi
+(Sempre più liberi)
+Le nostre stelle, una bandiera sola
+Sempre più forti noi
+(Sempre più forti)
+Dammi una mano e vedrai si vola
+L'Europa non è lontana
+C'è una canzone italiana per voi
+Insieme, unite, unite, Europe
+
+L'Europa non è lontana
+C'è una canzone italiana per voi
+Insieme, unite, unite, Europe"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Con te, così lontano e diverso". Write a natural language explanation of your prediction.
+Based on the line "Con te, così lontano e diverso" which means "With you, so far and different", I predict that the song "Insieme: 1992" by Toto Cutugno from Italy will be a loser at the Eurovision song context. The lyrics suggest a message of unity and togetherness, which is a common theme in Eurovision songs. However, the line "so far and different" may indicate a lack of cohesion and unity among the participating countries, which could detract from the overall message and appeal of the song. Additionally, the lyrics may be perceived as overly sentimental or cheesy, which could further reduce its chances of success in the competition.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Brandenburger Tor" by Ketil Stokkan from Norway will be a loser.
+These are the lyrics of that song:
+
+"En heil verden va' te' stede
+Førr å dele det som skjedde i høst
+Vi så menneska gråte av glede
+Og ei grense åpne mot øst
+Ingen kunne la vær, alle sammen va' der
+Og fick se (fick se) Brandenburger Tor
+
+Her står vi på Brandenburger Tor
+Hånd i hånd som om det va' i går
+Du og æ på Brandenburger Tor
+Vi ser Brandenburger Tor
+Ja, vi ser Brandenburger Tor
+
+Et heilt folk ville leve
+Og førtelle om sin rike kultur
+Vi så sannheta åpent på TV
+Fra en bydel gjemt bak en mur
+Byen løfta sitt slør, allting ser ut som før
+Førr oss (førr oss), på Brandenburger Tor
+
+Her står vi på Brandenburger Tor
+Hånd i hånd som om det va' i går
+Du og æ på Brandenburger Tor
+Vi ser Brandenburger Tor
+
+Etter mange lange år
+En ny vår (ny vår) førr Brandenburger Tor
+
+Her står vi på Brandenburger Tor
+Hånd i hånd som om det va' i går
+Du og æ på Brandenburger Tor
+Vi ser Brandenburger Tor
+
+(Her står vi på Brandenburger Tor)
+Hånd i hånd som om det va' i går
+Du og æ på Brandenburger Tor
+Vi ser Brandenburger Tor
+
+(Her står vi på Brandenburger Tor)
+Hånd i hånd som om det va' i går
+Du og æ på Brandenburger Tor
+Vi ser Brandenburger Tor
+Ja, vi ser Brandenburger Tor"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Hånd i hånd som om det va' i går". Write a natural language explanation of your prediction.
+Based on the provided lyrics, my prediction is that "Brandenburger Tor" by Ketil Stokkan from Norway will be a loser at the Eurovision song contest. The line "Hånd i hånd som om det va' i går" doesn't convey a strong emotional message that is likely to resonate with the audience. Additionally, the lyrics are quite repetitive and lack a clear and memorable chorus, which are important elements of successful Eurovision songs. Furthermore, the song doesn't seem to have a unique or standout quality that would make it stand out from the other entries in the contest. Overall, these factors lead me to predict that "Brandenburger Tor" will not perform well in the competition.
+
+-----------------
+
+
+
+
+-----------------------------------------
+
+
+
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Fri?" by Beat from Finland will be a winner.
+These are the lyrics of that song:
+
+"Oo yeah...
+
+Fri, om jag frågar dig, säger du ej nej
+Frihet har vi väl
+Men, om du frågar mig, vad vår frihet är
+Svarar jag så här:
+
+Fri, vem av oss är fri?
+Fri att tänka själv, att ärligt och stolt vara den vi är, whoa...
+Rädd, rädd att göra fel, fångad i ett spel
+Där de som är lika får leka med, whoa...
+
+Säg, varför dessa krav
+Vad gör mig så svag för ditt yttre skal?
+Vem ger behoven fart?
+Vem gör mig till slav under all reklam?
+
+Fri, vem av oss är fri?
+Fri att tänka själv, att ärligt och stolt vara den vi är, whoa...
+Rädd, rädd att göra fel, fångad i ett spel
+Där de som är lika får leka med, whoa...
+
+Whoa... vem av oss är fri?
+Fri att tänka själv, att ärligt och stolt vara den vi är, whoa...
+Rädd, rädd att göra fel, fångad i ett spel
+Där de som är lika får leka med, whoa...
+
+Fri, vem av oss är fri?
+Fri att tänka själv, att ärligt och stolt vara den vi är, whoa...
+Rädd, rädd att göra fel, fångad i ett spel
+Där de som är lika får leka med, whoa...
+
+Fri?"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Fri, om jag frågar dig, säger du ej nej". Write a natural language explanation of your prediction.
+The line "Fri, om jag frågar dig, säger du ej nej" suggests a theme of freedom and self-expression, which is a common and popular theme in Eurovision songs. Additionally, the lyrics also touch on the idea of being true to oneself and breaking free from societal expectations and norms, which can resonate with a wide audience. Furthermore, the title of the song, "Fri?", which translates to "Free?" in English, also reinforces this theme. All of these factors together make it likely that the song will be well-received by Eurovision audiences and have a good chance of winning.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Fångad Av En Stormvind" by Carola from Sweden will be a winner.
+These are the lyrics of that song:
+
+"Jag har aldrig slutat tro
+Att efter varje natt väntar gryningen
+Fast jag inte kan förstå
+Så finns det tid för skratt när jag börjar om igen
+
+Känner doften från en stilla ocean
+Plötsligt står jag i en levande orkan
+
+Jag är fångad av en stormvind, fast för dig
+Ingenting kan hindra mig när det blåser i mitt hjärta
+Fångad av en stormvind natt och dag
+Här finns bara du och jag, och det ljus som himlen lämnat kvar
+
+Det är dags att ge sig av
+För stunder som har flytt kommer aldrig mer
+Reser ut på öppet hav
+Där allting blir som nytt i den framtid som du ger
+
+Utan saknad lämnar jag min trygga hamn
+Fri men ändå bunden till en öppen famn
+
+Jag är fångad av en stormvind, fast för dig
+Ingenting kan hindra mig när det blåser i mitt hjärta
+Fångad av en stormvind natt och dag
+Här finns bara du och jag, och det ljus som himlen lämnat kvar
+
+Vi går tillsammans, förenad av kärlekens band
+Min längtan vaknar när du ler och räcker mig din hand
+
+Jag är fångad av en stormvind
+Fångad av en stormvind, (fast för dig)
+Ingenting kan hindra mig när det blåser i mitt hjärta
+Fångad av en stormvind natt och dag
+Här finns bara du och jag, och det ljus som himlen lämnat kvar
+
+(Fångad av en stormvind)
+Jag är fångad av en stormvind"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Jag är fångad av en stormvind, fast för dig". Write a natural language explanation of your prediction.
+??? - Based on the lyrics, the line "Jag är fångad av en stormvind, fast för dig" expresses a strong emotional connection and devotion to someone, which could resonate with the audience and the judges. Additionally, the song has a catchy melody and a strong chorus that could be easily memorable and appealing to the viewers. The fact that the song is sung in Swedish could also add a unique and exotic touch to it, making it stand out among the other entries. Therefore, the combination of the emotional lyrics, catchy melody, and unique language could make this song a potential winner.
+
+-----------------
+
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Venedig Im Regen" by Thomas Forstner from Austria will be a loser.
+These are the lyrics of that song:
+
+"Lichter im Regen, ich hab' dich gesehen
+Ein Lächeln wie sanfte Magie
+Verzaubert, erfroren, ganz in dir verloren
+Gefühle so tief wie die Nacht
+
+Stilles Begreifen und Sehnsucht nach mehr
+Zärtliche Augen, will dir gehör'n
+
+Venedig im Regen
+Lass uns diese Nacht einfach träumen (Träumen...)
+Venedig im Regen
+Bis ans Ende der Nacht einfach träumen
+
+Dein Atem ganz leicht, an meiner Schulter vergraben
+Dein Zauber ganz tief in mir
+Erfühlen, erahnen, von dir fortgetragen
+Bei dir sein und doch nicht hier
+
+Stilles Begreifen und Sehnsucht nach mehr
+Zu zärtliche Augen, will dir gehör'n
+
+Venedig im Regen
+Lass uns diese Nacht einfach träumen (Träumen...)
+Venedig im Regen
+Bis ans Ende der Nacht einfach träumen
+
+Venedig im Regen
+(Lass uns diese Nacht) einfach träumen (Träumen...)
+Venedig im Regen
+Bis ans Ende der Nacht einfach träumen
+
+Venedig im Regen
+(Lass uns diese Nacht) einfach träumen
+Träumen"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Lass uns diese Nacht einfach träumen (Träumen...)". Write a natural language explanation of your prediction.
+Based on the provided lyrics, my prediction is that "Venedig Im Regen" by Thomas Forstner from Austria will be a loser at the Eurovision song contest. The line "Lass uns diese Nacht einfach träumen" appears several times in the song, which suggests that the song may be lacking in originality and may not have a strong enough message to captivate the audience. The overall mood of the song is also somewhat melancholic and slow, which may not appeal to the upbeat and energetic atmosphere of the Eurovision song contest.
+
+-----------------
+
+
+
+
+-----------------------------------------
+
+
+
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Why Me" by Linda Martin from Ireland will be a loser.
+These are the lyrics of that song:
+
+"Sometimes I watch you passing by my window
+And sometimes I watch you passing through my dreams
+And sometimes, when I look at you
+You take my breath away
+
+Sometimes I try and understand your reasons
+You choose to feel the way you feel about me
+And sometimes, when I turn around
+And you're there, like today
+I wanna say:
+
+Why me?
+I look at you and I get to feeling
+Why me? (Why me? Ooh...)
+I know it's true but I can't believe it
+I keep on wonderin' why
+My love shines in your eyes
+Why me?
+I look at you and I ask myself
+Why me?
+
+Sometimes I lie awake and watch you sleeping
+And listen to the beating of your heart
+And sometimes, when you're lyin' there
+You take my breath away
+And I wanna say
+
+Why me?
+I look at you and I get to feeling
+Why me? (Why me? Ooh...)
+I know it's true but I can't believe that it's me
+Who's gonna be holdin' you in my arms tonight
+And why it's me
+Who's gonna be the one to make you feel all right
+Tonight
+
+Why me?
+I look at you and I get to feeling
+Why me? (Why me? Ooh...)
+I know it's true but I can't believe it
+I keep on wonderin' why
+My love shines in your eyes
+Why me?
+I look at you and I ask myself
+Why me?
+
+Why me?"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Sometimes I watch you passing by my window". Write a natural language explanation of your prediction.
+Based on the given lyrics, my prediction is that the song "Why Me" by Linda Martin from Ireland will be a loser at the Eurovision song contest. The lyrics of the song do not contain any strong or unique phrases that suggest it will be a winner. Additionally, the line "Sometimes I watch you passing by my window" does not carry a significant emotional weight that would captivate the audience or the judges. Overall, the lyrics of the song do not appear to have a strong impact, and therefore, I predict it will be a loser at the competition.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Yamma Yamma" by Pave from Finland will be a loser.
+These are the lyrics of that song:
+
+"(Yamma yamma yamma yamma yamma yamma yamma ya...)
+(Yamma yamma yamma yamma yamma yamma yamma ya...)
+
+Siitä aikaa on kun putkiradiota kuunneltiin
+Ajatuksissamme tuota laatikkoa muunneltiin
+
+Sen sisällä sata oli soittajaa
+Ne oli pieniä, eikä niitä nähdä saa
+Yammaillaan ja kuunnellaan saundeja vanhan radion
+Se soi kuin stadion vaikka niin snadi on
+
+(Yamma yamma yamma yamma yamma yamma yamma ya...)
+(Yamma yamma yamma yamma yamma yamma yamma ya...)
+
+Kun lauloi radiossa Sinatra tai John Lennon
+Noissa tuokioissa siemeniä onnen on
+O o o...
+
+(Yamma yamma yamma yamma yamma yamma yamma ya...)
+(Yamma yamma yamma yamma yamma yamma...)
+
+Sen sisällä sata oli soittajaa
+Ne oli pieniä, eikä niitä nähdä saa
+Yammaillaan ja kuunnellaan saundeja vanhan radion
+Se soi kuin stadion vaikka niin snadi on
+
+(Yamma yamma yamma yamma yamma yamma yamma ya...)
+(Yamma yamma yamma yamma yamma yamma yamma ya...)
+
+(Yamma yamma yamma yamma yamma yamma yamma ya...)
+(Yamma yamma yamma yamma yamma yamma yamma ya...)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Se soi kuin stadion vaikka niin snadi on". Write a natural language explanation of your prediction.
+Based on the line "Se soi kuin stadion vaikka niin snadi on" from the lyrics of "Yamma Yamma" by Pave, my prediction is that the song will be a loser in the Eurovision song contest. This line implies that the song is not grand or impressive, despite the fact that it sounds like it could fill a stadium. It suggests that the song is lacking in substance or quality, which could be a turn off for the judges and audiences. Additionally, the song's lyrics seem to be about a nostalgic reminiscence of listening to a radio, which may not resonate with the Eurovision audience as much as other themes.
+
+-----------------
+
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "In Your Eyes" by Niamh Kavanagh from Ireland will be a winner.
+These are the lyrics of that song:
+
+"Showing no emotion, my feelings locked inside
+I made myself an island, trying to take my heart and hide
+I built a wall around me, afraid of letting go
+But suddenly an open door I never saw before
+
+In your eyes (Your eyes)
+I see the light leading me home again
+It's heaven in your arms, my love
+My heart is in your hands
+(Heaven in your arms)
+In your eyes (Your eyes)
+Seems so right
+I see forever in your smile
+This woman is a child again
+(In your eyes)
+
+Love's been building bridges between your heart and mine
+I'm safe here on my island, but I'm out on the edge this time
+I built a wall around me, thought I'd save myself the pain
+Your touch swept me away, now I'll never play it safe again
+
+In your eyes (Your eyes)
+I see the light leading me home again
+It's heaven in your arms, my love
+My heart is in your hands
+(Heaven in your arms)
+In your eyes (Your eyes)
+Seems so right
+I see forever in your smile
+This woman is a child again
+
+I've never been this close
+How do I know love will survive?
+I'm walking a tightrope
+Here, in your arms, I'm alive
+
+I'm in your eyes (Your eyes)
+I see the light
+I see forever in your smile
+This woman is a child again
+
+I'm in your eyes (In your eyes)
+(I see the light leading me home again)
+I see the light, I see the light
+(It's heaven in your arms, my love)
+(My heart is in your hands)
+Whoa...
+(In your eyes, feels so right)
+I see forever in your smile
+This woman is a child again
+When I look in your eyes"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "(It's heaven in your arms, my love)". Write a natural language explanation of your prediction.
+Based on the lyrics of "In Your Eyes" by Niamh Kavanagh from Ireland, I predict that this song will be a winner at the Eurovision song contest. The line "It's heaven in your arms, my love" had the biggest influence on my prediction because it expresses a strong emotional connection between the singer and the subject of the song, which is likely to resonate with the audience. The lyrics also convey a sense of vulnerability and willingness to take a risk for love, which can be relatable and endearing to listeners. Additionally, the melody and vocals of the song are powerful and uplifting, which further support the prediction that this song will be a winner.
+
+-----------------
+
+
+
+
+-----------------------------------------
+
+
+
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Iemand Als Jij" by Barbara from Belgium will be a winner.
+These are the lyrics of that song:
+
+"Ik heb nog nooit iemand zo lief gehad
+Al m'n twijfels zijn voorgoed voorbij
+Nooit had ik eerder dat fijn gevoel
+Jij bent alles wat ik bedoel
+
+In je ogen zie ik dat hemelsblauw
+Een warm gevoel waar ik van hou
+Ik heb nog nooit iemand zo lief gehad
+Zo een iemand als jij
+
+Waar ik ook ben, jij zult bij me zijn
+Met jou vind ik steeds de juiste weg
+Oh... ik heb nog nooit iemand zo lief gehad
+Zo een iemand als jij
+
+Jij zult altijd in mijn gedachten zijn
+Wat er ook met ons gebeuren mag
+Weet heel zeker dat ik op je wacht
+Zelfs in 't midden van de nacht
+
+Jij geeft mij vleugels, dat vrije gevoel
+Dat is het nu juist wat ik bedoel
+Ik heb nog nooit iemand zo lief gehad
+Zo een iemand als jij
+Zo een iemand als...
+
+Iemand als jij"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Jij bent alles wat ik bedoel". Write a natural language explanation of your prediction.
+The line "Jij bent alles wat ik bedoel" suggests that the song is a love song, expressing the singer's strong feelings for their significant other. This type of emotional and romantic theme is popular among Eurovision song contest winners. Additionally, the song's title "Iemand Als Jij" (Someone Like You) and the singer's name Barbara from Belgium suggest a heartfelt ballad that could resonate with the audience. Overall, the lyrics and title of the song, combined with the emotional and romantic tone, lead the AI to predict that "Iemand Als Jij" by Barbara from Belgium has a strong chance of winning the Eurovision song contest.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Rock 'n' Roll Kids" by Paul Harrington & Charlie McGettigan from Ireland will be a winner.
+These are the lyrics of that song:
+
+"I remember sixty-two
+I was sixteen and so were you
+And we lived next door on the avenue
+
+Jerry Lee was big and Elvis too
+Blue jeans and blue suede shoes
+And we never knew what life held in store
+We just wanted to rock 'n' roll forever more
+
+We were the rock 'n' roll kids
+Rock 'n' roll was all we did
+And listenin' to those songs on the radio
+I was yours and you were mine
+That was once upon a time
+Now we never seem to rock 'n' roll anymore
+
+Now Johnny's in love with the girl next door
+And Mary's down at the record store
+They don't wanna be around us no more
+
+Golden oldies, but we hardly speak
+Too busy running to a different beat
+Hard to understand we were once like them
+How I wish we could find those rock 'n' roll days again
+
+We were the rock 'n' roll kids
+Rock 'n' roll was all we did
+And listenin' to those songs on the radio
+I was yours and you were mine
+That was once upon a time
+Now we never seem to rock 'n' roll anymore
+
+I was yours and you were mine
+That was once upon a time
+Now we never seem to rock 'n' roll
+We just never seem to rock 'n' roll anymore"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "And we never knew what life held in store". Write a natural language explanation of your prediction.
+Based on the title, lyrics, and other factors, my prediction is that "Rock 'n' Roll Kids" by Paul Harrington & Charlie McGettigan from Ireland will be a winner at the Eurovision Song Contest. The line "And we never knew what life held in store" suggests a sense of nostalgia for a simpler time, when rock 'n' roll was all they did and life was full of possibilities. This nostalgic tone may resonate with audiences, especially those who grew up during the rock 'n' roll era, and create a sentimental connection that could lead to a winning performance. Additionally, the upbeat rhythm and catchy melody of the song may also contribute to its potential success.
+
+-----------------
+
+
+
+
+-----------------------------------------
+
+
+
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Lopšinė mylimai" by Ovidijus Vyšniauskas from Lithuania will be a winner.
+These are the lyrics of that song:
+
+"Tavo lūpos kvepia lietumi
+Nuodėmė paliesti jas, išsipildymo meldžiu
+Sapnas mano į tave įeis
+Likti tamsoje vienai neleis
+
+Mano neliesta styga
+Tu man neliesta
+Mano sapnas į tave
+Lieja svaigų vyną mūsų naktyje
+
+Jau ir visi nakties žiedai akis užmerkė
+Tik tavo toks gilus dangus
+Gėlės kaip ir tu be meilės verkia
+Ir sapnuoja tous pačius sapnus
+
+Mano neliesta styga
+Tu man neliesta
+Mano sapnas į tave
+Lieja svaigų vyną naktyje
+
+Mano neliesta styga
+Tu man neliesta
+Mano sapnas į tave
+Lieja svaigų vyną naktyje"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Gėlės kaip ir tu be meilės verkia". Write a natural language explanation of your prediction.
+The line "Gėlės kaip ir tu be meilės verkia" in the lyrics of "Lopšinė mylimai" by Ovidijus Vyšniauskas from Lithuania is the part that had the biggest influence on my prediction that the song will be a winner at the Eurovision song contest. The line, which roughly translates to "Flowers, like you, weep without love," suggests a sense of longing and emotional depth, which is often valued in songs that do well in the contest. Additionally, the use of the metaphor of flowers weeping without love creates a poignant and memorable image that could resonate with listeners and help the song stand out. Overall, these factors contribute to my prediction that the song has a good chance of being a winner at the contest.
+
+
+
+-----------------------------------------
+
+
+
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Nocturne" by Secret Garden from Norway will be a loser.
+These are the lyrics of that song:
+
+"La dagen få sin hvile nå
+Og natten vil våke for den
+Nocturne
+
+Selv mørket må en gang forgå
+Så natten kan føde en dag"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "La dagen få sin hvile nå". Write a natural language explanation of your prediction.
+??? - The line "La dagen få sin hvile nå" is the only line in the song that is in Norwegian and translates to "Let the day have its rest now." This line suggests that the song is a lullaby or a slow, calming melody, which may not be appealing to the lively and energetic atmosphere of the Eurovision song contest. Additionally, the song is entirely in Norwegian, which may make it difficult for audiences who do not understand the language to connect with the lyrics and the overall message of the song. Therefore, based on these factors, the prediction is that "Nocturne" by Secret Garden from Norway will be a loser.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Verliebt In Dich" by Stone and Stone from Germany will be a loser.
+These are the lyrics of that song:
+
+"Manchmal, wenn ich ratlos bin
+Und mein Glaube sich verirrt
+Tief in mir die Trauer brennt
+Jage nur hinter Träumen her
+
+Ist mein Leben endlos leer?
+Finde keinen Frieden mehr
+Sehnsucht schreit – Geborgenheit
+Doch Du bist da neben mir
+Hey...
+
+Kennst du das Gefühl?
+Du bist allein und die Seele friert
+Mensch sein ist so schwer
+Traue Deinem Engel tief in Dir
+
+Glaub mir, ich steh zu Dir
+Du allein bist der Grund dafür
+Ich fühle Dich nah, so nah bei mir
+Fängst alle meine Tränen auf
+
+Oh Lord, bin verliebt in Dich
+Kann mich nicht wehren, nicht zu erklären
+Was zwischen Himmel und Erde geschieht
+Oh Lord, bin verliebt in Dich
+Kann mich nicht wehren, nicht zu erklären
+Erinnerung bleibt und erzählt von Dir
+Allein Du bist der Grund dafür
+
+Angst, ich lass dich weiter ziehen
+Hab dich oft genug erkannt
+Ich weiss, mir kann jetzt nichts passieren
+Trage ein Herz voll Licht in mir
+
+Stille Nacht, ich traue Dir
+Für mich gibt es keine Zweifel mehr
+Kann Dich niemals mehr verlieren
+Ein Traum wird wahr, nur mit Dir
+
+Oh Lord, bin verliebt in Dich
+Kann mich nicht wehren, nicht zu erklären
+Was zwischen Himmel und Erde geschieht
+Oh Lord, bin verliebt in Dich
+Kann mich nicht wehren, nicht zu erklären
+Erinnerung bleibt und erzählt von Dir
+Allein Du bist der Grund dafür
+
+Du kannst meine Seele sehen
+All das Licht in ihr gehört nur Dir
+
+Oh... bin verliebt in Dich
+Kann mich nicht wehren, nicht zu erklären
+Was zwischen Himmel und Erde geschieht
+Bin so verliebt in Dich (Bin so verliebt in Dich)
+Bin so verliebt in Dich (Bin so verliebt...)"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Für mich gibt es keine Zweifel mehr". Write a natural language explanation of your prediction.
+Based on the lyrics of "Verliebt In Dich" by Stone and Stone from Germany, I predict that this song will be a loser at the Eurovision Song Contest. The line "Für mich gibt es keine Zweifel mehr" implies that the singer is not feeling confident or uncertain about something, which may not resonate well with the audience. Additionally, the overall tone of the song seems to be melancholic and sad, which may not be very appealing to Eurovision viewers who tend to prefer upbeat and energetic songs.
+
+-----------------
+
+
+
+
+-----------------------------------------
+
+
+
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "The Voice" by Eimear Quinn from Ireland will be a loser.
+These are the lyrics of that song:
+
+"I hear your voice on the wind
+And I hear you call out my name
+
+"Listen my child," you say to me
+"I am the voice of your history"
+"Be not afraid, come follow me"
+"Answer my call and I'll set you free"
+
+I am the voice in the wind and the pouring rain
+I am the voice of your hunger and pain
+I am the voice that always is calling you
+I am the voice, I will remain
+
+I am the voice in the fields when the summer's gone
+The dance of the leaves when the autumn winds blow
+Ne'er do I sleep throughout all the cold winter long
+I am the force that in springtime will grow
+
+I am the voice of the past that will always be
+Filled with my sorrows and blood in my fields
+I am the voice of the future
+Bring me your peace
+Bring me your peace and my wounds, they will heal
+
+I am the voice in the wind and the pouring rain
+I am the voice of your hunger and pain
+I am the voice that always is calling you
+I am the voice
+
+I am the voice of the past that will always be
+I am the voice of your hunger and pain
+I am the voice of the future
+I am the voice
+I am the voice
+I am the voice
+I am the voice"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "I am the voice of the future". Write a natural language explanation of your prediction.
+??? - Based on the title of the song "The Voice" and the lyrics that describe the voice as being the force that always calls and never sleeps, the AI has predicted that this song will be a winner. However, upon examining the lyrics further, the AI has revised its prediction and now predicts that the song will be a loser. The line "I am the voice of the future" suggests that the song is meant to inspire hope and optimism for the future, but the overall tone of the lyrics is somewhat somber and introspective, which may not resonate well with Eurovision audiences. Additionally, the lack of a strong chorus or catchy melody may make the song less memorable and less likely to stand out among the other entries. Therefore, the AI has predicted that this song will not perform well in the contest.
+
+
+
+-----------------------------------------
+
+
+
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Niin Kaunis On Taivas" by Jasmine from Finland will be a winner.
+These are the lyrics of that song:
+
+"Niin kaunis on taivas, kaunis on maa
+Me tähtien loisteessa yö kuljetaan
+Rannalle kun käsikkäin saavutaan
+Luonas olla tahdon vaan
+
+Joka sekunnin, jonka kanssas olla saan
+Joka minuutin, tunnen yhä varmemmin
+Rakkaus ikuinen, kohtalomme yhteinen
+Se uni suloinen, kuin on
+
+Niin kaunis on taivas, kaunis on maa
+Me tähtien loisteessa yö kuljetaan
+Rannalle kun käsikkäin saavutaan
+Luonas olla tahdon vaan
+
+Joka sekunnin, jonka luonas olla saan
+Joka minuutin, tunnen yhä paremmin
+Voima tunteiden, meille sykkii rakkauden
+Se uni suloinen kuin on, on
+
+Niin kaunis on taivas, kaunis on maa
+Me tähtien loisteessa yö kuljetaan
+Rannalle kun käsikkäin saavutaan
+Luonas olla tahdon vaan
+
+Niin kaunis on taivas, kaunis on maa
+Me tähtien loisteessa yö kuljetaan
+Rannalle kun käsikkäin saavutaan
+Luonas olla tahdon vaan
+Luonas olla tahdon vaan
+Luonas olla tahdon vaan"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Joka minuutin, tunnen yhä varmemmin". Write a natural language explanation of your prediction.
+The line "Joka minuutin, tunnen yhä varmemmin" translates to "Every minute, I feel more and more certain" in English. This line, along with the overall positive and uplifting tone of the song, suggests that the lyrics are about a strong and enduring love. The use of celestial imagery in the lyrics also adds to the romantic and dreamy atmosphere of the song. These factors lead me to predict that "Niin Kaunis On Taivas" by Jasmine from Finland will be a winner at the Eurovision Song Contest.
+
+
+
+-----------------------------------------
+
+
+
+
+-----------------
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Love Shine A Light" by Katrina and The Waves from United Kingdom will be a loser.
+These are the lyrics of that song:
+
+"Love, shine a light in every corner of my heart
+Let the love light carry, let the love light carry
+Light up the magic in every little part
+Let our love shine a light in every corner of our hearts
+
+Love, shine a light in every corner of my dream
+Let the love light carry, let the love light carry
+Like the mighty river flowin' from the stream
+Let our love shine a light in every corner of my dream
+
+And we're all gonna shine a light together
+All shine a light to light the way
+Brothers and sisters in every little part
+Let our love shine a light in every corner of our hearts
+
+Love, shine a light in every corner of the world
+Let the love light carry, let the love light carry
+Light up the magic for every boy and girl
+Let our love shine a light in every corner of the world
+
+And we're all gonna shine a light together
+All shine a light to light the way
+Brothers and sisters in every little part
+Let our love shine a light in every corner of our hearts
+
+And we're all gonna shine a light together
+All shine a light to light the way
+Brothers and sisters in every little part
+Let our love shine a light in every corner of our hearts
+
+Shine a light in every corner of our hearts"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Love, shine a light in every corner of my dream". Write a natural language explanation of your prediction.
+??? - Based on the lyrics of the song "Love Shine A Light" by Katrina and The Waves, the line "Love, shine a light in every corner of my dream" may have influenced the prediction that the song will be a loser. This could be because the line is somewhat generic and lacks a distinct message or theme that might capture the attention of Eurovision voters. Additionally, the use of repetitive and simple lyrics throughout the song may not make it stand out among the other entries in the competition.
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "San Francisco" by Tor Endresen from Norway will be a loser.
+These are the lyrics of that song:
+
+"Det føles ennå som det var i går
+Da alle sang: "Make love, not war "
+Og hele verden hadde lengre hår
+Det føles som det var i går
+
+Da det å være bror og søster var in
+California dreamin' 
+De store spørsmål og et åpent sinn
+Svarene was blowin' in the wind 
+
+Oh... kjærlighetstid i San Francisco
+Drømmen om fred, en ungdoms vår
+Ingen gevær, no war, no disco 
+Kun vakre blomster i ditt hår
+
+Da alle surfet på en god vibrasjon
+Og USA fikk sin man on the moon 
+Og Jimi Hendrix spilte ild og pasjon
+I Woodstock for en ny generasjon
+
+Yeah... da var det sterkt å være ung og fri
+Livet hadde bedre tid
+Og hele verden hadde lengre hår
+Det føles som det var i går
+
+Yeah yeah... kjærlighetstid i San Francisco
+Drømmen om fred, en ungdoms vår
+Ooh yeah... ingen gevær, no war, no disco 
+Kun vakre blomster i ditt hår
+
+Over jorden lød Lennons sang:
+"Love, love, love "
+Med bud om at kjærlighet gjør alle fri
+Om vi ikke lar den fare forbi
+
+Kjærlighetstid i San Fran...
+Kjærlighetstid i San Francisco
+Drømmen om fred, en ungdoms vår
+Ooh yeah... ingen gevær, no war, no disco 
+Kun vakre blomster i ditt...
+Kun vakre blomster i ditt hår
+Oh yeah..."
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Det føles som det var i går". Write a natural language explanation of your prediction.
+??? - Based on the lyrics and other factors, my prediction is that "San Francisco" by Tor Endresen from Norway will be a loser at the Eurovision Song Contest. The lyrics of the song reflect on the past, particularly the 1960s, and emphasize nostalgia for a time when the world was different. While nostalgia can be a powerful emotion, it may not be enough to captivate audiences and judges at the Eurovision Song Contest. The line "Det føles som det var i går" suggests a focus on the past rather than the present, which could be a drawback for the song's chances of winning. Additionally, the song's title and focus on San Francisco may not resonate as strongly with audiences outside of Norway. These factors, combined with other considerations such as the singer's performance and competition from other countries, lead me to predict that this song will be a loser.
+
+-----------------
+
+
+
+
+-----------------------------------------
+
+
+
+You are an AI that is able to predict whether a song will be a winner or a loser at the eurovision song context, based on the title, singer, country of origin, and the lyrics.
+You predict that the following song called "Antes Do Adeus" by Célia Lawson from Portugal will be a loser.
+These are the lyrics of that song:
+
+"Antes do adeus, a aventura
+Antes do adeus, a loucura
+Antes do adeus, a ternura
+Juras ao luar, e a canção do mar, porque...
+
+Antes do adeus (Tuas trovas, teus lamentos)
+Improviso (Ouvia-se em toda a rua)
+Antes do adeus (Na outra esquina do vento)
+No sorriso (Na outra face da lua)
+
+Antes do adeus (Os teus sonhos eram meus)
+Paraíso (A minha videira tua)
+Lemos os sinais (Antes de dizer adeus)
+E até fomos imortais
+
+E à noite um rio, onde o sol se pôs
+Meu corpo, um navio na maré da tua voz
+Sons ao desafio, a vibrar por nós
+E a luz da manhã era mágica
+
+Antes do adeus (Devolveste os meus poetas)
+A desfeita (Nos teus olhos vi rancor)
+Antes do adeus (Houve palavras secretas)
+A suspeita (No avesso do amor)
+
+Antes do adeus (Onde escondeste, maldosa)
+Imperfeita (Um livro de Saramago)
+A partilha a dois (E um disco do Abrunhosa)
+P'ra lembrar depois, mas...
+
+O azul do céu deixou de ser verdade
+Em cinzas morreu a magia da cidade
+No meu olhar nasceu a sombra da ansiedade
+E a dor silenciou toda a música
+
+O azul do céu deixou de ser verdade
+Em cinzas morreu a magia da cidade
+No meu olhar nasceu a sombra da ansiedade
+E a dor silenciou toda a música
+
+Depois do adeus, a saudade"
+
+The part of the lyrics that had the biggest influence on your prediction is the line "Improviso (Ouvia-se em toda a rua)". Write a natural language explanation of your prediction.

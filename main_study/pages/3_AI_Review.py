@@ -60,16 +60,20 @@ switch_label = {"WINNER":"LOSER", "LOSER":"WINNER"}
 
 ############################################################ MAIN ############################################################
 
-st.markdown("### [BETA] Review your choices with ABBA-cadabra!")
+xai = ""
+if st.session_state.group == 1:
+	xai = "An explanation of the AI decision is provided, so that you can see what its prediction is based on."
 
-st.markdown('''Before submitting your selection, you can review your choices with our AI-based winner prediction tool.
+st.markdown("### Review your choices with ABBA-cadabra!")
+
+st.markdown(f'''Before submitting your selection, you can review your choices with our AI-based winner prediction tool.
 Our AI predicts whether a song will be a winner or a loser at Eurovision based on the arist and their country of origin, as well as the lyrics of the song.
-It takes into account over 50 years of Eurovision history! 
+It takes into account over 50 years of Eurovision history. 
 	
 The AI model utilizes Machine Learning and so-called Large Language Models (in this case, GPT4 by OpenAI) to analyse the songtext and decide whether or not it is likely to speak to typical Eurovision audiences based on voting patterns in the past.
-An explanation of the AI decision is provided, so that you can see what its prediction is based on.
+{xai}
 
-Please go through your selection again, and look at the AI predictions. Your prize will depend on the final selection you make here. You are free to change - or not change - as many of your choices as you like.
+Please go through your selection again, and look at the AI predictions. Your place on the leaderboards will depend on the final selection you make here. You are free to change - or not change - as many of your choices as you like.
 
 
 
