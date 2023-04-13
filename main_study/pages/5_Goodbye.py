@@ -73,7 +73,7 @@ leaderboards = []
 with open(leader_path) as file:
 	leaderboards = file.readlines()
 	leaderboards = [l.split() for l in leaderboards]
-	leaderboards = [item for item in leaderboards if not item == ""]
+	leaderboards = [item for item in leaderboards if not item.strip() == ""]
 
 #st.write(leaderboards)
 
@@ -124,7 +124,7 @@ submit_name = st.button("Submit")
 
 if not "saved_line" in st.session_state:
 	with open(leader_path, "r") as file:
-		lines = [l for l in file.readlines() if not l == ""]
+		lines = [l for l in file.readlines() if not l.strip() == ""]
 	#st.write(lines)
 	#st.write(len(lines))
 	st.session_state.saved_line = len(lines)
@@ -139,7 +139,7 @@ if submit_name:
 		st.error("Sorry, your name can only contain letters and numbers.")
 	else:
 		with open(leader_path) as file:
-			lines = [l for l in file.readlines() if not l == ""]
+			lines = [l for l in file.readlines() if not l.strip() == ""]
 		#st.write(lines)
 		lines[st.session_state.saved_line] = name + " " + str(user_accuracy) + "\n"
 		print("Troubleshooting lines:")
