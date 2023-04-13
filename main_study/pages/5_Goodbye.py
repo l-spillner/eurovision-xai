@@ -69,51 +69,52 @@ st.markdown("Thank you for participating in our study!")
 
 ############################################################ Leaderboards
 
-# leaderboards = []
-# with open(leader_path) as file:
-# 	leaderboards = file.readlines()
-# 	leaderboards = [l.split() for l in leaderboards]
+leaderboards = []
+with open(leader_path) as file:
+	leaderboards = file.readlines()
+	leaderboards = [l.split() for l in leaderboards]
+	leaderboards = [item for item in leaderboards if not item == ""]
 
-# #st.write(leaderboards)
+#st.write(leaderboards)
 
-# leaderboards = [[item[0], int(item[1])] for item in leaderboards]
-# leaderboards = sorted(leaderboards, key = lambda x: x[1], reverse = True)
+leaderboards = [[item[0], int(item[1])] for item in leaderboards]
+leaderboards = sorted(leaderboards, key = lambda x: x[1], reverse = True)
 
-# # calculate final user accuracy
-# sample_df = st.session_state.final_data
-# user_accuracy = len(list(sample_df[sample_df["true_label"] == sample_df["final_user_prediction"]].index))
-# #st.write(user_accuracy)
+# calculate final user accuracy
+sample_df = st.session_state.final_data
+user_accuracy = len(list(sample_df[sample_df["true_label"] == sample_df["final_user_prediction"]].index))
+#st.write(user_accuracy)
 
-# st.write(f"Congratulations: Your prediction was correct for {user_accuracy} songs 🥳   \n   These are the best scores so far:")
+st.write(f"Congratulations: Your prediction was correct for {user_accuracy} songs 🥳   \n   These are the best scores so far:")
 
-# your_place = 1
-# while leaderboards[your_place-1][1] > user_accuracy and your_place <= len(leaderboards):
-# 	your_place += 1
-# #st.write(your_place)
+your_place = 1
+while leaderboards[your_place-1][1] > user_accuracy and your_place <= len(leaderboards):
+	your_place += 1
+#st.write(your_place)
 
-# # generate output with first three and one each before and after user place
-# output = []
-# ellipsis = False
-# for i, item in enumerate(leaderboards):
-# 	if i < your_place-2 and i < 3:
-# 		output.append({"Place":str(i+1), "Name":item[0], "Score":str(item[1])})
-# 	if not ellipsis and i < your_place-2 and i >= 3:
-# 		output.append({"Place":"...", "Name":"...", "Score":"..."})
-# 		ellipsis = True
-# 	if i == your_place-2:
-# 		output.append({"Place":str(i+1), "Name":item[0], "Score":str(item[1])})
-# 	if i == your_place-1:
-# 		output.append({"Place":str(i+1), "Name":"YOU", "Score":str(user_accuracy)})
-# 		output.append({"Place":str(i+2), "Name":item[0], "Score":str(item[1])})
-# 	if i == your_place:
-# 		output.append({"Place":"...", "Name":"...", "Score":"..."})
+# generate output with first three and one each before and after user place
+output = []
+ellipsis = False
+for i, item in enumerate(leaderboards):
+	if i < your_place-2 and i < 3:
+		output.append({"Place":str(i+1), "Name":item[0], "Score":str(item[1])})
+	if not ellipsis and i < your_place-2 and i >= 3:
+		output.append({"Place":"...", "Name":"...", "Score":"..."})
+		ellipsis = True
+	if i == your_place-2:
+		output.append({"Place":str(i+1), "Name":item[0], "Score":str(item[1])})
+	if i == your_place-1:
+		output.append({"Place":str(i+1), "Name":"YOU", "Score":str(user_accuracy)})
+		output.append({"Place":str(i+2), "Name":item[0], "Score":str(item[1])})
+	if i == your_place:
+		output.append({"Place":"...", "Name":"...", "Score":"..."})
 
 		
-# df_lb = pd.DataFrame(output)
-# df_lb = df_lb.style.apply(lambda x: ['background: lightgreen' 
-#                                   if (x["Name"] == 'YOU')
-#                                   else '' for i in x], axis=1)
-# st.table(df_lb)
+df_lb = pd.DataFrame(output)
+df_lb = df_lb.style.apply(lambda x: ['background: lightgreen' 
+                                  if (x["Name"] == 'YOU')
+                                  else '' for i in x], axis=1)
+st.table(df_lb)
 
 user_accuracy = 1
 
@@ -123,7 +124,7 @@ submit_name = st.button("Submit")
 
 if not "saved_line" in st.session_state:
 	with open(leader_path, "r") as file:
-		lines = file.readlines()
+		lines = [l for l in file.readlines() if not l == ""]
 	#st.write(lines)
 	#st.write(len(lines))
 	st.session_state.saved_line = len(lines)
@@ -138,9 +139,9 @@ if submit_name:
 		st.error("Sorry, your name can only contain letters and numbers.")
 	else:
 		with open(leader_path) as file:
-			lines = file.readlines()
+			lines = [l for l in file.readlines() if not l == ""]
 		#st.write(lines)
-		lines[st.session_state.saved_line] = "\n" + name + " " + str(user_accuracy)
+		lines[st.session_state.saved_line] = name + " " + str(user_accuracy) + "\n"
 		print("Troubleshooting lines:")
 		for l in lines:
 			print(l.replace("\n", "|****|"))
