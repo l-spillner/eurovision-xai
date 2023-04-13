@@ -107,13 +107,6 @@ with st.form(key='my_form'):
     q5 = st.number_input('How old are you?', value = int(0))
     q6 = st.radio("What gender do you identify as?", ["", "FEMALE", "MALE", "OTHER"])
 
-    if not st.session_state.group == 0:
-
-        q7 = st.text_input('What do you think is the basis for the AI\'s answer?')
-
-        q8 = st.radio('Did the explanations given by the AI seem plausible to you?', ["", "YES", "NO"])
-        q8b = st.text_input('Why?')
-
     st.write("Please rate the following statements:")
 
     likert_questions = {
@@ -141,8 +134,6 @@ with st.form(key='my_form'):
         else:
             likert_question_keys = st.session_state.likert_question_keys
 
-        
-
     for key in likert_question_keys:
         with st.container():
             col_likert1, col_likert2 = st.columns([5,8], gap = "large")
@@ -151,6 +142,13 @@ with st.form(key='my_form'):
             with col_likert2:
                 likert_results[key] = st.radio(likert_questions[key], ["", "STRONGLY AGREE", "AGREE", "NEUTRAL", "DISAGREE", "STRONGLY DISAGREE"], label_visibility = label_vis, horizontal = likert_horizontal, key = key)
             #st.write("---")
+
+    if not st.session_state.group == 0:
+
+        q7 = st.text_input('What do you think is the basis for the AI\'s answers?')
+
+        q8 = st.text_input('How plausible did the explanations given by the AI seem to you?')
+        #q8b = st.text_input('Why?')
 
     # rel_1 = st.radio(likert_questions["rel_1"], ["", "STRONGLY AGREE", "AGREE", "NEUTRAL", "DISAGREE", "STRONGLY DISAGREE"], label_visibility = label_vis, horizontal = likert_horizontal)
     # rel_2 = st.radio(likert_questions["rel_2"], ["", "STRONGLY AGREE", "AGREE", "NEUTRAL", "DISAGREE", "STRONGLY DISAGREE"], label_visibility = label_vis, horizontal = likert_horizontal)
@@ -198,7 +196,7 @@ if submit_button:
             f.write(f"{6},{q6}\n")
             if st.session_state.group == 1:
                 f.write(f"{7},{q7}\n")
-                f.write(f"{8},{q8}, {q8b}\n")
+                f.write(f"{8},{q8}\n")
             for k in likert_question_keys:
                 f.write(f"{k},{likert_results[key]}\n")
         switch_page("Goodbye")
