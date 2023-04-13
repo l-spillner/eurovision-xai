@@ -49,8 +49,7 @@ st.markdown(no_sidebar_style, unsafe_allow_html=True)
 ############################################################ Public variables
 
 # paths
-project_path = os.path.dirname(__file__) or '.'
-data_path = os.path.join(project_path, "data.csv")
+data_path = os.path.join(st.session_state.project_path, "data.csv")
 
 switch_label = {"WINNER":"LOSER", "LOSER":"WINNER"}
 
@@ -228,6 +227,7 @@ for s in songs:
 	st.markdown("---")
 
 sample_df["final_user_prediction"] = pd.Series(final_user_predictions)
+st.session_state.final_data = sample_df
 agrees = list(sample_df[sample_df["ai_prediction"] == sample_df["final_user_prediction"]].index)
 agree_counter = len(agrees)
 

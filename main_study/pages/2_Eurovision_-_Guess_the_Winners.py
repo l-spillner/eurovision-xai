@@ -47,8 +47,7 @@ st.markdown(no_sidebar_style, unsafe_allow_html=True)
 ############################################################ Public variables
 
 # paths
-project_path = os.path.dirname(__file__) or '.'
-data_path = os.path.join(project_path, "data.csv")
+data_path = os.path.join(st.session_state.project_path, "data.csv")
 
 ############################################################ Public functions
 
@@ -80,7 +79,7 @@ df = st.session_state.data
 
 # group 0 is without explanations, 1 is with explanations
 
-if not group in st.session_state:
+if not "group" in st.session_state:
 
 	zeroCounter = 0
 	while os.path.exists('0_' + str(zeroCounter)+'.csv'):

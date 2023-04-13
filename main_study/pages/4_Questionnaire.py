@@ -75,8 +75,7 @@ likert_random_order = True
 ############################################################ Public variables
 
 # paths
-project_path = os.path.dirname(__file__) or '.'
-data_path = os.path.join(project_path, "data.csv")
+data_path = os.path.join(st.session_state.project_path, "data.csv")
 
 switch_label = {"WINNER":"LOSER", "LOSER":"WINNER"}
 
@@ -187,7 +186,7 @@ with st.form(key='my_form'):
 #st.write(q1, likert_results)
 
 if submit_button:
-    if any(a == "" for a in likert_results.values()) or any(a == "" for a in [q1, q2, q3, q4, q5, q6, q7, q8]):
+    if any(a == "" for a in likert_results.values()) or any(a == "" for a in [q1, q2, q3, q4, q5, q6]) or (st.session_state.group == 1 and any(a == 0 for a in [q7, q8])):
         st.error("Please answer all the questions!")
     else:
         with open(filename, 'a+') as f:
@@ -197,8 +196,9 @@ if submit_button:
             f.write(f"{4},{q4}, {q4b}\n")
             f.write(f"{5},{q5}\n")
             f.write(f"{6},{q6}\n")
-            f.write(f"{7},{q7}\n")
-            f.write(f"{8},{q8}, {q8b}\n")
+            if st.session_state.group == 1:
+                f.write(f"{7},{q7}\n")
+                f.write(f"{8},{q8}, {q8b}\n")
             for k in likert_question_keys:
                 f.write(f"{k},{likert_results[key]}\n")
         switch_page("Goodbye")
