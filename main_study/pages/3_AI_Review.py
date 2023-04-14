@@ -235,7 +235,9 @@ st.session_state.final_data = sample_df
 agrees = list(sample_df[sample_df["ai_prediction"] == sample_df["final_user_prediction"]].index)
 agree_counter = len(agrees)
 
-############################################################ sidebar
+############################################################ sidebar & next page
+
+enable_next_page_button = False
 
 st.sidebar.write("")
 st.sidebar.write("")
@@ -252,22 +254,23 @@ st.sidebar.write("Losers:", counts["LOSER"])
 if not (counts["WINNER"] + counts["LOSER"] == 10):
 	st.sidebar.write('You need to make a choice for all 10 songs.')
 else:
-	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n ABBA-cadabra agrees with {agree_counter} of your choices.   \n    \n Are you happy with your selection?   \n If yes, click "Continue".')
-
+	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n ABBA-cadabra agrees with {agree_counter} of your choices.   \n    \n Are you happy with your selection?   \n If yes, click "Continue" at the bottom of the page.')
 	st.session_state.final_user_predictions = final_user_predictions
+	enable_next_page_button = True
 
-	next_page = st.sidebar.button("Continue", key = 3)
-	if next_page:
-		id = 0
-		while os.path.exists(str(st.session_state.group) + '_' + str(id)+'.csv'):
-			id = id + 1
-		filename = str(st.session_state.group) + '_' + str(id) + '.csv'
-		st.session_state.filename = filename
-		for k in user_predictions.keys():
-			with open(filename, 'a+') as f:
-				isLast = df.loc[k]["is_last"]
-				f.write(f"{k},{isLast},{user_predictions[k]},{final_user_predictions[k]}\n")
-		switch_page("Questionnaire")
+
+next_page = st.sidebar.button("Continue", disabled = not enable_next_page_button, key = 3)
+if next_page:
+	id = 0
+	while os.path.exists(str(st.session_state.group) + '_' + str(id)+'.csv'):
+		id = id + 1
+	filename = str(st.session_state.group) + '_' + str(id) + '.csv'
+	st.session_state.filename = filename
+	for k in user_predictions.keys():
+		with open(filename, 'a+') as f:
+			isLast = df.loc[k]["is_last"]
+			f.write(f"{k},{isLast},{user_predictions[k]},{final_user_predictions[k]}\n")
+	switch_page("Questionnaire")
 
 	# next_page = st.sidebar.button("Continue", key = 3)
 	# if next_page:

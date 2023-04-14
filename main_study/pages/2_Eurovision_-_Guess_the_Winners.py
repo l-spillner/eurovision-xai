@@ -165,7 +165,9 @@ for s in songs:
 
 	st.markdown("---")
 
-############################################################ sidebar
+############################################################ sidebar & next page 
+
+enable_next_page_button = False
 
 st.sidebar.write("")
 st.sidebar.write("")
@@ -182,21 +184,25 @@ st.sidebar.write("Losers:", counts["LOSER"])
 if not (counts["WINNER"] + counts["LOSER"] == 10):
 	st.sidebar.write('You need to make a choice for all 10 songs.')
 else:
-	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n Are you happy with your selection?   \n If yes, click "Continue".')
+	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n Are you happy with your selection?   \n If yes, click "Continue" at the bottom of the page.')
 
 	st.session_state.user_predictions = user_predictions
+	enable_next_page_button = True
 	# id = 0
 	# while os.path.exists(str(id)+'.csv'):
 	# 	id = id + 1 
 	# filename = str(id) + '.csv'
 	# st.session_state.filename = filename
-	next_page = st.sidebar.button("Continue", key = 2)
-	if next_page:
+
+next_page = st.button("Continue", disabled = not enable_next_page_button, key = 2)
+if not enable_next_page_button:
+	st.write("Please vote on all songs before continuing.")
+if next_page:
 	# 	for k in user_predictions.keys():
 	# 		with open(filename, 'a+') as f:
 	# 			isLast = df.loc[k]["is_last"]
 	# 			f.write(f"{k},{isLast},{user_predictions[k]}\n")
-		switch_page("AI_Review")
+	switch_page("AI_Review")
 
 
 
