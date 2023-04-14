@@ -135,7 +135,7 @@ if submit_name:
 	if not name.isalnum():
 		st.error("Sorry, your name can only contain letters and numbers.")
 	else:
-		st.success("Success! Your Score has been saved under your name:", name)
+		st.success("Success! Your Score has been saved under your name: " + name)
 		with open(leader_path) as file:
 			lines = [l for l in file.readlines() if not l.strip() == ""]
 		#st.write(lines)
