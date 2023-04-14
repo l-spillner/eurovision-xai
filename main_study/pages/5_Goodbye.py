@@ -155,5 +155,5 @@ st.write("---")
 
 st.write("If you had fun and/or want to support our research, please consider sharing our study with people you know. You can copy the text below:")
 
-st.code("Here's a link to a research study on working with Artificial Intelligence \nto judge the quality of Eurovision Song Contest participants:\n\n    [link here]", language = "excelFormula")
+st.code("Here's a link to a research study on working with Artificial Intelligence \nto judge the quality of Eurovision Song Contest participants:\n\n    abba-cadabra.uni-bremen.de", language = "excelFormula")
 
