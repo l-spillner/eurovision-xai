@@ -46,6 +46,14 @@ no_sidebar_style = """
 """
 st.markdown(no_sidebar_style, unsafe_allow_html=True)
 
+# hides button to close sidebar, open settings
+no_button_style = """
+    <style>
+        button[kind="header"] {display:none;}
+    </style>
+"""
+st.markdown(no_button_style, unsafe_allow_html=True)
+
 ############################################################ Public variables
 
 # paths
@@ -265,7 +273,7 @@ else:
 	enable_next_page_button = True
 
 
-next_page = st.sidebar.button("Continue", disabled = not enable_next_page_button, key = 3)
+next_page = st.button("Continue", disabled = not enable_next_page_button, key = 3)
 if next_page:
 	id = 0
 	while os.path.exists(str(st.session_state.group) + '_' + str(id)+'.csv'):
