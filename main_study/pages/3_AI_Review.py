@@ -69,7 +69,7 @@ try:
 	group = st.session_state.group
 	#filename = st.session_state.filename
 except:
-	switch_page("Home)
+	switch_page("Home")
 
 df["true_label"] = ["WINNER" if not l else "LOSER" for l in df["is_last"]]
 df["user_prediction"] = pd.Series(user_predictions)

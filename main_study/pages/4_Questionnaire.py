@@ -89,7 +89,7 @@ try:
     filename = st.session_state.filename
     group = st.session_state.group
 except:
-    switch_page("Home)
+    switch_page("Home")
 
 st.markdown("Please help us evaluate the performance of the ABBA-cadabra AI by answering the following questions.")
 

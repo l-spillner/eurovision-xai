@@ -74,7 +74,7 @@ After you have completed the questionnaire, you will be able to see how many son
 try:
 	df = st.session_state.data
 except:
-	switch_page("Home)
+	switch_page("Home")
 
 ############################################################ sort user into group
 

@@ -73,7 +73,7 @@ leader_path = os.path.join(st.session_state.project_path, "leaderboards.txt")
 try:
 	sample_df = st.session_state.final_data
 except:
-    switch_page("Home)
+    switch_page("Home")
 
 if balloons and not "saved_line" in st.session_state:
 	st.balloons()
