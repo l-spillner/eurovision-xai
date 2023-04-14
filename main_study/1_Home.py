@@ -21,7 +21,6 @@ import re
 ############################################################ Settings
 
 st.set_page_config(layout="centered")
-st.set_page_config(base="light")
 
 # hides the first option in a radio group
 # note: this applies to ALL radio groups across the app; it cannot be done for an individual button!
