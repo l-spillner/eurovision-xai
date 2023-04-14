@@ -38,6 +38,14 @@ no_sidebar_style = """
 """
 st.markdown(no_sidebar_style, unsafe_allow_html=True)
 
+# hides button to close sidebar
+no_button_style = """
+    <style>
+        button[kind="header"] {display:none;}
+    </style>
+"""
+st.markdown(no_button_style, unsafe_allow_html=True)
+
 # CSS to inject contained in a string
 hide_table_row_index = """
             <style>
