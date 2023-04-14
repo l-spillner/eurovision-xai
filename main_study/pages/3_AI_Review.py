@@ -60,8 +60,24 @@ switch_label = {"WINNER":"LOSER", "LOSER":"WINNER"}
 
 ############################################################ MAIN ############################################################
 
+############################################################ load data
+
+try:
+	df = st.session_state.data
+	songs = st.session_state.songs
+	user_predictions = st.session_state.user_predictions
+	group = st.session_state.group
+	#filename = st.session_state.filename
+except:
+	switch_page("Home)
+
+df["true_label"] = ["WINNER" if not l else "LOSER" for l in df["is_last"]]
+df["user_prediction"] = pd.Series(user_predictions)
+
+############################################################ Explain setup
+
 xai = ""
-if st.session_state.group == 1:
+if group == 1:
 	xai = "An explanation of the AI decision is provided, so that you can see what its prediction is based on."
 
 st.markdown("### Review your choices with ABBA-cadabra!")
@@ -78,16 +94,6 @@ Please go through your selection again, and look at the AI predictions. Your pla
 
 
 ---''')
-
-############################################################ load data
-
-df = st.session_state.data
-songs = st.session_state.songs
-user_predictions = st.session_state.user_predictions
-#filename = st.session_state.filename
-
-df["true_label"] = ["WINNER" if not l else "LOSER" for l in df["is_last"]]
-df["user_prediction"] = pd.Series(user_predictions)
 
 ############################################################ generate AI predictions
 

@@ -71,7 +71,10 @@ After you have completed the questionnaire, you will be able to see how many son
 
 ############################################################ load data
 
-df = st.session_state.data
+try:
+	df = st.session_state.data
+except:
+	switch_page("Home)
 
 ############################################################ sort user into group
 

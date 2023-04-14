@@ -76,7 +76,6 @@ likert_random_order = True
 
 # paths
 data_path = os.path.join(st.session_state.project_path, "data.csv")
-
 switch_label = {"WINNER":"LOSER", "LOSER":"WINNER"}
 
 ############################################################ Public functions
@@ -86,7 +85,11 @@ switch_label = {"WINNER":"LOSER", "LOSER":"WINNER"}
 
 ############################################################ MAIN ############################################################
 
-filename = st.session_state.filename
+try:
+    filename = st.session_state.filename
+    group = st.session_state.group
+except:
+    switch_page("Home)
 
 st.markdown("Please help us evaluate the performance of the ABBA-cadabra AI by answering the following questions.")
 

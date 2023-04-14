@@ -62,7 +62,7 @@ st.session_state.project_path = project_path
 leaderboards = []
 with open(leader_path) as file:
 	leaderboards = file.readlines()
-	leaderboards = [l.split() for l in leaderboards]
+	leaderboards = [l.split() for l in leaderboards if not l.strip() == ""]
 
 #st.write(leaderboards)
 

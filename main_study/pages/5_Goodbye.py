@@ -70,6 +70,11 @@ leader_path = os.path.join(st.session_state.project_path, "leaderboards.txt")
 
 ############################################################ MAIN ############################################################
 
+try:
+	sample_df = st.session_state.final_data
+except:
+    switch_page("Home)
+
 if balloons and not "saved_line" in st.session_state:
 	st.balloons()
 
@@ -88,7 +93,6 @@ leaderboards = [[item[0], int(item[1])] for item in leaderboards]
 leaderboards = sorted(leaderboards, key = lambda x: x[1], reverse = True)
 
 # calculate final user accuracy
-sample_df = st.session_state.final_data
 user_accuracy = len(list(sample_df[sample_df["true_label"] == sample_df["final_user_prediction"]].index))
 #st.write(user_accuracy)
 
