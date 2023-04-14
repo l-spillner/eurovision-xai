@@ -62,7 +62,7 @@ leader_path = os.path.join(st.session_state.project_path, "leaderboards.txt")
 
 ############################################################ MAIN ############################################################
 
-if balloons:
+if balloons and not "saved_line" in st.session_state:
 	st.balloons()
 
 st.markdown("Thank you for participating in our study!")
@@ -135,6 +135,7 @@ if submit_name:
 	if not name.isalnum():
 		st.error("Sorry, your name can only contain letters and numbers.")
 	else:
+		st.success("Success! Your Score has been saved under your name:", name)
 		with open(leader_path) as file:
 			lines = [l for l in file.readlines() if not l.strip() == ""]
 		#st.write(lines)
