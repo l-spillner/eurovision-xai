@@ -82,8 +82,6 @@ likert_random_order = True
 
 ############################################################ Public variables
 
-# paths
-data_path = os.path.join(st.session_state.project_path, "data.csv")
 switch_label = {"WINNER":"LOSER", "LOSER":"WINNER"}
 
 ############################################################ Public functions
@@ -94,6 +92,7 @@ switch_label = {"WINNER":"LOSER", "LOSER":"WINNER"}
 ############################################################ MAIN ############################################################
 
 try:
+    data_path = os.path.join(st.session_state.project_path, "data.csv")
     filename = st.session_state.filename
     group = st.session_state.group
 except:

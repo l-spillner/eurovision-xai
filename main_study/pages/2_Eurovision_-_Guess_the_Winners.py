@@ -54,9 +54,6 @@ st.markdown(no_button_style, unsafe_allow_html=True)
 
 ############################################################ Public variables
 
-# paths
-data_path = os.path.join(st.session_state.project_path, "data.csv")
-
 ############################################################ Public functions
 
     
@@ -81,6 +78,7 @@ After you have completed the questionnaire, you will be able to see how many son
 
 try:
 	df = st.session_state.data
+	data_path = os.path.join(st.session_state.project_path, "data.csv")
 except:
 	switch_page("Home")
 

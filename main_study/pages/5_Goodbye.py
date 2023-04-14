@@ -59,10 +59,6 @@ st.markdown(hide_table_row_index, unsafe_allow_html=True)
 
 ############################################################ Public variables
 
-# paths
-data_path = os.path.join(st.session_state.project_path, "data.csv")
-leader_path = os.path.join(st.session_state.project_path, "leaderboards.txt")
-
 ############################################################ Public functions
 
 
@@ -71,6 +67,8 @@ leader_path = os.path.join(st.session_state.project_path, "leaderboards.txt")
 ############################################################ MAIN ############################################################
 
 try:
+	data_path = os.path.join(st.session_state.project_path, "data.csv")
+	leader_path = os.path.join(st.session_state.project_path, "leaderboards.txt")
 	sample_df = st.session_state.final_data
 except:
     switch_page("Home")

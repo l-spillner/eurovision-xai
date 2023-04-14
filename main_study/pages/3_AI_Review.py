@@ -57,8 +57,6 @@ st.markdown(no_button_style, unsafe_allow_html=True)
 ############################################################ Public variables
 
 # paths
-data_path = os.path.join(st.session_state.project_path, "data.csv")
-
 switch_label = {"WINNER":"LOSER", "LOSER":"WINNER"}
 
 ############################################################ Public functions
@@ -71,6 +69,7 @@ switch_label = {"WINNER":"LOSER", "LOSER":"WINNER"}
 ############################################################ load data
 
 try:
+	data_path = os.path.join(st.session_state.project_path, "data.csv")
 	df = st.session_state.data
 	songs = st.session_state.songs
 	user_predictions = st.session_state.user_predictions
