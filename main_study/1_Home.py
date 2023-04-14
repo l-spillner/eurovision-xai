@@ -65,6 +65,9 @@ st.session_state.project_path = project_path
 
 ############################################################ MAIN ############################################################
 
+if "reroute_error" in st.session_state and st.session_state.reroute_error:
+	st.error("Sorry! The page was reloaded in your browser, which started a new session. As this site does not save any cookies, it's not possible to remeber data between sessions. Please start again.")
+
 ############################################################ load data
 
 leaderboards = []

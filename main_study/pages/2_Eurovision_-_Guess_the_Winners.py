@@ -64,6 +64,19 @@ st.markdown(no_button_style, unsafe_allow_html=True)
 
 ############################################################ MAIN ############################################################
 
+############################################################ load data
+
+try:
+	df = st.session_state.data
+	data_path = os.path.join(st.session_state.project_path, "data.csv")
+	n_perfect = st.session_state.n_perfect
+	n_participants = st.session_state.n_participants
+except:
+	st.session_state.reroute_error = True
+	switch_page("Home")
+
+############################################################ text
+
 st.markdown("### Winner or Loser?")
 
 st.markdown(f'''Here you can see 10 randomly chosen Eurovision candidate songs. Your task is to choose for each song whether it will be a *winner* (first place) or a *loser* (last place).
@@ -73,14 +86,6 @@ After you have completed the questionnaire, you will be able to see how many son
 
 
 ---''')
-
-############################################################ load data
-
-try:
-	df = st.session_state.data
-	data_path = os.path.join(st.session_state.project_path, "data.csv")
-except:
-	switch_page("Home")
 
 ############################################################ sort user into group
 
