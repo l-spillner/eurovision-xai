@@ -70,6 +70,7 @@ try:
 	data_path = os.path.join(st.session_state.project_path, "data.csv")
 	leader_path = os.path.join(st.session_state.project_path, "leaderboards.txt")
 	sample_df = st.session_state.final_data
+	st.session_state.reroute_error = True
 except:
     switch_page("Home")
 

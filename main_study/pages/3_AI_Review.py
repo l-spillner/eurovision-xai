@@ -76,6 +76,7 @@ try:
 	group = st.session_state.group
 	#filename = st.session_state.filename
 except:
+	st.session_state.reroute_error = True
 	switch_page("Home")
 
 df["true_label"] = ["WINNER" if not l else "LOSER" for l in df["is_last"]]
