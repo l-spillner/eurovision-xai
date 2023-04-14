@@ -21,6 +21,12 @@ import random
 import re
 from collections import Counter
 
+import time
+
+## TimeStamp
+
+st.session_state.time2 = str(time.time())
+
 ############################################################ Settings
 
 st.set_page_config(layout="wide")
@@ -84,6 +90,7 @@ Below, you can see for each song which country the singer is from, read the lyri
 
 After you have completed the questionnaire, you will be able to see how many songs you predicted correctly. So far, **{st.session_state.n_perfect} out of {st.session_state.n_participants}** participants managed to get all 10 songs correct!
 
+🔊 Remember to turn on the sound on your device so you can hear the songs. 🔊
 
 ---''')
 
@@ -140,6 +147,8 @@ for s in songs:
 	with col1:
 
 		choice = st.radio("Winner or loser?", ["", "WINNER", "LOSER"], key = str(s), index = 0)
+		
+		st.markdown("""<style> div[class*="stRadio"] > label > div[data-testid="stMarkdownContainer"] > p {font-size: 18px;}</style>""", unsafe_allow_html=True)
 
 		user_predictions[s] = choice
 

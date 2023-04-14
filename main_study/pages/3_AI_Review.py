@@ -19,7 +19,11 @@ import json
 import random
 import re
 from collections import Counter
+import time
 
+## TimeStamp
+
+st.session_state.time3 = str(time.time())
 
 ############################################################ Settings
 
@@ -164,6 +168,8 @@ for s in songs:
 
 		st.write("")
 		choice = st.radio("Winner or loser?", ["", "WINNER", "LOSER"], key = str(s), index = 1 if user_predictions[s] == "WINNER" else 2)
+
+		st.markdown("""<style> div[class*="stRadio"] > label > div[data-testid="stMarkdownContainer"] > p {font-size: 18px;}</style>""", unsafe_allow_html=True)
 
 		final_user_predictions[s] = choice
 

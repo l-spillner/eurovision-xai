@@ -124,7 +124,7 @@ f"""
 
 The entire study should take up to 15-20 minutes. All your answers will be collected anonymously. We do not collect personal information, like your name or IP address. If you want, you can add your score to the leaderboards on the last page, which will not be used in our research. You are free to quit the study at any time.
 
-The data that we collect is stored on a server of the University of Bremen, in Germany. After the study finishes, the data from all participants will be analysed together and the results might be published in future research papers. We will not publish the answers or performance of any individual participant. Please note that since your data is not linked to any personal identifying information, we will not be able to delete your data later. 
+The data that we collect is stored on a server of the University of Bremen, in Germany. After the study finishes, the data from all participants will be analysed together and the results might be published in future research papers. After finishing the experiment, it is not possible to withdraw your data because of the anonymization. 
 
 If you have any questions about this study, please contact:
 

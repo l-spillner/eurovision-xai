@@ -20,6 +20,11 @@ import random
 import re
 from collections import Counter
 
+import time
+
+## TimeStamp
+
+st.session_state.time4 = str(time.time())
 
 ############################################################ Settings
 
@@ -116,7 +121,7 @@ with st.form(key='my_form'):
     #else:
     #    q4b = None
     q5 = st.number_input('How old are you?', value = int(0))
-    q6 = st.radio("What gender do you identify as?", ["", "FEMALE", "MALE", "OTHER"])
+    q6 = st.radio("What gender do you identify as?", ["", "FEMALE", "MALE", "PREFER TO SELF-IDENTIFY"])
 
     st.write("Please rate the following statements:")
 
@@ -190,6 +195,12 @@ with st.form(key='my_form'):
     #st.write("Something something did everything sound like bullshit?")
     #bullshit_answer = st.text_area("", label_visibility = "collapsed")
 
+    st.markdown("""<style> div[class*="stRadio"] > label > div[data-testid="stMarkdownContainer"] > p {font-size: 18px;}</style>""", unsafe_allow_html=True)
+    st.markdown("""<style> div[class*="stTextInput"] > label > div[data-testid="stMarkdownContainer"] > p {font-size: 18px;}</style>""", unsafe_allow_html=True)
+    st.markdown("""<style> div[class*="stnumberInput"] > label > div[data-testid="stMarkdownContainer"] > p {font-size: 18px;}</style>""", unsafe_allow_html=True)
+
+
+
     submit_button = st.form_submit_button(label='Submit')
 
 #st.write(q1, likert_results)
@@ -210,6 +221,8 @@ if submit_button:
                 f.write(f"{8},{q8}\n")
             for k in likert_question_keys:
                 f.write(f"{k},{likert_results[key]}\n")
+
+            f.write(f"{st.session_state.time2}, {st.session_state.time3}, {st.session_state.time4}")
         switch_page("Goodbye")
 
 #next_page = st.button("Send results", key = 4)

@@ -20,7 +20,6 @@ import random
 import re
 from collections import Counter
 
-
 ############################################################ Settings
 
 # optional celebratory balloons
@@ -98,7 +97,7 @@ user_accuracy = len(list(sample_df[sample_df["true_label"] == sample_df["final_u
 st.write(f"Congratulations: Your prediction was correct for {user_accuracy} songs 🥳   \n   These are the best scores so far:")
 
 your_place = 1
-while leaderboards[your_place-1][1] > user_accuracy and your_place <= len(leaderboards):
+while leaderboards[your_place-1][1] > user_accuracy and your_place < len(leaderboards):
 	your_place += 1
 #st.write(your_place)
 
