@@ -207,7 +207,7 @@ st.sidebar.write("Losers:", counts["LOSER"])
 if not (counts["WINNER"] + counts["LOSER"] == 10):
 	st.sidebar.write('You need to make a choice for all 10 songs.')
 else:
-	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n Are you happy with your selection?   \n If yes, click "Continue" at the bottom of the page.')
+	st.sidebar.write(f'You have picked {counts["WINNER"]} winners and {counts["LOSER"]} losers!   \n Are you happy with your selection?   \n If yes, click "Continue" at the bottom of the page. You can still change your choices on the next page.')
 
 	st.session_state.user_predictions = user_predictions
 	enable_next_page_button = True

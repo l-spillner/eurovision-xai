@@ -94,12 +94,21 @@ leaderboards = sorted(leaderboards, key = lambda x: x[1], reverse = True)
 user_accuracy = len(list(sample_df[sample_df["true_label"] == sample_df["final_user_prediction"]].index))
 #st.write(user_accuracy)
 
+user_accuracy = 1
+
 st.write(f"Congratulations: Your prediction was correct for {user_accuracy} songs 🥳   \n   These are the best scores so far:")
 
+#st.write(f"there are {len(leaderboards)} places taken")
+
 your_place = 1
-while leaderboards[your_place-1][1] > user_accuracy and your_place < len(leaderboards):
+while your_place <= len(leaderboards) and leaderboards[your_place-1][1] > user_accuracy:
+	#st.write(your_place)
+	#st.write(f"person at index {your_place-1} is better than you")
 	your_place += 1
+	#st.write("thus your place is now", your_place)
+
 #st.write(your_place)
+#st.write(len(leaderboards))
 
 # generate output with first three and one each before and after user place
 output = []
@@ -117,6 +126,8 @@ for i, item in enumerate(leaderboards):
 		output.append({"Place":str(i+2), "Name":item[0], "Score":str(item[1])})
 	if i == your_place:
 		output.append({"Place":"...", "Name":"...", "Score":"..."})
+if your_place == len(leaderboards)+1:
+	output.append({"Place":str(i+2), "Name":"YOU", "Score":str(user_accuracy)})
 
 		
 df_lb = pd.DataFrame(output)
