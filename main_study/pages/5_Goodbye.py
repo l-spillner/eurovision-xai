@@ -94,7 +94,7 @@ leaderboards = sorted(leaderboards, key = lambda x: x[1], reverse = True)
 user_accuracy = len(list(sample_df[sample_df["true_label"] == sample_df["final_user_prediction"]].index))
 #st.write(user_accuracy)
 
-user_accuracy = 1
+#user_accuracy = 1
 
 st.write(f"Congratulations: Your prediction was correct for {user_accuracy} songs 🥳   \n   These are the best scores so far:")
 
@@ -111,23 +111,33 @@ while your_place <= len(leaderboards) and leaderboards[your_place-1][1] > user_a
 #st.write(len(leaderboards))
 
 # generate output with first three and one each before and after user place
-output = []
-ellipsis = False
-for i, item in enumerate(leaderboards):
-	if i < your_place-2 and i < 3:
-		output.append({"Place":str(i+1), "Name":item[0], "Score":str(item[1])})
-	if not ellipsis and i < your_place-2 and i >= 3:
-		output.append({"Place":"...", "Name":"...", "Score":"..."})
-		ellipsis = True
-	if i == your_place-2:
-		output.append({"Place":str(i+1), "Name":item[0], "Score":str(item[1])})
-	if i == your_place-1:
-		output.append({"Place":str(i+1), "Name":"YOU", "Score":str(user_accuracy)})
-		output.append({"Place":str(i+2), "Name":item[0], "Score":str(item[1])})
-	if i == your_place:
-		output.append({"Place":"...", "Name":"...", "Score":"..."})
-if your_place == len(leaderboards)+1:
-	output.append({"Place":str(i+2), "Name":"YOU", "Score":str(user_accuracy)})
+if not "output" in st.session_state:
+	output = []
+	ellipsis = False
+	for i, item in enumerate(leaderboards):
+		if i < your_place-2 and i < 3:
+			output.append({"Place":str(i+1), "Name":item[0], "Score":str(item[1])})
+		if not ellipsis and i < your_place-2 and i >= 3:
+			output.append({"Place":"...", "Name":"...", "Score":"..."})
+			ellipsis = True
+		if i == your_place-2:
+			output.append({"Place":str(i+1), "Name":item[0], "Score":str(item[1])})
+		if i == your_place-1:
+			output.append({"Place":str(i+1), "Name":"YOU", "Score":str(user_accuracy)})
+			output.append({"Place":str(i+2), "Name":item[0], "Score":str(item[1])})
+		if i == your_place:
+			output.append({"Place":"...", "Name":"...", "Score":"..."})
+	if your_place == len(leaderboards)+1:
+		output.append({"Place":str(i+2), "Name":"YOU", "Score":str(user_accuracy)})
+	st.session_state.output = output
+else:
+	output = st.session_state.output
+	if "name" in st.session_state:
+		for i, line in enumerate(output):
+			print("line")
+			if line["Name"] == "YOU":
+				print("replace")
+				output[i]["Name"] = st.session_state.name
 
 		
 df_lb = pd.DataFrame(output)
@@ -167,6 +177,7 @@ if submit_name:
 		#st.write(lines)
 		with open(leader_path, "w") as file:
 			file.writelines(lines)
+		st.session_state.name = name
 
 #st.write(leaderboards)
 
