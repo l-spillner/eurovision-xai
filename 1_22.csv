@@ -1,0 +1,31 @@
+382,False,WINNER,WINNER
+496,True,LOSER,LOSER
+745,False,WINNER,WINNER
+769,True,LOSER,LOSER
+674,False,LOSER,LOSER
+560,False,LOSER,LOSER
+458,True,LOSER,LOSER
+342,True,LOSER,LOSER
+439,False,LOSER,LOSER
+699,False,WINNER,WINNER
+1,UNLIKELY
+2,SOMETIMES
+3,NO, 
+4,YES, Documentary in childhood
+5,39
+6,MALE
+7,A tangle of factors that I cannot describe; which is also the case for a human decision on this problem
+8,Exactly as plausible as those of human pundits, which is not very
+fai_3,DISAGREE
+rel_5,DISAGREE
+com_5,DISAGREE
+rel_1,DISAGREE
+com_2,DISAGREE
+com_1,DISAGREE
+fai_2,DISAGREE
+fai_1,DISAGREE
+com_3,DISAGREE
+fai_4,DISAGREE
+rel_2,DISAGREE
+fai_5,DISAGREE
+1681989442.4936647, 1681989679.4384546, 1681989880.36114
