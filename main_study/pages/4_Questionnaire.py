@@ -219,8 +219,8 @@ if submit_button:
             if st.session_state.group == 1:
                 f.write(f"{7},{q7}\n")
                 f.write(f"{8},{q8}\n")
-            for k in likert_question_keys:
-                f.write(f"{k},{likert_results[key]}\n")
+            for key in likert_question_keys:
+                f.write(f"{key},{likert_results[key]}\n")
 
             f.write(f"{st.session_state.time2}, {st.session_state.time3}, {st.session_state.time4}")
         switch_page("Goodbye")
