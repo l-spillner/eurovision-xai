@@ -1,0 +1,31 @@
+604,False,WINNER,WINNER
+560,False,WINNER,WINNER
+602,True,LOSER,LOSER
+517,False,WINNER,WINNER
+768,True,LOSER,LOSER
+420,True,LOSER,LOSER
+478,False,WINNER,WINNER
+649,False,LOSER,LOSER
+582,False,WINNER,WINNER
+382,False,LOSER,LOSER
+1,LIKELY
+2,SOMETIMES
+3,NO, 
+4,YES, I came in contact with AI in some courses at university
+5,24
+6,FEMALE
+7,Other song lyrics and their sentiments
+8,somewhat plausible, as they were very detailed
+fai_1,AGREE
+com_3,AGREE
+rel_2,AGREE
+fai_5,AGREE
+com_2,AGREE
+fai_3,AGREE
+rel_1,AGREE
+com_1,AGREE
+com_5,AGREE
+fai_4,AGREE
+rel_5,AGREE
+fai_2,AGREE
+1681932916.432283, 1681932958.7752807, 1681933113.3644779

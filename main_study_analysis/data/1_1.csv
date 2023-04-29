@@ -1,0 +1,31 @@
+420,True,LOSER,LOSER
+458,True,LOSER,LOSER
+497,False,WINNER,WINNER
+401,False,WINNER,WINNER
+421,False,LOSER,LOSER
+342,True,LOSER,LOSER
+604,False,WINNER,WINNER
+769,True,LOSER,LOSER
+559,True,WINNER,WINNER
+602,True,WINNER,WINNER
+1,LIKELY
+2,RARELY
+3,YES, Ein bisschen Friede ein bisschen Freude
+4,YES, Studying computer science
+5,25
+6,MALE
+7,All past songs used in the ESC
+8,What an average person trying to convince me would say whether it's true or not
+com_5,AGREE
+fai_4,AGREE
+rel_1,AGREE
+rel_2,AGREE
+rel_5,AGREE
+fai_3,AGREE
+com_1,AGREE
+fai_2,AGREE
+com_3,AGREE
+fai_5,AGREE
+com_2,AGREE
+fai_1,AGREE
+1681726639.1688848, 1681726714.9922547, 1681726972.0301676

@@ -1,0 +1,31 @@
+517,False,WINNER,WINNER
+362,True,LOSER,LOSER
+497,False,WINNER,WINNER
+582,False,WINNER,WINNER
+602,True,LOSER,LOSER
+699,False,LOSER,LOSER
+420,True,LOSER,LOSER
+745,False,WINNER,WINNER
+342,True,WINNER,WINNER
+478,False,WINNER,WINNER
+1,UNLIKELY
+2,RARELY
+3,NO, 
+4,YES, tried out chatgpt and dall-e-2 a few times, just to mess around
+5,22
+6,MALE
+7,mostly the lyrics
+8,the explanations of the appeal of the lyrical contents are reasonable, but only considering lyrical content to predict the performance of a song is far too one-dimensional
+com_2,AGREE
+rel_2,AGREE
+fai_5,AGREE
+com_3,AGREE
+fai_2,AGREE
+com_1,AGREE
+com_5,AGREE
+fai_3,AGREE
+fai_4,AGREE
+fai_1,AGREE
+rel_1,AGREE
+rel_5,AGREE
+1681814069.0370777, 1681814270.224125, 1681814586.239789

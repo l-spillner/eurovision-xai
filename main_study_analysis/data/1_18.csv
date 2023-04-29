@@ -1,0 +1,31 @@
+538,True,WINNER,WINNER
+420,True,LOSER,WINNER
+342,True,WINNER,WINNER
+769,True,LOSER,LOSER
+362,True,LOSER,LOSER
+400,True,LOSER,LOSER
+458,True,LOSER,LOSER
+497,False,WINNER,WINNER
+439,False,LOSER,LOSER
+325,False,LOSER,LOSER
+1,UNLIKELY
+2,EVERY YEAR
+3,NO, 
+4,YES, I have played around with image generating AI for fun and memes with friends
+5,31
+6,MALE
+7,Professional critique and analysis
+8,Fairly plausible, but not infallible. 
+rel_2,AGREE
+com_3,AGREE
+fai_1,AGREE
+com_5,AGREE
+fai_2,AGREE
+fai_5,AGREE
+fai_4,AGREE
+com_1,AGREE
+com_2,AGREE
+rel_5,AGREE
+fai_3,AGREE
+rel_1,AGREE
+1681848940.1609976, 1681849214.2793965, 1681849570.694494
