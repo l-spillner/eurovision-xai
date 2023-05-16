@@ -1,0 +1,31 @@
+674,False,LOSER,LOSER
+342,True,LOSER,LOSER
+699,False,WINNER,WINNER
+496,True,LOSER,LOSER
+768,True,LOSER,LOSER
+698,True,LOSER,LOSER
+649,False,LOSER,LOSER
+769,True,WINNER,WINNER
+420,True,LOSER,LOSER
+439,False,WINNER,WINNER
+1,LIKELY
+2,RARELY
+3,NO, 
+4,YES, AI generated images, Classification Algorithms in sport, neural networks, chatgpt etc.
+5,27
+6,MALE
+7,The songtext I was unable to understand due to language barriers. The AI was looking for a specific emotion inside the text and was trying to rate it dependent on the audience of the contest.
+8,Very plausible, I do rate the songs the same way but am not able to speak as many languages for myself. So I do look more for the beat and sound instead of the text.
+fai_1,NEUTRAL
+com_2,AGREE
+fai_4,NEUTRAL
+com_3,AGREE
+rel_1,NEUTRAL
+com_5,STRONGLY AGREE
+fai_5,AGREE
+com_1,AGREE
+rel_5,AGREE
+rel_2,AGREE
+fai_2,DISAGREE
+fai_3,NEUTRAL
+1683885499.540733, 1683885553.9910192, 1683885772.8941653

@@ -1,0 +1,31 @@
+362,True,LOSER,WINNER
+342,True,WINNER,WINNER
+478,False,WINNER,LOSER
+769,True,LOSER,WINNER
+497,False,LOSER,LOSER
+698,True,LOSER,LOSER
+458,True,LOSER,LOSER
+439,False,WINNER,WINNER
+325,False,WINNER,WINNER
+745,False,WINNER,WINNER
+1,LIKELY
+2,RARELY
+3,NO, 
+4,YES, "Computer Science Student, Machine Learning course. Also lots of self-lead discovery"
+5,21
+6,MALE
+7,"The lyrics, country of origin and singers of the song, compared against all winners/losers from the years before."
+8,
+fai_3,AGREE
+rel_5,STRONGLY AGREE
+fai_5,NEUTRAL
+rel_2,AGREE
+com_1,AGREE
+com_2,STRONGLY AGREE
+rel_1,NEUTRAL
+fai_1,AGREE
+com_5,STRONGLY AGREE
+com_3,AGREE
+fai_2,DISAGREE
+fai_4,AGREE
+1683234976.329463, 1683235047.3065221, 1683235263.6653323

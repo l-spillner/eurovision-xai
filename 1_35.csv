@@ -1,0 +1,31 @@
+626,False,LOSER,LOSER
+342,True,WINNER,WINNER
+439,False,WINNER,WINNER
+602,True,WINNER,WINNER
+559,True,LOSER,LOSER
+517,False,WINNER,WINNER
+744,True,LOSER,LOSER
+582,False,WINNER,WINNER
+421,False,LOSER,LOSER
+400,True,LOSER,LOSER
+1,LIKELY
+2,SOMETIMES
+3,NO, 
+4,YES, It helped me study for a course I didn't quiet understand. So I would usually ask clarification questions and now my bachelor thesis will have AI in it.
+5,24
+6,PREFER TO SELF-IDENTIFY
+7,I think it is a lot about the lyrics and intruments used in previous winners
+8,I get what the AI was trying to say but it smeed a bit all over the place
+com_2,NEUTRAL
+fai_1,AGREE
+fai_2,DISAGREE
+fai_3,STRONGLY DISAGREE
+com_1,NEUTRAL
+com_3,STRONGLY DISAGREE
+fai_5,DISAGREE
+rel_5,AGREE
+rel_1,NEUTRAL
+rel_2,AGREE
+com_5,NEUTRAL
+fai_4,AGREE
+1683112597.9311943, 1683112631.4714904, 1683113447.1311204

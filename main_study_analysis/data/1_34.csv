@@ -1,0 +1,31 @@
+699,False,WINNER,LOSER
+745,False,WINNER,LOSER
+769,True,LOSER,LOSER
+342,True,LOSER,LOSER
+496,True,LOSER,LOSER
+602,True,LOSER,LOSER
+698,True,WINNER,WINNER
+477,True,LOSER,LOSER
+497,False,LOSER,WINNER
+768,True,WINNER,WINNER
+1,UNLIKELY
+2,MOST YEARS
+3,NO, 
+4,YES, "mostly through humanity's increasing efforts to use AI to solve complex activities such as chess and day-trading, also through experiments like this one and through my studies"
+5,24
+6,MALE
+7,the translation of the song lyrics + knowledge on which kind of messages and songs tend to do well at the ESC
+8,"the AI made reasonable conclusions from the song lyrics, but because it doesn't consider the underlying melody and sound of the song there was always something missing from the explanations given by the AI"
+fai_1,DISAGREE
+com_3,STRONGLY DISAGREE
+fai_3,DISAGREE
+com_5,DISAGREE
+rel_2,NEUTRAL
+fai_5,DISAGREE
+rel_5,AGREE
+com_2,NEUTRAL
+rel_1,DISAGREE
+com_1,DISAGREE
+fai_4,STRONGLY DISAGREE
+fai_2,STRONGLY DISAGREE
+1683066897.377916, 1683067041.7340553, 1683067562.2943397

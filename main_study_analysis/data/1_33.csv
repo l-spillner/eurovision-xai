@@ -1,0 +1,31 @@
+496,True,LOSER,LOSER
+438,True,WINNER,WINNER
+362,True,LOSER,LOSER
+420,True,LOSER,LOSER
+421,False,WINNER,WINNER
+582,False,WINNER,WINNER
+517,False,WINNER,WINNER
+560,False,WINNER,WINNER
+497,False,WINNER,WINNER
+478,False,LOSER,LOSER
+1,UNLIKELY
+2,SOMETIMES
+3,YES, Nicole – Ein Bißchen Frieden
+4,YES, "Following general tech news, as a "technical person" I have of course used chatGPT"
+5,18
+6,MALE
+7,"I think the AI only decided based upon the lyrics. It considers songs with little repetition and positive, shallow and unpolitical to be winners."
+8,"Based on the text it might seem plausible, I'd agree with the decision base myself, but overall I think this lyrics-based approach leaves most of the things to be considered for a song and its performance to be catchy and thrilling on the road."
+com_2,DISAGREE
+fai_1,DISAGREE
+fai_2,STRONGLY DISAGREE
+com_1,STRONGLY DISAGREE
+fai_5,NEUTRAL
+rel_5,AGREE
+com_5,STRONGLY DISAGREE
+rel_1,DISAGREE
+fai_3,STRONGLY DISAGREE
+fai_4,DISAGREE
+com_3,STRONGLY DISAGREE
+rel_2,NEUTRAL
+1683055941.5024261, 1683056263.0488856, 1683057018.8046184
